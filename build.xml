@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. --><project basedir="." default="build" name="chinese_medcine">
+    <property environment="env"/>
+    <property name="ECLIPSE_HOME" value="../../eclipse/jee-latest-released/eclipse/"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.8"/>
+    <property name="source" value="1.8"/>
+    <path id="chinese_medcine.classpath">
+        <pathelement location="bin"/>
+        <pathelement location="lib/bssm.jar"/>
+        <pathelement location="lib/commons-math-2.1.jar"/>
+        <pathelement location="lib/commons-math3-3.0.jar"/>
+        <pathelement location="lib/customizer.jar"/>
+        <pathelement location="lib/ffmpeg-3.2.1-1.3-windows-x86_64.jar"/>
+        <pathelement location="lib/ffmpeg-platform-3.2.1-1.3.jar"/>
+        <pathelement location="lib/flandmark-1.07-1.3.jar"/>
+        <pathelement location="lib/flandmark-platform-1.07-1.3.jar"/>
+        <pathelement location="lib/flycapture-2.9.3.43-1.3-windows-x86_64.jar"/>
+        <pathelement location="lib/flycapture-2.9.3.43-1.3.jar"/>
+        <pathelement location="lib/flycapture-platform-2.9.3.43-1.3.jar"/>
+        <pathelement location="lib/gluegen-rt.jar"/>
+        <pathelement location="lib/gluegen.jar"/>
+        <pathelement location="lib/gnujaxp.jar"/>
+        <pathelement location="lib/icam.jar"/>
+        <pathelement location="lib/iText-2.1.5.jar"/>
+        <pathelement location="lib/javabuilder.jar"/>
+        <pathelement location="lib/javacpp-1.3.jar"/>
+        <pathelement location="lib/javacv-1.3.jar"/>
+        <pathelement location="lib/javacv-platform-1.3.jar"/>
+        <pathelement location="lib/jcommon-1.0.16.jar"/>
+        <pathelement location="lib/jfreechart-1.0.13-experimental.jar"/>
+        <pathelement location="lib/jfreechart-1.0.13-swt.jar"/>
+        <pathelement location="lib/jfreechart-1.0.13.jar"/>
+        <pathelement location="lib/jmf.jar"/>
+        <pathelement location="lib/jogl.all.jar"/>
+        <pathelement location="lib/jogl.awt.jar"/>
+        <pathelement location="lib/jogl.obj.rc8.jar"/>
+        <pathelement location="lib/junit.jar"/>
+        <pathelement location="lib/libdc1394-2.2.4-1.3.jar"/>
+        <pathelement location="lib/libdc1394-platform-2.2.4-1.3.jar"/>
+        <pathelement location="lib/libfreenect-0.5.3-1.3-windows-x86_64.jar"/>
+        <pathelement location="lib/libfreenect-platform-0.5.3-1.3.jar"/>
+        <pathelement location="lib/librealsense-1.9.6-1.3.jar"/>
+        <pathelement location="lib/librealsense-platform-1.9.6-1.3.jar"/>
+        <pathelement location="lib/mediaplayer_2.jar"/>
+        <pathelement location="lib/mediaplayer.jar"/>
+        <pathelement location="lib/multiplayer_2.jar"/>
+        <pathelement location="lib/multiplayer.jar"/>
+        <pathelement location="lib/nativewindow-natives-windows-amd64.jar"/>
+        <pathelement location="lib/opencv-3.1.0-1.3-windows-x86_64.jar"/>
+        <pathelement location="lib/opencv-3.1.0-1.3.jar"/>
+        <pathelement location="lib/opencv-platform-3.1.0-1.3.jar"/>
+        <pathelement location="lib/poi-3.8-20120326.jar"/>
+        <pathelement location="lib/sound.jar"/>
+        <pathelement location="lib/swtgraphics2d.jar"/>
+        <pathelement location="lib/videoinput-0.200-1.3-windows-x86_64.jar"/>
+        <pathelement location="lib/videoinput-0.200-1.3.jar"/>
+        <pathelement location="lib/videoinput-platform-0.200-1.3.jar"/>
+        <pathelement location="lib/weka-src.jar"/>
+        <pathelement location="lib/weka.jar"/>
+        <pathelement location="lib/gluegen-rt-natives-windows-amd64.jar"/>
+        <pathelement location="lib/jogl-all-natives-windows-amd64.jar"/>
+        <pathelement location="lib/gluegen-rt-natives-windows-i586.jar"/>
+        <pathelement location="lib/jogl-all-natives-windows-i586.jar"/>
+    </path>
+    <target name="init">
+        <mkdir dir="bin"/>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="src">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="bi">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="bioDNA">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="chemistry">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="database">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="image">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="JVM">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="medcine">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="network">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="OPGL">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="processor">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="sound">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="OSGI">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="wavelet">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="movie">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="UI">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="NLP">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="bin"/>
+    </target>
+    <target depends="clean" name="cleanall"/>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects"/>
+    <target depends="init" name="build-project">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="bin" includeantruntime="false" source="${source}" target="${target}">
+            <src path="src"/>
+            <src path="bi"/>
+            <src path="bioDNA"/>
+            <src path="chemistry"/>
+            <src path="database"/>
+            <src path="image"/>
+            <src path="JVM"/>
+            <src path="medcine"/>
+            <src path="network"/>
+            <src path="OPGL"/>
+            <src path="processor"/>
+            <src path="sound"/>
+            <src path="OSGI"/>
+            <src path="wavelet"/>
+            <src path="movie"/>
+            <src path="UI"/>
+            <src path="NLP"/>
+            <classpath refid="chinese_medcine.classpath"/>
+        </javac>
+    </target>
+    <target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects"/>
+    <target description="copy Eclipse compiler jars to ant lib directory" name="init-eclipse-compiler">
+        <copy todir="${ant.library.dir}">
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </copy>
+        <unzip dest="${ant.library.dir}">
+            <patternset includes="jdtCompilerAdapter.jar"/>
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </unzip>
+    </target>
+    <target description="compile project with Eclipse compiler" name="build-eclipse-compiler">
+        <property name="build.compiler" value="org.eclipse.jdt.core.JDTCompilerAdapter"/>
+        <antcall target="build"/>
+    </target>
+    <target name="App (2)">
+        <java classname="sample.App" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="App">
+        <java classname="sun.applet.AppletViewer" dir="." failonerror="true" fork="yes">
+            <arg line="App.html"/>
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="bigWord">
+        <java classname="biProcessor.bigWord" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="blendeqn">
+        <java classname="glredbook12x.blendeqn" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="cap">
+        <java classname="sun.applet.AppletViewer" dir="." failonerror="true" fork="yes">
+            <arg line="cap.html"/>
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="coAuthor">
+        <java classname="biProcessor.coAuthor" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="colormatrix">
+        <java classname="glredbook12x.colormatrix" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="colortable">
+        <java classname="glredbook12x.colortable" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="combiner">
+        <java classname="glredbook1314.combiner" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="convolution">
+        <java classname="glredbook12x.convolution" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="cubemap">
+        <java classname="glredbook1314.cubemap" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="demo (2)">
+        <java classname="dft.demo" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="demo (3)">
+        <java classname="dct.demo" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="demo (4)">
+        <java classname="parserProcessor.demo" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="demo (5)">
+        <java classname="cap.demo" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="demo (6)">
+        <java classname="org.tinos.test.demo" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="demo">
+        <java classname="sortProcessor.Demo" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="demo2 (1)">
+        <java classname="org.tinos.utils.demo2" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="demo2">
+        <java classname="sun.applet.AppletViewer" dir="." failonerror="true" fork="yes">
+            <arg line="demo2.html"/>
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="demoex (1)">
+        <java classname="cap.demoex" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="demoex">
+        <java classname="org.tinos.test.DemoEX" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="DemoexCogs">
+        <java classname="org.tinos.test.DemoexCogs" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="DemoPOS">
+        <java classname="org.tinos.test.DemoPOS" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="dictionary (1)">
+        <java classname="sample.zyzdx.dictionary" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="dictionary (2)">
+        <java classname="sample.nk.dictionary" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="dictionary">
+        <java classname="sample.dictionary" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="fftframe">
+        <java classname="dft.fftframe" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="Flash (2)">
+        <java classname="org.LYG.GUI.Flash.Flash" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="fogcoord">
+        <java classname="glredbook1314.fogcoord" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="font">
+        <java classname="glredbook10.font" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="Frame">
+        <java classname="sample.Frame" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="GUIsample3 (1)">
+        <java classname="sun.applet.AppletViewer" dir="." failonerror="true" fork="yes">
+            <arg line="GUIsample3 (1).html"/>
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="histogram">
+        <java classname="glredbook12x.histogram" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="image">
+        <java classname="glredbook11.image" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="LYGSort">
+        <java classname="sortProcessor.LYGSort" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="main">
+        <java classname="button.main" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="main2">
+        <java classname="button.main2" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="main3">
+        <java classname="button.main3" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="MakeImage">
+        <java classname="org.tinos.test.MakeImage" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="minmax">
+        <java classname="glredbook12x.minmax" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="multisamp">
+        <java classname="glredbook1314.multisamp" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="multitex">
+        <java classname="glredbook12x.multitex" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="mvarray">
+        <java classname="glredbook1314.mvarray" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="pointp">
+        <java classname="glredbook1314.pointp" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="quadric">
+        <java classname="glredbook12x.quadric" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="RandW">
+        <java classname="org.tinos.test.RandW" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="recoder (1)">
+        <java classname="recode.recoder" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="recoder">
+        <java classname="SP.recoder" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="scene">
+        <java classname="glredbook10.scene" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="sceneflat">
+        <java classname="glredbook10.sceneflat" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="SetLib">
+        <java classname="sample.SetLib" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="shadowmap">
+        <java classname="glredbook1314.shadowmap" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="smooth">
+        <java classname="glredbook10.smooth" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="test (1)">
+        <java classname="test" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="test (2)">
+        <java classname="demo.test" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="test (3)">
+        <java classname="org.LYG.node.image.Show3D.test" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="test">
+        <java classname="sample.test" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="texgen">
+        <java classname="glredbook11.texgen" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="texsub">
+        <java classname="glredbook11.texsub" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="texture3d">
+        <java classname="glredbook12x.texture3d" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="texturesurf">
+        <java classname="glredbook10.texturesurf" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="ui">
+        <java classname="demo.UI" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="ui10">
+        <java classname="sample.ui10" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="ui11">
+        <java classname="sample.ui11" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="ui2">
+        <java classname="sample.ui2" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="ui3">
+        <java classname="sample.ui3" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="ui4">
+        <java classname="sample.ui4" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="ui5">
+        <java classname="sample.ui5" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="ui6">
+        <java classname="sample.ui6" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="ui7">
+        <java classname="sample.ui7" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="ui8">
+        <java classname="sample.ui8" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="ui9">
+        <java classname="sample.ui9" failonerror="true" fork="yes">
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+    <target name="unicorn_button">
+        <java classname="sun.applet.AppletViewer" dir="." failonerror="true" fork="yes">
+            <arg line="unicorn_button.html"/>
+            <classpath refid="chinese_medcine.classpath"/>
+        </java>
+    </target>
+</project>

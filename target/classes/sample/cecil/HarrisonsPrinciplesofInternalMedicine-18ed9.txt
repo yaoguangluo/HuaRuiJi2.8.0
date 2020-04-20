@@ -1,0 +1,1192 @@
+
+Microbial Bioterrorism: Introduction
+
+Descriptions of the use of microbial pathogens as potential weapons of war or terrorism date from ancient times. Among the most frequently cited of such episodes are the poisoning of water supplies in the sixth century b.c. with the fungus Claviceps purpurea (rye ergot) by the Assyrians, the hurling of the dead bodies of plague victims over the walls of the city of Kaffa by the Tartar army in 1346, and the efforts by the British to spread smallpox to the Native American population loyal to the French via contaminated blankets in 1767. Although the use of chemical weapons in wartime took place in the not-too-distant past (Chap. 222), the tragic events of September 11, 2001, followed closely by the mailing of letters containing anthrax spores to media and congressional offices through the U.S. Postal Service, dramatically changed the mindset of the American public regarding both our vulnerability to microbial bioterrorist attacks and the seriousness and intent of the federal government to protect its citizens against future attacks. Modern science has revealed methods of deliberately spreading or enhancing disease in ways not appreciated by our ancestors. The combination of basic research, good medical practice, and constant vigilance will be needed to defend against such attacks.
+
+Although the potential impact of a bioterrorist attack could be enormous, leading to thousands of deaths and high morbidity rates, acts of bioterrorism would be expected to produce their greatest impact through the fear and terror they generate. In contrast to biowarfare, where the primary goal is destruction of the enemy through mass casualties, an important goal of bioterrorism is to destroy the morale of a society through fear and uncertainty. While the actual biologic impact of a single act may be small, the degree of disruption created by the realization that such an attack is possible may be enormous. This was readily apparent with the impact on the U.S. Postal Service and the functional interruption of the activities of the legislative branch of the United States government following the anthrax attacks noted above. Thus, the key to the defense against these attacks is a highly functioning system of public health surveillance and education so that attacks can be quickly recognized and effectively contained. This is complemented by the availability of appropriate countermeasures in the form of diagnostics, therapeutics, and vaccines, both in response to and in anticipation of bioterrorist attacks.
+
+The Working Group for Civilian Biodefense has put together a list of key features that characterize the elements of biologic agents that make them particularly effective as weapons (Table 221-1). Included among these are the ease of spread and transmission of the agent as well as the presence of an adequate database to allow newcomers to the field to quickly apply the good science of others to bad intentions of their own. Agents of bioterrorism may be used in their naturally occurring forms or they can be deliberately modified to provide maximal impact. Among the approaches to maximizing the deleterious effects of biologic agents are the genetic modification of microbes for the purposes of antimicrobial resistance or evasion by the immune system, creation of fine-particle aerosols, chemical treatment to stabilize and prolong infectivity, and alteration of host range through changes in surface proteins. Certain of these approaches fall under the category of weaponization, which is a term generally used to describe the processing of microbes or toxins in a manner that would ensure a devastating effect of a release. For example, weaponization of anthrax by the Soviets comprised the production of vast amounts of spores in a form that maintained aerosolization for prolonged periods of time; the spores were of appropriate size to reach the lower respiratory tract easily and could be delivered in a massive release, such as via widely dispersed bomblets.
+
+Table 221-1 Key Features of Biologic Agents Used as Bioweapons
+
+ 
+ 
+1. High morbidity and mortality rates 
+2. Potential for person-to-person spread 
+3. Low infective dose and highly infectious by aerosol 
+4. Lack of rapid diagnostic capability 
+5. Lack of universally available effective vaccine 
+6. Potential to cause anxiety 
+7. Availability of pathogen and feasibility of production 
+8. Environmental stability 
+9. Database of prior research and development 
+10. Potential to be "weaponized" 
+ 
+
+
+Source: From L Borio et al: JAMA 287:2391, 2002; with permission.
+ 
+
+The U.S. Centers for Disease Control and Prevention (CDC) classifies potential biologic threats into three categories, A, B, and C (Table 221-2). Category A agents are the highest-priority pathogens. They pose the greatest risk to national security because they (1) can be easily disseminated or transmitted from person to person, (2) result in high mortality rates and have the potential for major public health impact, (3) might cause public panic and social disruption, and (4) require special action for public health preparedness. Category B agents are the second highest priority pathogens and include those that are moderately easy to disseminate, result in moderate morbidity rates and low mortality rates, and require specifically enhanced diagnostic capacity. Category C agents are the third highest priority. These include certain emerging pathogens to which the general population lacks immunity that could be engineered for mass dissemination in the future because of availability, ease of production, to ease of dissemination, and that have a major public health impact and the potential for high morbidity and mortality rates. It should be pointed out, however, that these A, B, and C designations are empirical, and, depending on evolving circumstances such as intelligence-based threat assessments, the priority rating of any given microbe or toxin could change. The CDC classification system also largely reflects the severity of illness produced by a given agent, rather than its accessibility to potential terrorists.
+
+Table 221-2 CDC Category A, B, and C Agents
+
+ 
+ 
+Category A  
+Anthrax (Bacillus anthracis)  
+Botulism (Clostridium botulinum toxin)  
+Plague (Yersinia pestis)  
+Smallpox (Variola major)  
+Tularemia (Francisella tularensis)  
+Viral hemorrhagic fevers 
+  Arenaviruses: Lassa, New World (Machupo, Junin, Guanarito, and Sabia) 
+  Bunyaviridae: Crimean-Congo, Rift Valley 
+  Filoviridae: Ebola, Marburg 
+Category B  
+Brucellosis (Brucella spp.)  
+Epsilon toxin of Clostridium perfringens  
+Food safety threats (e.g., Salmonella spp., Escherichia coli
+
+0157:H7, Shigella)
+ 
+Glanders (Burkholderia mallei)  
+Melioidosis (B. pseudomallei)  
+Psittacosis (Chlamydophila psittaci)  
+Q fever (Coxiella burnetii)  
+Ricin toxin from Ricinus communis (castor beans) 
+Staphylococcal enterotoxin B 
+Typhus fever (Rickettsia prowazekii)  
+Viral encephalitis [alphaviruses (e.g., Venezuelan, eastern, and western equine encephalitis)] 
+Water safety threats (e.g., Vibrio cholerae, Cryptosporidium parvum)  
+Category C  
+Emerging infectious diseases threats such as Nipah, hantavirus, SARS coronavirus, and pandemic influenza. 
+ 
+
+
+Abbreviation:SARS, severe acute respiratory syndrome.
+
+Source: Centers for Disease Control and Prevention and the National Institute of Allergy and Infectious Diseases.
+ 
+ 
+Category A Agents
+
+Anthrax
+
+See also Chap. 138.
+
+Bacillus Anthracis as a Bioweapon
+
+Anthrax may be the prototypic disease of bioterrorism. Although rarely, if ever, spread from person to person, the illness embodies the other major features of a disease introduced through terrorism, as outlined in Table 221-1. U.S. and British government scientists studied anthrax as a potential biologic weapon beginning approximately at the time of World War II (WWII). Offensive bioweapons activity including bioweapons research on microbes and toxins in the United States ceased in 1969 as a result of two executive orders by President Richard M. Nixon. Although the 1972 Biological and Toxin Weapons Convention Treaty outlawed research of this type worldwide, the Soviet Union produced and stored tons of anthrax spores for potential use as a bioweapon until at least the late 1980s. At present, there is suspicion that research on anthrax as an agent of bioterrorism is ongoing by several nations and extremist groups. One example of this is the release of anthrax spores by the Aum Shinrikyo cult in Tokyo in 1993. Fortunately, there were no casualties associated with this episode because of the inadvertent use of a nonpathogenic strain of anthrax by the terrorists.
+
+The potential impact of anthrax spores as a bioweapon was clearly demonstrated in 1979 following the accidental release of spores into the atmosphere from a Soviet Union bioweapons facility in Sverdlosk, Russia. While actual figures are not known, at least 77 cases of anthrax were diagnosed with certainty, of which 66 were fatal. These victims were exposed in an area within 4 km downwind of the facility, and deaths due to anthrax were also noted in livestock up to 50 km further downwind. Based on recorded wind patterns, the interval between the time of exposure and development of clinical illness ranged from 2 to 43 days. The majority of cases were within the first 2 weeks. Death typically occurred within 1每4 days following the onset of symptoms. It is likely that the widespread use of postexposure penicillin prophylaxis limited the total number of cases. The extended period of time between exposure and disease in some individuals supports the data from nonhuman primate studies, suggesting that the anthrax spores can lie dormant in the respiratory tract for at least 4每6 weeks without evoking an immune response. This extended period of microbiologic latency following exposure poses a significant challenge for management of victims in the postexposure period.
+
+In September 2001, the American public was exposed to anthrax spores as a bioweapon delivered through the U.S. Postal Service by an employee of the United States Army Research Institute for Infectious Diseases (USAMRIID) who had access to such materials and who committed suicide prior to being indicted for this crime. The CDC identified 22 confirmed or suspected cases of anthrax as a consequence of this attack. These included 11 patients with inhalational anthrax, of whom 5 died, and 11 patients with cutaneous anthrax (7 confirmed), all of whom survived (Fig. 221-1). Cases occurred in individuals who opened contaminated letters as well as in postal workers involved in the processing of mail. A minimum of five letters mailed from Trenton, NJ, served as the vehicles for these attacks. One of these letters was reported to contain 2 g of material, equivalent to 100 billion to 1 trillion weapon-grade spores. Since studies performed in the 1950s using monkeys exposed to aerosolized anthrax suggested that 10,000 spores were required to produce lethal disease in 50% of animals exposed to this dose (the LD50), the contents of one letter had the theoretical potential, under optimal conditions, of causing illness or death in up to 50 million individuals when one considers an LD50 of 10,000 spores. The strain used in this attack was the Ames strain. Although it was noted to have an inducible -lactamase and to constitutively express a cephalosporinase, it was susceptible to all antibiotics standard for B. anthracis.
+
+Figure 221-1
+
+ 
+ 
+ 
+Confirmed anthrax cases associated with bioterrorism: United States, 2001. A. Geographic location, clinical manifestation, and outcome of the 11 cases of confirmed inhalational and 11 cases of confirmed cutaneous anthrax. B.  Epidemic curve for 22 cases of anthrax. (From DB Jernigan et al: Emerg Infect Dis 8:1019, 2002; with permission.)
+ 
+ 
+
+Microbiology and Clinical Features
+
+Anthrax is caused by B. anthracis, a gram-positive, nonmotile, spore-forming rod that is found in soil and predominantly causes disease in herbivores such as cattle, goats, and sheep. Anthrax spores can remain viable for decades. The remarkable stability of these spores makes them an ideal bioweapon, and their destruction in decontamination activities can be a challenge. Naturally occurring human infection is generally the result of contact with anthrax-infected animals or animal products such as goat hair in textile mills or animal skins used in making drums. While an LD50 of 10,000 spores is a generally accepted number, it has also been suggested that as few as one to three spores may be adequate to cause disease in some settings. Advanced technology is likely to be necessary to generate spores of the optimal size (1每5 m) to travel to the alveolar spaces as a bioweapon.
+
+The three major clinical forms of anthrax are gastrointestinal, cutaneous, and inhalational. Gastrointestinal anthrax typically results from the ingestion of contaminated meat; the condition is rarely seen and is unlikely to be the result of a bioterrorism event. The lesion of cutaneous anthrax typically begins as a papule following the introduction of spores through an opening in the skin. This papule then evolves to a painless vesicle followed by the development of a coal-black, necrotic eschar (Fig. 221-2). It is the Greek word for coal (anthrax) that gives the organism and the disease its name. Cutaneous anthrax was 20% fatal prior to the availability of antibiotics. Inhalational anthrax is the form most likely to be responsible for death in the setting of a bioterrorist attack. It occurs following the inhalation of spores that become deposited in the alveolar spaces. These spores are phagocytosed by macrophages and transported to the mediastinal and peribronchial lymph nodes where they germinate, leading to active bacterial growth and elaboration of the bacterial products edema toxin and lethal toxin. Subsequent hematogenous spread of bacteria is accompanied by cardiovascular collapse and death. The earliest symptoms are typically a viral-like prodrome with fever, malaise, and abdominal and/or chest symptoms that progress over the course of a few days to a moribund state. A characteristic finding is mediastinal widening and pleural effusions on chest x-ray (Fig. 221-3). While initially thought to be 100% fatal, the experiences at Sverdlosk in 1979 and in the United States in 2001 (see below) indicate that with prompt initiation of antibiotic therapy, survival is possible. The characteristics of the 11 cases of inhalational anthrax diagnosed in the United States in 2001 following exposure to contaminated letters postmarked September 18 or October 9, 2001, followed the classic pattern established for this illness, with patients presenting with a rapidly progressive course characterized by fever, fatigue or malaise, nausea or vomiting, cough, and shortness of breath. At presentation, the total white blood cell counts were 10,000 cells/L; transaminases tended to be elevated, and all 11 had abnormal findings on chest x-ray and CT. Radiologic findings included infiltrates, mediastinal widening, and hemorrhagic pleural effusions. For cases in which the dates of exposure were known, symptoms appeared within 4每6 days. Death occurred within 7 days of diagnosis in the five fatal cases (overall mortality rate 55%). Rapid diagnosis and prompt initiation of antibiotic therapy were key to survival.
+
+Figure 221-2
+
+ 
+ 
+ 
+ 
+ 
+Clinical manifestations of a pediatric case of cutaneous anthrax associated with the bioterrorism attack of 2001. The lesion progresses from vesicular on day 5 (A) to necrotic with the classic black eschar on day 12 (B) to a healed scar 2 months later (C). (Photographs provided by Dr. Mary Wu Chang and (A) reprinted with permission of theNew England Journal of Medicine.)
+ 
+ 
+
+Figure 221-3
+
+ 
+ 
+ 
+Progression of chest x-ray findings in a patient with inhalational anthrax. Findings evolved from subtle hilar prominence and right perihilar infiltrate to a progressively widened mediastinum, marked perihilar infiltrates, peribronchial cuffing, and air bronchograms. (From L Borio et al: JAMA 286:2554, 2001; with permission.)
+ 
+ 
+
+Treatment: Anthrax
+
+Anthrax can be successfully treated if the disease is promptly recognized and appropriate therapy is initiated early. While penicillin, ciprofloxacin, and doxycycline are the currently licensed antibiotics for this indication, clindamycin and rifampin also have in vitro activity against the organism and have been used as part of treatment regimens. Until sensitivity results are known, suspected cases are best managed with a combination of broadly active agents (Table 221-3). Patients with inhalational anthrax are not contagious and do not require special isolation procedures.
+
+Table 221-3 Clinical Syndromes, Prevention, and Treatment Strategies for Diseases Caused by Category A Agents
+
+ 
+ 
+Agent Clinical Syndrome Incubation Period Diagnosis Treatment Prophylaxis 
+Bacillus anthracis (anthrax) Cutaneous lesion:
+
+Papule to eschar 1每12 days
+ Culture, Gram stain, PCR, Wright stain of peripheral smear Postexposure:
+
+Ciprofloxacin, 500 mg, PO bid x 60 d or
+Doxycycline, 100 mg PO bid x 60 d or
+Amoxicillin, 500 mg PO q8h, likely to be effective if strain penicillin sensitive
+Active disease:
+
+Ciprofloxacin, 400 mg IV q12h or Doxycycline, 100 mg IV q12h plus
+Clindamycin, 900 mg IV q8h and/or rifampin, 300 mg IV q12h; switch to PO when stable x 60 d total
+Antitoxin strategies:
+
+Neutralizing monoclonal and polyclonal antibodies are under study Anthrax vaccine adsorbed
+
+Recombinant protective antigen vaccines are under study
+ 
+Inhalational disease:
+
+Fever, malaise, chest and abdominal discomfort
+Pleural effusion, widened mediastinum on chest x-ray 1每60 days
+ 
+Yersinia pestis (pneumonic plague) Fever, cough, dyspnea, hemoptysis
+
+Infiltrates and consolidation on chest x-ray
+ 1每6 days Culture, Gram stain, direct fluorescent antibody, PCR Gentamicin, 2.0 mg/kg IV loading then 1.7 mg/kg q8h IV or
+
+Streptomycin, 1.0 g q12h IM or IV
+
+Alternatives include doxycycline, 100 mg bid PO or IV; chloramphenicol, 500 mg qid PO or IV
+ Doxycycline, 100 mg PO bid (ciprofloxacin may also be active)
+
+Formalin-fixed vaccine (FDA licensed; not available)
+ 
+Variola major (smallpox) Fever, malaise, headache, backache, emesis
+
+Maculopapular to vesicular to pustular skin lesions
+ 7每17 days Culture, PCR, electron microscopy Supportive measures; consideration for cidofovir, antivaccinia immunoglobulin Vaccinia immunization 
+Francisella tularensis (tularemia) Fever, chills, malaise, myalgia, chest discomfort, dyspnea, headache, skin rash, pharyngitis, conjunctivitis
+
+Hilar adenopathy on chest x-ray
+ 1每14 days Gram stain, culture, immunohistochemistry, PCR Streptomycin, 1 g IM bid or
+
+Gentamicin, 5 mg/kg per day div q8h IV for 14 days or
+
+Doxycycline, 100 mg IV bid or
+
+Chloramphenicol, 15 mg/kg up to 1 gm IV qid or
+
+Ciprofloxacin, 400 mg IV bid
+ Doxycycline, 100 mg PO bid x 14 days or
+
+Ciprofloxacin, 500 mg PO bid x 14 days
+ 
+Viral hemorrhagic fevers Fever, myalgia, rash, encephalitis, prostration 2每21 days RT-PCR, serologic testing for antigen or antibody
+
+Viral isolation by CDC or U.S. Army Medical Research Institute of Infectious Diseases (USAMRIID)
+ Supportive measures
+
+Ribavirin 30 mg/kg up to 2 g x 1, followed by 16 mg/kg IV up to 1 g q6h for 4 days, followed by 8 mg/kg IV up to 0.5 g q8h x 6 days
+ No known chemoprophylaxis 
+
+Consideration for ribavirin in high-risk situations
+ 
+Botulinum toxin (Clostridium botulinum)  Dry mouth, blurred vision, ptosis, weakness, dysarthria, dysphagia, dizziness, respiratory failure, progressive paralysis, dilated pupils 12每72 h Mouse bioassay, toxin immunoassay Supportive measures including ventilation, HBAT equine antitoxin from the CDC Emergency Operations Center, 770-488-7100 Administration of antitoxin 
+ 
+
+
+Abbreviations: CDC, U.S. Centers for Disease Control and Prevention; FDA, U.S. Food and Drug Administration; HBAT, heptavalent botulinum antitoxin; PCR, polymerase chain reaction; RT-PCR, reverse transcriptase PCR.
+ 
+
+Vaccination and Prevention
+
+The first successful vaccine for anthrax was developed for animals by Louis Pasteur in 1881. At present, the single vaccine licensed for human use is a product produced from the cell-free culture supernatant of an attenuated, nonencapsulated strain of B. anthracis (Stern strain), referred to as anthrax vaccine adsorbed (AVA). Clinical trials for safety in humans and efficacy in animals are currently under way to evaluate the role of recombinant protective antigen (one of the major components, along with lethal factor and edema factor, of B. anthracis toxins) as an alternative to AVA. In a postexposure setting in non-human primates, a 2-week course of AVA + ciprofloxacin was found to be superior to ciprofloxacin alone in preventing the development of clinical disease and death. While the current recommendation for postexposure prophylaxis is 60 days of antibiotics, it would seem prudent to include immunization with anthrax vaccine if available. Given the potential for B. anthracis to be engineered to express penicillin resistance, the empirical regimen of choice in this setting is either ciprofloxacin or doxycycline.
+
+Plague
+
+See also Chap. 159.
+
+Yersinia Pestis as a Bioweapon
+
+Although it lacks the environmental stability of anthrax, the highly contagious nature and high mortality rate of plague make it a close to ideal agent of bioterrorism, particularly if delivered in a weaponized form. Occupying a unique place in history, plague has been alleged to have been used as a biologic weapon for centuries. The catapulting of plague-infected corpses into besieged fortresses is a practice that was first noted in 1346 during the assault of the city of Kaffa by the Tartars. Although unlikely to have resulted in disease transmission, some believe that this event may have played a role in the start of the Black Death pandemic of the fourteenth and fifteenth centuries in Europe. Given that plague was already moving across Asia toward Europe at this time, it is unclear whether such an allegation is accurate. During WWII, the infamous Unit 731 of the Japanese army was reported to have repeatedly dropped plague-infested fleas over parts of China, including Manchuria. These drops were associated with subsequent outbreaks of plague in the targeted areas. Following WWII, the United States and the Soviet Union conducted programs of research on how to create aerosolized Y. pestis that could be used as a bioweapon to cause primary pneumonic plague. As mentioned above, plague was thought to be an excellent bioweapon due to the fact that in addition to causing infection in those inhaling the aerosol, significant numbers of secondary cases of primary pneumonic plague would likely occur due to the contagious nature of the disease and person-to-person transmission via respiratory aerosol. Secondary reports of research conducted during that time suggest that organisms remain viable for up to 1 h and can be dispersed for distances up to 10 km. While the offensive bioweapons program in the United States was terminated prior to production of sufficient quantities of plague organisms for use as a weapon, it is believed that Soviet scientists did manufacture quantities sufficient for such a purpose. It has also been reported that more than 10 Soviet Institutes and >1000 scientists were working with plague as a biologic weapon. Of concern is the fact that in 1995 a microbiologist in Ohio was arrested for having obtained Y. pestis in the mail from the American Type Culture Collection, using a credit card and a false letterhead. In the wake of this incident, the U.S. Congress passed a law in 1997 requiring that anyone intending to send or receive any of 42 different agents that could potentially be used as bioweapons first register with the CDC.
+
+Microbiology and Clinical Features
+
+Plague is caused by Y. pestis, a nonmotile, gram-negative bacillus that exhibits bipolar, or "safety pin," staining with Wright, Giemsa, or Wayson stains. It has had a major impact on the course of history, thus adding to the element of fear evoked by its mention. The earliest reported plague epidemic was in 224 b.c. in China. The most infamous pandemic began in Europe in the fourteenth century, during which time one-third to one-half of the entire population of Europe was killed. During a plague outbreak in India in 1994, even though the number of confirmed cases was relatively small, it is estimated that 500,000 individuals fled their homes in fear of this disease.
+
+The clinical syndromes of plague generally reflect the mode of infection. Bubonic plague is the consequence of an insect bite; primary pneumonic plague arises through the inhalation of bacteria. Most of the plague seen in the world today is bubonic plague and is the result of a bite by a plague-infected flea. In part as a consequence of past pandemics, plague infection of rodents exists widely in nature, including in the southwestern United States, and each year thousands of cases of plague occur worldwide through contact with infected animals or fleas. Following inoculation of regurgitated bacteria into the skin by a flea bite, organisms travel through the lymphatics to regional lymph nodes, where they are phagocytized but not destroyed. Inside the cell, they multiply rapidly leading to inflammation, painful lymphadenopathy with necrosis, fever, bacteremia, septicemia, and death. The characteristic enlarged, inflamed lymph nodes, or buboes, give this form of plague its name. In some instances, patients may develop bacteremia without lymphadenopathy following infection, a condition referred to as primary septicemic plague. Extensive ecchymoses may develop due to disseminated intravascular coagulation, and gangrene of the digits and/or nose may develop in patients with advanced septicemic plague. It is thought that this appearance of some patients gave rise to the term Black Death in reference to the plague epidemic of the fourteenth and fifteenth centuries. Some patients may develop pneumonia (secondary pneumonic plague) as a complication of bubonic or septicemic plague. These patients may then transmit the agent to others via the respiratory route, causing cases of primary pneumonic plague. Primary pneumonic plague is the manifestation most likely to occur as the result of a bioterrorist attack, with an aerosol of bacteria spread over a wide area or a particular environment that is densely populated. In this setting, patients would be expected to develop fever, cough with hemoptysis, dyspnea, and gastrointestinal symptoms 1每6 days following exposure. Clinical features of pneumonia would be accompanied by pulmonary infiltrates and consolidation on chest x-ray. In the absence of antibiotics, the mortality rate of this disease is on the order of 85%, and death usually occurs within 2每6 days.
+
+Treatment: Plague
+
+Streptomycin, tetracycline, and doxycycline are licensed by the U.S. Food and Drug Administration (FDA) for the treatment of plague. Multiple additional antibiotics licensed for other infections are commonly used and are likely effective. Among these are aminoglycosides such as gentamicin, cephalosporins, trimethoprim/sulfamethoxazole, chloramphenicol, and ciprofloxacin (Table 221-3). A multidrug-resistant strain of Y. pestis was identified in 1995 from a patient with bubonic plague in Madagascar. While this organism was resistant to streptomycin, ampicillin, chloramphenicol, sulfonamides, and tetracycline, it retained its susceptibility to other aminoglycosides and cephalosporins. Given the subsequent identification of a similar organism in 1997 coupled with the fact that this resistance is plasmid-mediated, it seems likely that genetically modifying Y. pestis to a multidrug-resistant form is possible. Unlike patients with inhalational anthrax (see above), patients with pulmonary plague should be cared for under conditions of strict respiratory isolation comparable to that used for multidrug-resistant tuberculosis.
+
+Vaccination and Prevention
+
+A formalin-fixed, whole-organism vaccine was licensed by the FDA for the prevention of plague. That vaccine is no longer being manufactured, but its potential value as a current countermeasure against bioterrorism would likely have been modest at best as it was ineffective against animal models of primary pneumonic plague. Efforts are under way to develop a second generation of vaccines that will protect against aerosol challenge. Among the candidates being tested are recombinant forms of the F1 and V antigens of Y. pestis. It is likely that doxycycline or ciprofloxacin would provide coverage in a chemoprophylaxis setting. Unlike the case with anthrax, in which one has to be concerned about the persistence of ungerminated spores in the respiratory tract, the duration of prophylaxis against plague need only extend to 7 days following exposure.
+
+Smallpox
+
+See also Chap. 183.
+
+Variola Virus as a Bioweapon
+
+Given that most of the world's population was once vaccinated against smallpox, variola virus would not have been considered a good candidate as a bioweapon 30 years ago. However, with the cessation of immunization programs in the United States in 1972 and throughout the world in 1980 due to the successful global eradication of smallpox, close to 50% of the U.S. population is fully susceptible to smallpox today. Given its infectious nature and the 10每30% mortality rate in unimmunized individuals, the deliberate spread of this virus could have a devastating effect on our society and unleash a previously conquered deadly disease. It is estimated that an initial infection of 50每100 persons in a first generation of cases could expand by a factor of 10每20 with each succeeding generation in the absence of any effective containment measures. While the likely implementation of an effective public health response makes this scenario unlikely, it does illustrate the potential damage and disruption that can result from a smallpox outbreak.
+
+In 1980, the World Health Organization (WHO) recommended that all immunization programs be terminated; that representative samples of variola virus be transferred to two locations, one at the CDC in Atlanta, GA, in the United States and the other at the Institute of Virus Preparations in the Soviet Union; and that all other stocks of smallpox be destroyed. Several years later, it was recommended that these two authorized collections be destroyed. However, these latter recommendations were placed on hold in the wake of increased concerns on the use of variola virus as a biologic weapon and thus the need to maintain an active program of defensive research. Many of these concerns were based upon allegations made by former Soviet officials that extensive programs had been in place in that country for the production and weaponization of large quantities of smallpox virus. The dismantling of these programs with the fall of the Soviet Union and the subsequent weakening of security measures led to fears that stocks of V. major may have made their way to other countries or terrorist organizations. In addition, accounts that efforts had been taken to produce recombinant strains of Variola that would be more virulent and more contagious than the wild-type virus have led to an increase in the need to be vigilant for the reemergence of this often fatal infectious disease.
+
+Microbiology and Clinical Features
+
+Smallpox is caused by one of two variants of variola virus, V. major and V. minor. Variola is a double-strand DNA virus and member of the Orthopoxvirus genus of the Poxviridae family. Infections with V. minor are generally less severe than those of V. major, with milder constitutional symptoms and lower mortality rates; thus V. major is the only one considered to be a viable bioweapon. Infection with V. major typically occurs following contact with an infected person. Patients are infectious from the time that a maculopapular rash appears on the skin and oropharynx through the resolution and scabbing of the pustular lesions. Infection occurs principally during close contact, through the inhalation of saliva droplets containing virus from the oropharyngeal exanthem. Aerosolized material from contaminated clothing or linen can also spread infection. Several days after exposure, a primary viremia is believed to occur that results in dissemination of virus to lymphoid tissues. A secondary viremia occurs 4 days later that leads to localization of infection in the dermis. Approximately 12每14 days following the initial exposure, the patient develops high fever, malaise, vomiting, headache, backache, and a maculopapular rash that begins on the face and extremities and spreads to the trunk (centripetal) with lesions in the same developmental stage in any given location. This is in contrast to the rash of varicella (chickenpox) that begins on the trunk and face and spreads to the extremities (centrifugal) with lesions at all stages of development. The lesions are initially maculopapular and evolve to vesicles that eventually become pustules and then scabs. The oral mucosa also develops maculopapular lesions that evolve to ulcers. The lesions appear over a period of 1每2 days and evolve at the same rate. Although virus can be isolated from the scabs on the skin, the conventional thinking is that once the scabs have formed the patient is no longer contagious. Smallpox is associated with 10每30% mortality rates, with patients typically dying of severe systemic illness during the second week of symptoms. Historically, 5每10% of naturally occurring smallpox cases take either of two highly virulent atypical forms, classified as hemorrhagic and malignant. These are difficult to diagnose because of their atypical presentations. The hemorrhagic form is uniformly fatal and begins with the relatively abrupt onset of a severely prostrating illness characterized by high fevers and severe headache and back and abdominal pain. This form of the illness resembles a severe systemic inflammatory syndrome, in which patients have a high viremia but die without developing the characteristic rash. Cutaneous erythema develops accompanied by petechiae and hemorrhages into the skin and mucous membranes. Death usually occurs within 5每6 days. The malignant, or "flat," form of smallpox is frequently fatal and has an onset similar to the hemorrhagic form, but with confluent skin lesions developing more slowly and never progressing to the pustular stage.
+
+Treatment: Smallpox
+
+Given the infectious nature of smallpox and the extreme vulnerability of contemporary society, patients who are suspected cases should be handled with strict isolation procedures. While laboratory confirmation of a suspected case by culture, PCR and electron microscopy is essential, it is equally important that appropriate precautions be employed when obtaining samples for culture and laboratory testing. All health care and laboratory workers caring for patients should have been recently immunized with vaccinia, and all samples should be transported in doubly sealed containers. Patients should be cared for in negative-pressure rooms with strict isolation precautions.
+
+There is no licensed specific therapy for smallpox, and historic treatments have focused solely on supportive care. While several antiviral agents, including cidofovir, that are licensed for other diseases have in vitro activity against V. major, they have never been tested in the setting of human disease. For this reason, it is difficult to predict whether or not they would be effective in cases of smallpox and, if effective, whether or not they would be of value in patients with advanced disease. Research programs studying the efficacy of new antiviral compounds (ST-246 and others) against V. major are currently under way.
+
+Vaccination and Prevention
+
+In 1796, Edward Jenner demonstrated that deliberate infection with cowpox virus could prevent illness on subsequent exposure to smallpox. Today, smallpox is a preventable disease following immunization with vaccinia. The current dilemma facing our society regarding assessment of the risk and benefit of smallpox vaccination is that the degree of risk that someone will deliberately and effectively release smallpox into our society is unknown. As a prudent first step in preparedness for a smallpox attack, virtually all members of the U.S. armed services have received primary or booster immunizations with vaccinia. In addition, tens of thousands of civilian health care workers who comprise smallpox-response teams at the state and local public health level have been vaccinated.
+
+Initial fears regarding the immunization of a segment of the American population with vaccinia when there are more individuals receiving immunosuppressive drugs and other immunocompromised patients than ever before were dispelled by the data generated from the military and civilian immunization campaigns of 2002每2004. Adverse event rates for the first 450,000 immunizations were similar to and, in certain categories of adverse events, even lower than those from prior historic data, in which most severe sequelae of vaccination occurred in young infants (Table 221-4). In addition, 11 patients with early-stage HIV infection were inadvertently immunized without problem. One significant concern during that immunization campaign, however, was the description of a syndrome of myopericarditis, which had not been appreciated during prior immunization campaigns with vaccinia. In an effort to provide a safer vaccine to protect against smallpox, ACAM 2000, a cloned virus propagated in tissue culture, was developed and became the first second-generation smallpox vaccine to be licensed. This vaccine is now used by the U.S. military and is part of the U.S. government stockpile. Research continues on attenuated forms of vaccinia such as modified vaccinia Ankara (MVA). Vaccinia immune globulin is available to treat those who experience a severe reaction to immunization with vaccinia.
+
+Table 221-4 Complications from 438,134 Administrations of Vaccinia during the United States Department of Defense (DOD) Smallpox Immunization Campaign Initiated in December 2002
+
+ 
+ 
+Complication Number of Cases DOD Rate per Million Vaccinees (95% Confidence Interval) Historic Rate Per Million Vaccinees 
+Mild or temporary:       
+  Generalized vaccinia, mild 35 67 (52, 85) 45每212a  
+  Inadvertent inoculation, self 62 119 (98, 142) 606a  
+  Vaccinia transfer to contact 28 53 (40, 69) 8每27a  
+Moderate or serious:       
+  Encephalitis 1 2.2 (0.6, 7.2) 2.6每8.7a  
+  Acute myopericarditis 69 131 (110, 155) 100b  
+  Eczema vaccinatum 0 0 (0, 3.7) 2每35a  
+  Progressive vaccinia 0 0 (0, 3.7) 1每7a  
+  Death 1c  1.9 (0.2, 5.6) 1每2a  
+ 
+
+
+a Based on adolescent and adult smallpox vaccinations from 1968 studies, both primary and revaccinations.
+
+bBased on case series in Finnish military recruits given the Finnish strain of smallpox vaccine.
+
+c Potentially attributable to vaccination; after lupus-like illness.
+
+Source: From JD Grabenstein and W Winkenwerder: http://www.smallpox.mil/event/SPSafetySum.asp.
+ 
+
+Tularemia
+
+See also Chap. 158.
+
+Francisella Tularensis as a Bioweapon
+
+Tularemia has been studied as an agent of bioterrorism since the mid-twentieth century. It has been speculated by some that the outbreak of tularemia among German and Soviet soldiers during fighting on the Eastern Front during WWII was the consequence of a deliberate release. Unit 731 of the Japanese Army studied the use of tularemia as a bioweapon during WWII. Large preparations were made for mass production of F. tularensis by the United States, but no stockpiling of any agent took place. Stocks of F. tularensis were reportedly generated by the Soviet Union in the mid-1950s. It has also been suggested that the Soviet program extended into the era of molecular biology and that some strains were engineered to be resistant to common antibiotics. F. tularensis is an extremely infectious organism, and human infections have occurred from merely examining an uncovered petri dish streaked with colonies. Given these facts, it is reasonable to conclude that this organism might be utilized as a bioweapon through either an aerosol or contamination of food or drinking water.
+
+Microbiology and Clinical Features
+
+While similar in many ways to anthrax and plague, tularemia, also referred to as rabbit fever or deer fly fever, is neither as lethal nor as fulminant as either of these other two category A bacterial infections. It is, however, extremely infectious, and as few as 10 organisms can lead to establishment of infection. Despite this fact, it is not spread from person to person. Tularemia is caused by F. tularensis, a small, nonmotile, gram-negative coccobacillus. Although it is not a spore-forming organism, it is a hardy bacterium that can survive for weeks in the environment. Infection typically comes from insect bites or contact with organisms in the environment. Infections have occurred in laboratory workers studying the agent. Large waterborne outbreaks have been recorded. It is most likely that the outbreak among German and Russian soldiers and Russian civilians noted above during WWII represented a large waterborne tularemia outbreak in a Tularensis-enzootic area devastated by warfare.
+
+Humans can become infected through a variety of environmental sources. Infection is most common in rural areas where a variety of small mammals may serve as reservoirs. Human infections in the summer are often the result of insect bites from ticks, flies, or mosquitoes that have bitten infected animals. In colder months, infections are most likely the result of direct contact with infected mammals and are most common in hunters. In these settings, infection typically presents as a systemic illness with an area of inflammation and necrosis at the site of tissue entry. Drinking of contaminated water may lead to an oropharyngeal form of tularemia characterized by pharyngitis with cervical and/or retropharyngeal lymphadenopathy (Chap. 158). The most likely mode of dissemination of tularemia as a biologic weapon would be as an aerosol, as has occurred in a number of natural outbreaks in rural areas, including Martha's Vineyard in the United States. Approximately 1每14 days following exposure by this route, one would expect to see inflammation of the airways with pharyngitis, pleuritis, and bronchopneumonia. Typical symptoms would include the abrupt onset of fever, fatigue, chills, headache, and malaise (Table 221-3). Some patients might experience conjunctivitis with ulceration, pharyngitis, and/or cutaneous exanthems. A pulse-temperature dissociation might be present. Approximately 50% of patients would show a pulmonary infiltrate on chest x-ray. Hilar adenopathy might also be present, and a small percentage of patients could have adenopathy without infiltrates. The highly variable presentation makes acute recognition of aerosol-disseminated tularemia very difficult. The diagnosis would likely be made by immunohistochemistry or culture of infected tissues or blood. Untreated, mortality rates range from 5 to 15% for cutaneous routes of infection and from 30 to 60% for infection by inhalation. Since the advent of antibiotic therapy, these rates have dropped to <2%.
+
+Treatment: Tularemia
+
+Both streptomycin and doxycycline are licensed for treatment of tularemia. Other agents likely to be effective include gentamicin, chloramphenicol, and ciprofloxacin (Table 221-3). Given the potential for genetic modification of this organism to yield antibiotic-resistant strains, broad-spectrum coverage should be the rule until sensitivities have been determined. As mentioned above, special isolation procedures are not required.
+
+Vaccination and Prevention
+
+There are no vaccines currently licensed for the prevention of tularemia. While a live, attenuated strain of the organism has been used in the past with some reported success, there are inadequate data to support its widespread use at this time. Development of a vaccine for this agent is an important part of the current biodefense research agenda. In the absence of an effective vaccine, postexposure chemoprophylaxis with either doxycycline or ciprofloxacin appears to be a reasonable approach (Table 221-3).
+
+Viral Hemorrhagic Fevers
+
+See also Chaps. 196 and 197.
+
+Hemorrhagic Fever Viruses as Bioweapons
+
+Several of the hemorrhagic fever viruses have been reported to have been weaponized by the Soviet Union and the United States. Nonhuman primate studies indicate that infection can be established with very few virions and that infectious aerosol preparations can be produced. Under the guise of wanting to aid victims of an Ebola outbreak, members of the Aum Shinrikyo cult in Japan were reported to have traveled to central Africa in 1992 in an attempt to obtain Ebola virus for use in a bioterrorist attack. Thus, while there has been no evidence that these agents have ever been used in a biologic attack, there is clear interest in their potential for this purpose.
+
+Microbiology and Clinical Features
+
+The viral hemorrhagic fevers are a group of illnesses caused by any one of a number of similar viruses (Table 221-2). These viruses are all enveloped, single-strand RNA viruses that are thought to depend upon a host reservoir for long-term survival. While rodents or insects have been indentified as the hosts for some of these viruses, for others the hosts are unknown. These viruses tend to be geographically restricted according to the migration patterns of their hosts. Great apes are not a natural reservoir for Ebola virus, but large numbers of these animals in sub-Saharan Africa have died from Ebola infection over the past decade. Humans can become infected with hemorrhagic fever viruses if they come into contact with an infected host or other infected animals. Person-to-person transmission, largely through direct contact with virus-containing body fluids, has been documented for Ebola, Marburg, and Lassa viruses and rarely for the New World arenaviruses. While there is no clear evidence of respiratory spread among humans, these viruses have been shown in animal models to be highly infectious by the aerosol route. This, coupled with mortality rates as high as 90%, makes them excellent candidate agents of bioterrorism.
+
+The clinical features of the viral hemorrhagic fevers vary depending upon the particular agent (Table 221-3). Initial signs and symptoms typically include fever, myalgia, prostration, and disseminated intravascular coagulation with thrombocytopenia and capillary hemorrhage. These findings are consistent with a cytokine-mediated systemic inflammatory syndrome. A variety of different maculopapular or erythematous rashes may be seen. Leukopenia, temperature-pulse dissociation, renal failure, and seizures may also be part of the clinical presentation.
+
+Outbreaks of most of these diseases are sporadic and unpredictable. As a consequence, most studies of pathogenesis have been performed using laboratory animals. The diagnosis should be suspected in anyone with temperature >38.3～C for <3 weeks who also exhibits at least two of the following: hemorrhagic or purpuric rash, epistaxis, hematemesis, hemoptysis, or hematochezia in the absence of any other identifiable cause. In this setting, samples of blood should be sent after consultation to the CDC or the USAMRIID for serologic testing for antigen and antibody as well as reverse transcriptasepolymerase chain reaction (RT-PCR) testing for hemorrhagic fever viruses. All samples should be handled with double-bagging. Given how little is known regarding the human-to-human transmission of these viruses, appropriate isolation measures would include full barrier precautions with negative-pressure rooms and use of powered air-purifying respirators (PAPRs). Unprotected skin contact with cadavers has been implicated in the transmission of certain hemorrhagic fever viruses such as Ebola, so it is recommended that autopsies of suspected cases be performed using the strictest measures for protection and that burial or cremation be performed promptly without embalming.
+
+Treatment: Viral Hemorrhagic Fevers
+
+There are no approved and effective antiviral therapies for this class of viruses (Table 221-3). While there are anecdotal reports of the efficacy of ribavirin, interferon-, or hyperimmune immunoglobulin, definitive data are lacking. The best data for ribavirin are in arenavirus (Lassa and New World) infections. In some in vitro systems, specific immunoglobulin has been reported to enhance infectivity, and thus these potential treatments must be approached with caution.
+
+Vaccination and Prevention
+
+There are no licensed and effective vaccines for these agents. Studies are currently under way examining the potential role of DNA, recombinant viruses, and attenuated viruses as vaccines for several of these infections. Among the most promising at present are vaccines for Argentine, Ebola, Rift Valley, and Kayasanur Forest viruses.
+
+Botulism Toxin (Clostridium Botulinum)
+
+See also Chap. 141.
+
+Botulinum Toxin as a Bioweapon
+
+In a bioterrorist attack, botulinum toxin would likely be dispersed as an aerosol or as contamination of a food supply. While contamination of a water supply is possible, it is likely that any toxin would be rapidly inactivated by the chlorine used to purify drinking water. Similarly, toxin can be inactivated by heating any food to >85～C for >5 min. Without external facilitation, the environmental decay rate is estimated at 1% per minute, and thus the time interval between weapon release and ingestion or inhalation needs to be rather short. The Japanese biologic warfare group, Unit 731, is reported to have conducted experiments on botulism poisoning in prisoners in the 1930s. The United States and the Soviet Union both acknowledged producing botulinum toxin, and there is some evidence that the Soviet Union attempted to create recombinant bacteria containing the gene for botulinum toxin. In records submitted to the United Nations, Iraq admitted to having produced 19,000 L of concentrated toxin'enough toxin to kill the entire population of the world three times over. By many accounts, botulinum toxin was the primary focus of the pre-1991 Iraqi bioweapons program. In addition to these examples of state-supported research into the use of botulinum toxin as a bioweapon, the Aum Shinrikyo cult unsuccessfully attempted on at least three occasions to disperse botulinum toxin into the civilian population of Tokyo.
+
+Microbiology and Clinical Features
+
+Unique among the category A agents for not being a live microorganism, botulinum toxin is one of the most potent toxins ever described and is thought by some to be the most poisonous substance in existence. It is estimated that 1 g of botulinum toxin would be sufficient to kill 1 million individuals if adequately dispersed. Botulinum toxin is produced by the gram-positive, spore-forming anaerobe C. botulinum (Chap. 141). Its natural habitat is soil. There are seven antigenically distinct forms of botulinum toxin, designated A每G. The majority of naturally occurring human cases are of types A, B, and E. Antitoxin directed toward one of these will have little to no activity against the others. The toxin is a 150-kDa zinc-containing protease that prevents the intracellular fusion of acetylcholine vesicles with the motor neuron membrane, thus preventing the release of acetylcholine. In the absence of acetylcholine-dependent triggering of muscle fibers, a flaccid paralysis develops. Although botulism does not spread from person to person, the ease of production of the toxin coupled with its high morbidity and 60每100% mortality make it a close to ideal bioweapon.
+
+Botulism can result from the growth of C. botulinum infection in a wound or the intestine, the ingestion of contaminated food, or the inhalation of aerosolized toxin. The latter two forms are the most likely modes of transmission for bioterrorism. Once toxin is absorbed into the bloodstream, it binds to the neuronal cell membrane, enters the cell, and cleaves one of the proteins required for the intracellular binding of the synaptic vesicle to the cell membrane, thus preventing release of the neurotransmitter to the membrane of the adjacent muscle cell. Patients initially develop multiple cranial nerve palsies that are followed by a descending flaccid paralysis. The extent of the neuromuscular compromise is dependent upon the level of toxemia. The majority of patients experience diplopia, dysphagia, dysarthria, dry mouth, ptosis, dilated pupils, fatigue, and extremity weakness. There are minimal true central nervous system effects, and patients rarely show significant alterations in mental status. Severe cases can involve complete muscular collapse, loss of the gag reflex, and respiratory failure, requiring weeks or months of ventilator support. Recovery requires the regeneration of new motor neuron synapses with the muscle cell, a process that can take weeks to months. In the absence of secondary infections, which may be common during the protracted recovery phase of this illness, patients remain afebrile. The diagnosis is suspected on clinical grounds and confirmed by a mouse bioassay or toxin immunoassay.
+
+Treatment: Botulism
+
+Treatment for botulism is mainly supportive and may require intubation, mechanical ventilation, and parenteral nutrition (Table 221-3). If diagnosed early enough, administration of equine antitoxin may reduce the extent of nerve injury and decrease the severity of disease. At present, a heptavalent botulinum antitoxin (HBAT) is available through the CDC as an investigational agent for treatment of naturally occurring noninfant botulism. HBAT contains horse serum〞derived antibody fragments to all seven known botulinum toxins (A〞G). It is composed of <2% intact immunoglobulin and 90% Fab and F(ab')2 immunoglobulin fragments. A single dose of antitoxin is usually adequate to neutralize any circulating toxin. Repeat dosing may be needed in a setting of continued toxin exposure. Given that this product is derived from horse serum, one needs to be vigilant for hypersensitivity reactions, including serum sickness and anaphylaxis following its administration. Once the damage to the nerve axon has been done, however, there is little possible in the way of specific therapy. At this point, vigilance for secondary complications such as infections during the protracted recovery phase is of the utmost importance. Due to their ability to worsen neuromuscular blockade, aminoglycosides and clindamycin should be avoided in the treatment of these infections.
+
+Vaccination and Prevention
+
+A botulinum toxoid preparation has been used as a vaccine for laboratory workers at high risk of exposure and in certain military situations; however, it is not currently available in quantities that could be used for the general population. At present, early recognition of the clinical syndrome and use of appropriate equine antitoxin is the mainstay of prevention of full-blown disease in exposed individuals. The development of human monoclonal antibodies as a replacement for equine antitoxin antibodies is an area of active research interest.
+ 
+Category B and C Agents
+
+The category B agents include those that are easy or moderately easy to disseminate and result in moderate morbidity and low mortality rates. A listing of the current category B agents is provided in Table 221-2. As can be seen, it includes a wide array of microorganisms and products of microorganisms. Several of these agents have been used in bioterrorist attacks, although never with the impact of the Category A agents described above. Among the more notorious of these was the contamination of salad bars in Oregon in 1984 with Salmonella typhimurium by the religious cult Rajneeshee. In this outbreak, which many consider to be the first bioterrorist attack against U.S. citizens, >750 individuals were poisoned and 40 were hospitalized in an effort to influence a local election. The intentional nature of this outbreak went unrecognized for more than a decade.
+
+Category C agents are the third highest priority agents in the biodefense agenda. These agents include emerging pathogens to which little or no immunity exists in the general population, such as the severe acute respiratory syndrome (SARS) coronavirus or pandemic-potential strains of influenza that could be obtained from nature and deliberately disseminated. These agents are characterized as being relatively easy to produce and disseminate, having high morbidity and mortality rates and having a significant public health impact. There is no running list of category C agents at the present time.
+ 
+Prevention and Preparedness
+
+As noted above, a large and diverse array of agents has the potential to be used in a bioterrorist attack. In contrast to the military situation with biowarfare, where the primary objective is to inflict mass casualties on a healthy and prepared militia, the objectives of bioterrorism are to harm civilians as well as to create fear and disruption among the civilian population. While the military needs only to prepare their troops to deal with the limited number of agents that pose a legitimate threat of biowarfare, the public health system needs to prepare the entire civilian population to deal with the multitude of agents and settings that could be utilized in a bioterrorism attack. This includes anticipating issues specific to the very young and the very old, the pregnant patient, and the immunocompromised individual. The challenges in this regard are enormous and immediate. While military preparedness emphasizes vaccines toward a limited number of agents, civilian preparedness needs to rely upon rapid diagnosis and treatment of a wide array of conditions.
+
+The medical profession must maintain a high index of suspicion that unusual clinical presentations or the clustering of cases of a rare disease may not be a chance occurrence but rather the first sign of a bioterrorist event. This is particularly true when such diseases occur in traditionally healthy populations, when surprisingly large numbers of rare conditions occur, and when diseases commonly seen in rural settings appear in urban populations. Given the importance of rapid diagnosis and early treatment for many of these conditions, it is essential that the medical care team report any suspected cases of bioterrorism immediately to local and state health authorities and/or to the CDC (888-246-2675). Enhancements have been made to the public health surveillance network to facilitate the rapid sharing of information among public health agencies.
+
+At present a series of efforts are in place to ensure the biomedical security of the civilian population of the United States. The Public Health Service is moving toward a more highly trained, fully deployable force. The Strategic National Stockpile (SNS) maintained by the CDC provides rapid access to quantities of pharmaceuticals, antidotes, vaccines, and other medical supplies that may be of value in the event of biologic or chemical terrorism. The SNS has two basic components. The first of these consists of "push packages" that can be deployed anywhere in the United States within 12 h. These push packages are a preassembled set of supplies, pharmaceuticals, and medical equipment ready for immediate delivery to the field. They provide treatment for a variety of conditions given the fact that an actual threat may not have been precisely identified at the time of stockpile deployment. The contents of the push packs are constantly updated to ensure that they reflect current needs as determined by national security threat assessments; they include antibiotics for treatment of anthrax, plague, and tularemia as well as a cache of vaccine to deal with a smallpox threat. The second component of the SNS comprises inventories managed by specific vendors and consists of the provision of additional pharmaceuticals, supplies, and/or products tailored to the specific attack.
+
+The number of FDA-approved and -licensed drugs and vaccines for category A and B agents is currently limited and not reflective of the pharmacy of today. In an effort to speed the licensure of additional drugs and vaccines for these diseases, the FDA has a rule for the licensure of such countermeasures against agents of bioterrorism when adequate and well-controlled clinical efficacy studies cannot be ethically conducted in humans. This is commonly referred to as the "Animal Rule." Thus, for indications in which field trials of prophylaxis or therapy for a naturally occurring disease are not feasible, the FDA will rely on evidence solely from laboratory animal studies. For this rule to apply, it must be shown that (1) there are reasonably well-understood pathophysiologic mechanisms for the condition and its treatment; (2) the effect of the intervention is independently substantiated in at least two animal species, including species expected to react with a response predictive for humans; (3) the animal study endpoint is clearly related to the desired benefit in humans; and (4) the data in animals allow selection of an effective dose in humans.
+
+Finally, the Biomedical Advanced Research and Development Authority (BARDA) was established within the U.S. Department of Health and Human Services to provide an integrated, systematic approach to the development and purchase of the necessary vaccines, drugs, therapies, and diagnostic tools for public health medical emergencies. BARDA manages Project BioShield, an initiative established to facilitate biodefense research within the federal government, create a stable source of funding for the purchase of countermeasures against agents of bioterrorism, and create a category of "emergency use authorization" to allow the FDA to approve the use of unlicensed countermeasures during times of extraordinary unmet needs, as might be present in the context of a bioterrorist attack.
+
+While the prospect of a deliberate attack on civilians with disease-producing agents may seem to be an act of incomprehensible evil, history shows us that it is something that has been done in the past and will likely be done again in the future. It is the responsibility of health care providers to be aware of this possibility, to be able to recognize early signs of a potential bioterrorist attack and alert the public health system, and to respond quickly to provide care to the individual patient. Among the web sites with current information on microbial bioterrorism are www.bt.cdc.gov, www.niaid.nih.gov, and www.cidrap.umn.edu.
+ 
+Further Readings
+
+Alibek K, Handelman S: Biohazard: The Chilling True Story of the Largest Covert Biological Weapons in the World, Told from the Inside by the Man Who Ran It. New York, Random House, 1999 
+
+ 
+Croddy E (with C Perey-Armendariz and J Hart): Chemical and Biological Warfare: A Comprehensive Survey for the Concerned Citizen. New York, Copernicus Books, 2001 
+
+ 
+Henderson DA et al (eds): Bioterrorism: Guidelines for Medical and Public Health Management. JAMA and Archives Journals, AMA Press, 2002 
+
+ 
+Jernigan JA et al: Bioterrorism-related inhalational anthrax: The first 10 cases reported in the United States. Emerg Infect Dis 7:933, 2001[PMID: 11747719] 
+
+ 
+Kennedy RB et al: Smallpox vaccines for biodefense. Vaccine 27: D73, 2009 
+
+ 
+Nalca A, Zumbrun EE: ACAM2000TM: The new smallpox vaccine for United States Strategic National Stockpile. Drug Des Devel Ther 4:71, 2010[PMID: 20531961] 
+
+ 
+Rusnak JM et al: Risk of occupationally acquired illnesses from biological threat agents in unvaccinated laboratory workers. Biosecur Bioterror 2:281, 2004[PMID: 15650438] 
+
+ 
+Wilkening DA: Sverdlovsk revisited: Modeling human inhalation anthrax. Proc Natl Acad Sci USA 103:20, 2006 
+ 
+ 
+
+^^
+Chemical Terrorism: Introduction
+
+The use of chemical warfare agents (CWAs) in modern warfare dates back to World War I (WWI). Most recently, sulfur mustard and nerve agents were used by Iraq against the Iranian military and Kurdish civilians. Since the Japanese sarin attacks in 1994每1995 and the terrorist strikes of September 11, 2001, the all too real possibility of chemical or biological terrorism against civilian populations anywhere in the world has attracted increased attention.
+
+Military planners consider the WWI blistering agent sulfur mustard and the organophosphorus nerve agents as the most likely agents to be used on the battlefield. In a civilian or terrorist scenario, the choice widens considerably. For example, many of the chemical warfare agents of WWI, including chlorine, phosgene, and cyanide, are used today in large amounts in industry. They are produced in chemical plants, are stockpiled in large tanks, and travel up and down highways and railways in large tanker cars. The rupture of any of these agents by accident or purposely could cause many injuries and deaths. Countless hazardous materials (HAZMATs) that are not used on the battlefield can be used as terrorist weapons. Some of them, including insecticides and ammonia, could wreak as much damage and injury as the weaponized chemical agents.
+
+In a recent example, insurgents in Iraq used chlorine gas released from tankers after explosions as a crude form of chemical weaponry. Using this gas, they killed 12 people and intoxicated more than 140 others in three attacks in February 2007. Table 222-1 describes the physical appearance and initial physiologic effects, and Table 222-2 provides guidelines for immediate treatment of chlorine intoxication. Nonetheless, the focus of this chapter is on the blister and nerve chemical warfare agents, which have been employed in battle and against civilians and have demonstrated a significant public health impact.
+
+Table 222-1 Recognizing and Diagnosing Health Effects of Chemical Terrorism
+
+ 
+ 
+Agent Agent Name Unique Characteristics Initial Effects 
+Nerve Cyclohexyl sarin (GF)a
+
+Sarin (GB)
+
+Soman (GD)
+
+Tabun (GA)
+
+VX
+
+VR
+ Miosis (pinpoint pupils)
+
+Copious secretions
+
+Muscle twitching/fasciculations
+ Miosis (pinpoint pupils)
+
+Blurred/dim vision
+
+Headache
+
+Nausea, vomiting, diarrhea
+
+Copious secretions/sweating
+
+Muscle twitching/fasciculations
+
+Breathing difficulty
+
+Seizures
+ 
+Asphyxiant/blood Arsine
+
+Cyanogen chloride
+
+Hydrogen cyanide
+ Possible cherry-red skin
+
+Possible cyanosis
+
+Possible frostbiteb
+ Confusion
+
+Nausea
+
+Patients may gasp for air, similar to asphyxiation but more abrupt onset
+
+Seizures before death
+ 
+Choking/pulmonary-damaging Chlorine
+
+Hydrogen chloride
+
+Nitrogen oxides
+
+Phosgene
+ Chlorine is a greenish-yellow gas with pungent odor
+
+Phosgene gas smells like newly mown hay or grass
+
+Possible frostbitea
+ Eye and skin irritation
+
+Airway irritation
+
+Dyspnea, cough
+
+Sore throat
+
+Chest tightness
+ 
+Blistering/vesicant Mustard/sulfur mustard (HD, H)
+
+Mustard gas (H)
+
+Nitrogen mustard (HN-1, HN-2, HN-3)
+
+Lewisite (L)
+
+Phosgene oxime (CX)
+ Mustard (HD) has an odor like burning garlic or horseradish
+
+Lewisite (L) has an odor like penetrating geranium
+
+Phosgene oxime (CX) has a pepperish or pungent odor
+ Severe irritation
+
+Redness and blisters of the skin
+
+Tearing, conjunctivitis, corneal damage
+
+Mild respiratory distress to marked airway damage
+
+May cause death
+ 
+Incapacitating/behavior-altering Agent 15/BZ May appear as mass drug intoxication with erratic behaviors, shared realistic and distinct hallucinations, disrobing, and confusion
+
+Hyperthermia
+
+Mydriasis (dilated pupils)
+ Dry mouth and skin
+
+Initial tachycardia
+
+Altered consciousness, delusions, denial of illness, belligerence
+
+Hyperthermia
+
+Ataxia (lack of coordination)
+
+Hallucinations
+
+Mydriasis (dilated pupils)
+ 
+ 
+
+
+a Letters in parentheses indicate NATO codes for designated agents.
+
+b Frostbite may occur from skin contact with liquid arsine, cyanogen chloride, or phosgene.
+
+Source: State of New York, Department of Health, as modified by the Chemical Casualty Care Division, U.S. Army Medical Research Institute of Chemical Defense.
+ 
+Table 222-2 Decontamination and Treatment of Chemical Terrorism
+
+ 
+ 
+Agent Decontamination First Aid Other Patient Considerations 
+Nerve Remove clothing immediately
+
+Gently wash skin with soap and water
+
+Do not abrade skin
+
+For eyes, flush with plenty of water or normal saline
+ Atropine before other measures
+
+Pralidoxime (2-PAM) chloride
+ Onset of symptoms from dermal contact with liquid forms may be delayed 
+
+Repeated antidote administration may be necessary
+ 
+Asphyxiant/blood Remove clothing immediately if no frostbitea
+
+Gently wash skin with soap and water
+
+Do not abrade skin
+
+For eyes, flush with plenty of water or normal saline
+ Rapid treatment with oxygen
+
+For cyanide, use antidotes (sodium nitrite and then sodium thiosulfate)
+ Arsine and cyanogen chloride may cause delayed pulmonary edema 
+Choking/pulmonary-damaging Remove clothing immediately if no frostbitea
+
+Gently wash skin with soap and water
+
+Do not abrade skin
+
+For eyes, flush with plenty of water or normal saline
+ Fresh air, forced rest
+
+Semiupright position
+
+If signs of respiratory distress are present, oxygen with or without positive airway pressure may be needed
+
+Other supportive therapy, as needed
+ May cause delayed pulmonary edema, even after a symptom-free period that varies in duration with the amount inhaled 
+Blistering/vesicant Immediate decontamination is essential to minimize damage
+
+Remove clothing immediately
+
+Gently wash skin with soap and water
+
+Do not abrade skin
+
+For eyes, flush with plenty of water or normal saline
+ Immediately decontaminate skin
+
+Flush eyes with water or normal saline for 10每15 min
+
+If breathing difficulty, give oxygen
+
+Supportive care
+ Mustard has an asymptomatic latent period
+
+There is no antidote or treatment for mustard
+
+Lewisite has immediate burning pain, blisters later
+
+Specific antidote British anti-lewisite (BAL) may decrease systemic effects of lewisite
+
+Phosgene oxime causes immediate pain
+
+Possible pulmonary edema
+ 
+Incapacitating/behavior-altering Remove clothing immediately
+
+Gently wash skin with water or soap and water
+
+Do not abrade skin
+ Remove heavy clothing
+
+Evaluate mental status
+
+Use restraints as needed
+
+Monitor core temperature carefully
+
+Supportive care
+ Hyperthermia and self-injury are largest risks
+
+Hard to detect because it is an odorless and nonirritating substance
+
+Possible serious arrhythmias
+
+Specific antidote (physostigmine) may be available
+ 
+ 
+
+
+a For frostbite areas, DO NOT remove any adhering clothing. Wash area with plenty of warm water to release clothing.
+
+Source: State of New York, Department of Health.
+ 
+
+Many mistakenly believe that chemical attacks will always be so severe that little can be done except to bury the dead. History proves the opposite. Even in WWI, when IV fluids, endotracheal tubes, and antibiotics were unavailable, the mortality rate among U.S. forces on the battlefield from chemical warfare agents, chiefly sulfur mustard and the pulmonary intoxicants, was only 1.9%. That was far lower than the 7% mortality rate from conventional wounds. In the 1995 Tokyo subway sarin incident, among the 5500 patients who sought medical attention at hospitals, 80% of whom were not actually symptomatic, only 12 died. Recent events should produce not a fatalistic attitude but a realistic wish to understand the pathophysiology of the syndromes these agents cause, with a view to treating expeditiously all patients who present for care and an expectation of saving the vast majority. As we prepare to defend our civilian population from the effects of chemical terrorism, we also must consider the fact that terrorism itself can produce sequelae such as physiologic or neurologic effects that may resemble the effects of nonlethal exposures to CWAs. These effects are due to a general fear of chemicals, fear of decontamination, fear of protective ensemble, or other phobic reactions.
+
+Many writers have pointed out the increased difficulty in differentiating between stress reactions and nerve agent〞induced organic brain syndromes. Knowledge of the behavioral effects of CWAs and their medical countermeasures is imperative to ensure that military and civilian medical and mental health organizations can deal with possible incidents involving weapons of mass destruction.
+
+For the reader's benefit, the chemical warfare agents, their North Atlantic Treaty Organization (NATO) codes, and their initial effects are listed in Table 222-1.
+
+Vesicants
+
+Sulfur Mustard
+
+Sulfur mustard has been a military threat since it first appeared on the battlefield in Belgium during WWI. In modern times it remains a threat on the battlefield as well as a potential terrorist threat for bioterrorism because of simplicity of manufacture and extreme effectiveness. Sulfur mustard accounted for 70% of the 1.3 million chemical casualties in WWI. Occasional cases occur in the United States in people exposed to WWI and WWII-era munitions.
+
+Mechanism
+
+Sulfur mustard constitutes both a vapor and a liquid threat to all exposed epithelial surfaces. The effects are delayed, appearing hours after exposure. The organs most commonly affected are the skin (with erythema and vesicles), eyes (ranging from mild conjunctivitis to severe eye damage), and airways (ranging from mild upper airway irritation to severe bronchiolar damage). After exposure to large quantities of mustard, precursor cells of the bone marrow are damaged, leading to pancytopenia and secondary infection. The gastrointestinal mucosa may be damaged, and there are sometimes central nervous system (CNS) signs of unknown mechanism. No specific antidotes exist; management is entirely supportive. Immediate decontamination of the liquid is the only way to reduce damage. Complete decontamination in 2 minutes stops clinical injury; decontamination at 5 minutes will reduce skin injury by 50%. Table 222-2 lists approaches to decontamination of mustard and other CWAs.
+
+Mustard dissolves slowly in aqueous media such as sweat, but once dissolved, it rapidly forms extremely reactive cyclic ethylene sulfonium ions, which react with cell proteins, cell membranes, and especially DNA in rapidly dividing cells. The ability of mustard to react with and alkylate DNA gives rise to the effects by which it has been characterized as "radiomimetic," similar to radiation injury. Mustard has many biologic actions, but its actual mechanism of action is largely unknown. Much of the biologic damage from mustard results from DNA alkylation and cross-linking in rapidly dividing cells: corneal epithelium, basal keratinocytes, bronchial mucosal epithelium, gastrointestinal mucosal epithelium, and bone marrow precursor cells. This may lead to cellular death and inflammatory reactions. In the skin, proteolytic digestion of anchoring filaments at the epidermal-dermal junction may be the major mechanism of action resulting in blister formation. Mustard also has mild cholinergic activity, which may be responsible for effects such as early gastrointestinal and CNS symptoms.
+
+Mustard reacts with tissue within minutes of entering the body. Its circulating half-life in unaltered form is extremely brief.
+
+Clinical Features
+
+Topical effects of mustard occur in the skin, airways, and eyes, with the eyes being most sensitive, followed by the airways. Absorbed mustard may produce effects in the bone marrow, gastrointestinal tract, and CNS. Direct injury to the gastrointestinal tract also may occur after ingestion of the compound through contamination of water or food.
+
+Erythema is the mildest and earliest form of mustard skin injury. It resembles sunburn and is associated with pruritus, burning, or stinging pain. Erythema begins to appear within 2 hours to 2 days after vapor exposure. Time of onset depends on severity of exposure, ambient temperature and humidity, and type of skin. The most sensitive sites are the warm moist locations and thin delicate skin, such as the perineum, external genitalia, axillae, antecubital fossae, and neck.
+
+Within the erythematous areas, small vesicles can develop, which may later coalesce to form bullae (Fig. 222-1). The typical bulla is large, dome-shaped, flaccid, thin-walled, translucent, and surrounded by erythema. The blister fluid, a transudate, is clear to straw colored and becomes yellow, tending to coagulate. The fluid does not contain mustard and is not itself a vesicant. Lesions from high-dose liquid exposure may develop a central zone of coagulation necrosis with blister formation at the periphery. These lesions take longer to heal and are more prone to secondary infection than are the uncomplicated lesions seen at lower exposure levels. Severe lesions may require skin grafting.
+
+Figure 222-1
+
+ 
+ 
+ 
+Large bulla formation from mustard burn in a patient. Although the blisters on this patient involved only 7% of the body surface area, this patient still required hospitalization in a burn intensive care unit.
+ 
+ 
+
+
+The primary airway lesion is necrosis of the mucosa with possible damage to underlying smooth muscle. The damage begins in the upper airways and descends to the lower airways in a dose-dependent manner. Usually the terminal airways and alveoli are affected only as a terminal event. Pulmonary edema is not usually present unless the damage is very severe, and then it becomes hemorrhagic.
+
+The earliest effects from mustard and perhaps the only effects from a low concentration involve the nose, sinuses, and pharynx. There may be irritation or burning of the nares, epistaxis, sinus pain, and pharyngeal pain. As the concentration increases, laryngitis, voice changes, and nonproductive cough develop. Damage to the trachea and upper bronchi leads to a productive cough. Lower airway involvement causes dyspnea, severe cough, and increasing quantities of sputum. Terminally, there may be necrosis of the smaller airways with hemorrhagic edema into surrounding alveoli. Hemorrhagic pulmonary edema is rare.
+
+Necrosis of airway mucosa causes "pseudomembrane" formation. These membranes may cause obstruction of the bronchi. During WWI, high-dose mustard exposure caused acute death via this mechanism in a small minority of cases (Fig. 222-2).
+
+Figure 222-2
+
+ 
+ 
+ 
+Schematic diagram of pseudomembrane formation as is seen in high-dose sulfur mustard vapor inhalation exposure. In World War I, severe inhalation exposure often caused death via obstruction of large airways.
+ 
+ 
+
+
+The eyes are the organs most sensitive to mustard vapor injury. The latent period is shorter for eye injury than for skin injury and is also exposure concentration〞dependent. After low-dose vapor exposure, irritation evidenced by reddening of the eyes may be the only effect. As the dose increases, the injury includes progressively more severe conjunctivitis, photophobia, blepharospasm, pain, and corneal damage (Fig. 222-3).
+
+Figure 222-3
+
+ 
+ 
+ 
+World War I photograph of troops exposed to sulfur mustard vapor. The vast majority of these troops survived with no long-term damage to the eyes; however, they were effectively rendered blind for days to weeks.
+ 
+ 
+
+About 90% of eye injuries related to mustard heal in 2 weeks to 2 months without sequelae. Scarring between the iris and the lens may follow severe effects; this scarring may restrict pupillary movements and predispose victims to glaucoma. The most severe damage is caused by liquid mustard. After extensive eye exposure, severe corneal damage with possible perforation of the cornea and loss of the eye can occur. In some individuals, a latent chronic keratitis sometimes associated with corneal ulcerations has been described as early as 8 months and as late as 20 years after initial exposure.
+
+The mucosa of the gastrointestinal tract is susceptible to mustard damage from either systemic absorption or ingestion of the agent. Mustard exposure in small amounts will cause nausea and vomiting lasting up to 24 hours. The mechanism of the nausea and vomiting is not understood, but mustard does have a cholinergic-like effect. The CNS effects of mustard also remain poorly defined. Large exposures can cause seizures in animals. Reports from WWI and from the Iran-Iraq war described people exposed to small amounts of mustard acting sluggish, apathetic, and lethargic. These reports suggest that minor psychological problems could linger for a year or longer.
+
+The cause of death in the majority of mustard poisoning cases is sepsis and respiratory failure. Mechanical obstruction via pseudomembrane formation and agent-induced laryngospasm is important in the first 24 hours, but only in cases of severe exposure. From the third through the fifth day after exposure, one can expect a secondary pneumonia due to bacterial invasion of denuded necrotic mucosa. The third wave of death is caused by agent-induced bone marrow suppression, which peaks 7每21 days after exposure and causes death via sepsis.
+
+Treatment: Sulfur Mustard
+
+A patient severely ill from mustard poisoning requires the general supportive care provided for any severely ill patient as well as the specific care given to a burn patient. Liberal use of systemic analgesics, maintenance of fluid and electrolyte balance, nutrition, appropriate antibiotics, and other supportive measures are necessary (Table 222-2).
+
+The management of a patient exposed to mustard may range from simple, as in the provision of symptomatic care for a sunburn-like erythema, to complex, as in providing total management for a severely ill patient with burns, immunosuppression, and multisystem involvement. Before raw denuded areas of skin develop, especially with less severe exposures, topical cortisone creams or lotions may be of benefit. Some very basic research data point to the early use of anti-inflammatory preparations. Small blisters (<1每2 cm) should be left intact. Because larger bullae eventually will break, they should be unroofed carefully. Denuded areas should be irrigated three to four times daily with saline, other sterile solutions, or soapy water and then liberally covered with the topical antibiotic of choice, such as silver sulfadiazine or mafenide acetate, to a thickness of 1每2 mm. Some physicians advocate sterile needle drainage of large blisters, collapsing the blister roof to form a sterile dressing. Mustard blister fluid does not contain sulfur mustard, only sterile tissue fluid. Health care staff should not fear possible contamination. If an antibiotic cream is not available, sterile petrolatum will be useful. Modified Dakins solution (sodium hypochlorite 0.5%) was used both in WWI and in Iranian casualties (1984每1987) for field-expedient irrigation and antisepsis. Large areas of vesication require hospitalization, IV therapy, and whirlpool bath irrigation.
+
+Systemic analgesics should be used liberally, particularly before manipulation of the patient. Monitoring of fluids and electrolytes is important in any sick patient, but it must be recognized that fluid loss is not of the magnitude seen with thermal burns. Overly rigorous hydration seems to have precipitated pulmonary edema in a few Iranian casualties sent to European hospitals.
+
+Conjunctival irritation from a low vapor exposure will respond to any of a number of available ophthalmic solutions after the eyes are irrigated thoroughly. A topical antibiotic applied several times a day will reduce the incidence and severity of infection. Animal laboratory data have shown remarkable results with commercially available topical antibiotic/glucocorticoid ophthalmologic ointments applied early. An ophthalmologist should be consulted. Topical glucocorticoids are not of proven value, but their use during the first few hours or days might significantly reduce inflammation and subsequent damage. Further use should be relegated to an ophthalmologist.
+
+Vaseline or a similar substance should be applied regularly to the edges of the lids to prevent them from sticking together. Topical analgesics may be useful initially if blepharospasm is too severe to permit an adequate examination; however, topical analgesics have limited value.
+
+A productive cough and dyspnea accompanied by fever and leukocytosis occurring within 12每24 hours are indicative of a chemical pneumonitis. The clinician must resist the urge to use prophylactic antibiotics for this process. Infection often occurs on the third to fifth day and is signaled by an increased fever, pulmonary infiltrate, and an increase in sputum production with a change in color. Appropriate antibiotic therapy should await confirmation by Gram stain and, later, positive culture and sensitivity.
+
+Intubation may be necessary if laryngeal spasm or edema makes it difficult or becomes life threatening. Intubation permits better ventilation and facilitates suction of the necrotic and inflammatory debris. Early use of positive end-expiratory pressure (PEEP) or continuous positive airway pressure (CPAP) may be beneficial. Pseudomembrane formation may require fiberoptic bronchoscopy for suctioning of the necrotic debris.
+
+Bronchodilators are of benefit for bronchospasm. If additional relief of bronchospasm is needed, glucocorticoids should be used. There is little evidence that the routine use of glucocorticoids is beneficial, except for additional relief of bronchospasm.
+
+Leukopenia begins around day 3 with major systemic absorption. Marrow suppression peaks at 7每14 days. In the Iran-Iraq war, a white blood cell count of 200/L usually resulted in death of the patient. Sterilization of the gut by nonabsorbable antibiotics should be considered to reduce the possibility of sepsis from enteric organisms. Cellular replacement (bone marrow transplants or transfusions) may be successful. Granulocyte colony-stimulating factor (G-CSF) produced a 50% reduction in the time for the bone marrow to recover in nonhuman primates exposed to sulfur mustard. Medication for nausea and vomiting may be necessary for gastrointestinal side effects. Lymphopenia precedes general leukopenia by a day or more, and may be a useful clinical tip-off to impending leukopenia.
+
+Excellent assessments of the contributions of DNA alkylation, inflammation, activation of proteolytic enzymes, or lipid peroxidation to the mustard injury have been developed in the last 15每20 years. Some examples include (1) the demonstration of up to 75% reduction of inflammation and tissue damage in the mouse ear swelling test by vanilloid compounds and (2) the demonstration of 50每60% protection by N-acetylcysteine in the generation of free radicals within guinea pig lung exposed to mustard. In many cases, the demonstration of protection is dependent on the availability of sufficient amounts of drug with adequate half-lives. Strategies to enhance bioavailability include attachment of polyethylene glycol to the antioxidant drug/enzyme and delivery of the drug/enzyme in a liposome (or both).
+
+Nerve Agents
+
+The organophosphorus nerve agents are the deadliest of the CWAs. They work by inhibition of tissue synaptic acetylcholinesterase, creating an acute cholinergic crisis. Death ensues because of respiratory depression and can occur within seconds to minutes.
+
+The nerve agents tabun and sarin were first used on the battlefield by Iraq against Iran during the first Persian Gulf War (1984每1987). Estimates of casualties from these agents range from 20,000每100,000. In 1994 and 1995, the Japanese cult Aum Shinrikyo used sarin in two terrorist attacks in Matsumoto and Tokyo. Two US soldiers were exposed to sarin while rendering safe an improvised explosive device in Iraq in 2004.
+
+The "classic" nerve agents include tabun (GA), sarin (GB), soman (GD), cyclosarin (GF), and VX. VR, similar to VX, was manufactured in the former Soviet Union (Table 222-1). The two-letter codes were established by a NATO international convention and convey no clinical implications. All the nerve agents are organophosphorus compounds, which are liquid at standard temperature and pressure. The "G" agents evaporate at about the rate of water, except for GF, which is oily and thus probably will have evaporated within 24 hours after deposition on the ground. Their high volatility thus makes a spill of any amount a serious vapor hazard. In the Tokyo subway attack in which sarin was used, 100% of the symptomatic patients inhaled sarin vapor that spilled out on the floor of the subway cars. VX, an oily liquid, is the exception. Its low vapor pressure makes it much less of a vapor hazard but potentially a greater environmental hazard because it persists in the environment far longer.
+
+Mechanism
+
+Acetylcholinesterase inhibition accounts for the major life-threatening effects of nerve agent poisoning. Reversal of this inhibition by antidotal therapy is effective, proving that this is the primary toxic action of these poisons. At cholinergic synapses, acetylcholinesterase, bound to the postsynaptic membrane, functions as a turn-off switch to regulate cholinergic transmission. Inhibition of acetylcholinesterases causes the released neurotransmitter, acetylcholine, to accumulate abnormally. End organ overstimulation, which is recognized by clinicians as a cholinergic crisis, ensues (Fig. 222-4).
+
+Figure 222-4
+
+ 
+ 
+ 
+Schematic diagram of the pathophysiology of nerve agent exposure. Nerve agent () binds to the active site of acetylcholinesterase (AChE), which is shown as floating free in space but is in reality a postsynaptic membrane-bound enzyme. As a result, acetylcholine (), which normally is released from presynaptic membrane but normally is degraded, accumulates, and this leads () to organ overstimulation and cholinergic crisis.
+ 
+ 
+
+Clinical Features
+
+Clinical effects of nerve agent exposure are identical for vapor and liquid exposure routes if the dose is sufficiently large. The speed and order of symptom onset will differ (Table 222-2).
+
+Exposure of a patient to nerve agent vapor, overwhelmingly the more likely route of exposure in both battlefield and terrorist scenarios, will cause cholinergic symptoms in the order in which the toxin encounters cholinergic synapses. The most exposed synapses on the integument of the human are in the pupillary muscles. Nerve agent vapor easily crosses the cornea, interacts with these synapses, and produces miosis, described by Tokyo subway victims as "the world going black." Rarely, this also can cause eye pain and nausea. Exocrine glands in the nose, mouth, and pharynx next become exposed to the vapor, and cholinergic overload here causes increased secretions, rhinorrhea, excess salivation, and drooling. Next, toxin interacts with exocrine glands in the upper airway, causing bronchorrhea, and with bronchial smooth muscle, causing bronchospasm. This combination of events can cause hypoxia.
+
+Once the victim has inhaled, vapor can passively cross the alveolar-capillary membrane, enter the bloodstream, and incidentally and asymptomatically inhibit circulating cholinesterases, particularly free butyrylcholinesterase and erythrocyte acetylcholinesterase, both of which can be assayed. Unfortunately, the assay may not be easily interpreted without a baseline, since cholines-terase levels vary enormously between subjects and over time in an individual, healthy patient.
+
+Usually the first organ system to become symptomatic from bloodborne nerve agent exposure is the gastrointestinal tract, where cholinergic overload causes abdominal cramping and pain, nausea, vomiting, and diarrhea. After the gastrointestinal tract is involved, nerve agents will affect the heart, distant exocrine glands, muscles, and brain. Because there are cholinergic synapses on both the vagal (parasympathetic) and sympathetic sides of the autonomic input to the heart, one cannot predict how heart rate and blood pressure will change once intoxication has occurred. Remote exocrine activity will include oversecretion in the salivary, nasal, respiratory, and sweat glands〞the patient will be "wet all over." Bloodborne nerve agents will overstimulate neuromuscular junctions in skeletal muscles, causing fasciculations followed by frank twitching. If the process goes on long enough, eventually ATP in muscles will be depleted and flaccid paralysis will ensue.
+
+In the brain, since the cholinergic system is so widely distributed, bloodborne nerve agents will, in sufficient doses, cause rapid loss of consciousness, seizures, and central apnea leading to death within minutes. If respiration is supported, status epilepticus that does not respond to usual anticonvulsants may ensue (Chap. 369). If status epilepticus persists, neuronal death and permanent brain dysfunction may occur. Even in mild nerve agent intoxication, patients may recover but may experience weeks of irritability, sleep disturbance, and nonspecific neurobehavioral symptoms.
+
+The time from exposure to development of the full-blown cholinergic crisis from nerve agent vapor inhalation can be minutes or even seconds, yet there is no depot effect. Since nerve agents have a short circulating half-life, if the patient is supported and, ideally, treated with antidotes, improvement should be rapid without subsequent deterioration.
+
+Liquid exposure to nerve agents differs in speed and order of symptom onset. A nerve agent on intact skin will partially evaporate and partially begin to travel through the skin, causing localized sweating and then localized fasciculations when it encounters neuromuscular junctions. Once in muscle, it will cross into the circulation and cause gastrointestinal discomfort, respiratory distress, heart rate changes, generalized fasciculations and twitching, loss of consciousness, seizures, and central apnea. The time course will be much longer than with vapor inhalation; even a large, lethal droplet can take up to 30 minutes to have an effect, and a small, sublethal dose could continue to take effect over 18 hours. Clinical worsening that occurs hours after treatment has started is far more likely with liquid than with vapor exposure. Additionally, miosis, which is practically unavoidable with vapor exposure, is not always present with liquid exposure and may be the last symptom to present in this situation. This is due to the relative insulation of the pupillary muscle from the systemic circulation.
+
+Unless removed by specific therapy (oximes), binding of a nerve agent to cholinesterase is essentially irreversible. Erythrocyte acetylcholinesterase activity recovers at about 1% per day. Plasma butyrylcholinesterase recovers more quickly and is a better guide to recovery of tissue enzyme activity.
+
+Treatment: Nerve Agents
+
+Acute nerve agent poisoning is treated by decontamination, respiratory support, and three antidotes: an anticholinergic, an oxime, and an anticonvulsant (Tables 222-3 and 222-4). In acute cases, all these forms of therapy may be given simultaneously.
+
+Table 222-3 Antidote Recommendations After Exposure to Cyanide
+
+ 
+ 
+Patient Mild (Conscious) Severe (Unconscious) Other Treatment 
+Child If patient is conscious and has no other signs or symptoms, antidotes may not be necessary. Sodium nitritea: 0.12每0.33 mL/kg, not to exceed 10 mL of 3% solutionb slow IV over no less than 5 min, or slower if hypotension develops and
+
+Sodium thiosulfate: 1.65 mL/kg of 25% solution IV over 10每20 min
+ Nasal oxygen supplementation
+
+For sodium nitrite每induced orthostatic hypotension, normal saline infusion and supine position are recommended.
+
+If still apneic after antidote administration, consider sodium bicarbonate for severe acidosis.
+ 
+Adult If patient is conscious and has no other signs or symptoms, antidotes may not be necessary. Sodium nitritea: 10每20 mL of 3% solutionb slow IV over no less than 5 min, or slower if hypotension develops and
+
+Sodium thiosulfate: 50 mL of 25% solution IV over 10每20 min
+
+Alternate: hydroxocobalamin 5g in reconstituted solution IV over 15 minutes
+ For amyl nitrite, inhaled ampules titrated to need or until other forms of IV therapy are initiated 
+ 
+
+
+a If sodium nitrite is unavailable, administer amyl nitrite by inhalation from crushable ampoules.
+
+b Available in Pasadena Cyanide Antidote Kit, formerly Lilly Cyanide Kit.
+
+Note: Victims whose clothing or skin is contaminated with hydrogen cyanide liquid or solution can secondarily contaminate response personnel by direct contact or through off-gassing vapors. Avoid dermal contact with cyanide-contaminated victims or with gastric contents of victims who may have ingested cyanide-containing materials. Victims exposed only to hydrogen cyanide gas do not pose contamination risks to rescuers. If the patient is a victim of recent smoke inhalation (may have high carboxyhemoglobin levels), administer only sodium thiosulfate.
+
+Source: State of New York, Department of Health.
+ 
+Table 222-4 Antidote Recommendations After Exposure to Nerve Agents
+
+ 
+ 
+    Antidotes 
+Patient Age Mild/Moderate Effectsa  Severe Effectsb  Other Treatment 
+Infants (0每2 years) Atropine: 0.05 mg/kg IM, or 0.02 mg/kg IV; and 2-PAM chloride: 15 mg/kg IM or IV slowly  Atropine: 0.1 mg/kg IM, or 0.02 mg/kg IV; and 2-PAM chloride: 25 mg/kg IM, or 15 mg/kg IV slowly  Assisted ventilation after antidotes for severe exposure. 
+Child (2每10 years) Atropine: 1 mg IM, or 0.02 mg/kg IV; and 2-PAM chloridec: 15 mg/kg IM or IV slowly  Atropine: 2 mg IM, or 0.02 mg/kg IV; and 2-PAM chloridec: 25 mg/kg IM, or 15 mg/kg IV slowly  Repeat atropine (2 mg IM, or 1 mg IM for infants) at 5- to 10-min intervals until secretions have diminished and breathing is comfortable or airway resistance has returned to near normal.  
+Adolescent (>10 years) Atropine: 2 mg IM, or 0.02 mg/kg IV; and 2-PAM chloridec: 15 mg/kg IM or IV slowly  Atropine: 4 mg IM, or 0.02 mg/kg IV; and 2-PAM chloridec: 25 mg/kg IM, or 15 mg/kg IV slowly    
+Adult Atropine: 2 to 4 mg IM or IV; and 2-PAM chloride: 600 mg IM, or 15 mg/kg IV slowly  Atropine: 6 mg IM; and 2-PAM chloride: 1800 mg IM, or 15 mg/kg IV slowly  Phentolamine for 2-PAM-induced hypertension: (5 mg IV for adults; 1 mg IV for children).
+
+Diazepam for convulsions: (0.2 to 0.5 mg IV for infants <5 years: 1 mg IV for children >5 years; 5 mg IV for adults).
+ 
+Elderly, frail Atropine: 1 mg IM; and 2-PAM chloride: 10 mg/kg IM, or 5 to 10 mg/kg IV slowly  Atropine: 2 to 4 mg IM; and 2-PAM chloride: 25 mg/kg IM, or 5 to 10 mg/kg IV slowly    
+ 
+
+
+aMild/moderate effects include localized sweating, muscle fasciculations, nausea, vomiting, weakness, dyspnea.
+
+b Severe effects include unconsciousness, convulsions, apnea, flaccid paralysis.
+
+c If calculated dose exceeds the adult IM dose, adjust accordingly.
+
+Note: 2-PAM chloride is pralidoxime chloride or protopam chloride.
+
+Source: State of New York, Department of Health.
+ 
+
+Decontamination
+
+Decontamination of a vapor is formally not necessary, but in the Tokyo subway attack, sarin vapor trapped in patients' clothing caused miosis in 10% of emergency personnel. Removal of clothing would have obviated most of this problem. Decontamination of liquid is accomplished in the military by using Reactive Skin Decontamination Lotion (RSDL), which absorbs liquid off skin. Civilian agencies now stockpile this product approved by the U.S. Food and Drug Administration (FDA). At hospitals, soap and copious amounts of water should suffice. RSDL is only approved for spot decontamination of small areas; whole-body decontamination requires water with or without soap. Physical removal of the agent is superior to all known decontamination solutions and lotions. In any event, decontamination must be accomplished before the patient enters the hospital facility to avoid contaminating the facility and its staff. In patients with contaminated wounds, one should extract potentially contaminated clothing and other foreign material that may serve as a depot for the liquid agent.
+
+Respiratory Support
+
+Death from nerve agent poisoning is almost always from respiratory causes. Ventilation will be complicated by increased resistance and secretions. Atropine should be given before ventilation or as ventilation begins, since it will make ventilation far easier.
+
+Antidotal Therapy
+
+Atropine
+
+In theory, any anticholinergic could be used to treat nerve agent poisoning, but worldwide the choice is invariably atropine due to its wide temperature stability and rapid effectiveness either IM or IV and because inadvertent administration of this drug usually causes little CNS dysfunction (Table 222-4). Atropine rapidly reverses cholinergic overload at muscarinic synapses but has little effect at nicotinic synapses. Practically, this implies that atropine can quickly treat the life-threatening respiratory effects of nerve agents but probably will not help with neuromuscular and possibly sympathetic effects. In the field, military personnel are given MARK I kits (Fig. 222-5A) containing 2 mg atropine in autoinjector form for IM use. Civilian agencies are now stockpiling this FDA-approved product as well. The MARK 1 kit is being replaced for both civilian and military use by a combined autoinjector containing both 2.1 mg atropine and oxime (2-PAM Cl), licensed by the FDA under the trade name Duodote(TM). One can only give full autoinjector doses and not divide them. The field-loading dose is 2, 4, or 6 mg, with retreatment every 5每10 minutes until the patient's breathing and secretions improve. The Iranians used larger doses initially during the Iran-Iraq war, in which oximes were in short supply. When the patient reaches a level of medical care at which drugs can be given IV, this is the preferred route; in small children this may be the initial form of atropine therapy. However, pediatric autoinjectors of 0.5 mg and 1 mg are now manufactured. There is no upper limit to atropine therapy in a patient either IM or IV; however, a total average adult dose for a severely afflicted patient would usually be 20每30 mg.
+
+Figure 222-5
+
+ 
+ 
+ 
+ 
+Antidotes to nerve agents. A. MARK I autoinjector set containing one 600-mg dose of 2-pralidoxime chloride and one 2-mg dose of atropine. Such sets are carried by all U.S. military forces in a potentially chemical battlefield and are being stockpiled by civilian first responders. B. Diazepam 10-mg autoinjector. These are carried by all U.S. military forces in a potential chemical battlefield and are being stockpiled by civilian first responders.
+ 
+ 
+
+In a mildly afflicted patient with miosis and no other systemic symptoms, atropine or homatropine eyedrops may suffice for therapy. This will produce 24 hours of mydriasis. Frank miosis or imperfect accommodation may persist for weeks or even months after all other signs and symptoms have resolved.
+
+Oxime Therapy
+
+Oximes are nucleophiles that reactivate the cholinesterase whose active site has been occupied and bound to nerve agent (Table 222-4). Therapy with oximes therefore restores normal enzyme function. Oxime therapy is limited by a second side reaction, called "aging," in which a side chain on nerve agents falls off the complex at a characteristic rate. "Aged" complexes are negatively charged, and oximes cannot reactivate negatively charged complexes. The practical effect of this differs from one nerve agent to another since each ages at a characteristic rate. VX, for practical purposes, never ages, sarin ages in 3每5 hours, and tabun ages over a longer period. All these are so much longer than the patient's expected life span after acute nerve agent toxicity that they may be ignored. Soman, in contrast, ages in 2 minutes. Thus, after only a few minutes after exposure, oximes are useless in treating soman poisoning. The oxime used varies by country; the United States has approved and fielded 2-pralidoxime chloride (2-PAM Cl). MARK 1 kits (Fig. 222-5A) and Duodotes(TM) both contain autoinjectors 600 mg 2-PAM Cl. Initial field loading doses are 600, 1200, and 1800 mg. Since blood pressure elevation may occur after administration of 45 mg/kg in adults, field use of 2-PAM Cl is restricted to 1800 mg, IM, per hour. During the time when more oxime cannot be given, atropine alone is recommended. In the hospital setting, 2.5每25 mg/kg IV 2-PAM Cl has been found to reactivate 50% of inhibited cholinesterase. The usual recommendation is 1000 mg through slow IV drip over 20每30 minutes, with 2500 mg over a period of 1每1.5 hours. Active research is ongoing to field a more effective and broader-spectrum oxime than 2-PAM Cl.
+
+Anticonvulsants
+
+Nerve agent〞induced seizures do not respond to the usual anticonvulsants used for status epilepticus, including phenytoin, phenobarbital, carbamazepine, valproic acid, and lamotrigine (Chap. 369). The only anticonvulsants that have been shown to stop this form of status are the benzodiazepines. Diazepam is the only benzodiazepine approved for seizures in humans, although other FDA-approved benzodiazepines work well against nerve agent〞induced seizures in animal models. Diazepam therefore is manufactured in 10-mg injectors for IM use and given to U.S. forces for this purpose (Fig. 222-5B). Civilian agencies are stockpiling this field product (convulsive antidote for nerve agent, CANA), which generally is not used in hospital practice. Extrapolation from animal studies indicates that adults will probably require 30每40 mg diazepam, IM, to stop nerve agent〞induced status epilepticus. In the hospital or in a small child unable to receive the autoinjector, IV diazepam may be used at similar doses. The clinician may confuse seizures with the neuromuscular signs of nerve agent poisoning. In the hospital, early electroencephalography is advised to distinguish among nonconvulsive status epilepticus, actual seizures, and postictal paralysis. Recent animal studies have shown that the most effective benzodiazepine in this situation is midazolam, which is not FDA-approved for seizures.
+
+Peripheral neuropathy and the so-called intermediate syndrome, which are prominent long-term effects of insecticide poisoning, are not described in nerve agent survivors.
+
+Recent research has explored approaches leading to a transient "immunity," or drugs that would provide protection against lethal nerve agents yet be devoid of side effects. A novel approach is to use enzymes to scavenge these highly toxic nerve agents before they attack their intended targets. The accumulated work has shown that if a scavenger is present at the time of nerve agent exposure, rapid reduction of toxicant levels is observed. This reduction is so rapid and profound that the need to administer a host of pharmacologically active drugs as antidotes is, according to laboratory studies, eliminated.
+
+Cyanide
+
+Cyanide (CN每) has become an agent of particular interest in terrorist scenarios because of its applicability to indoor targets. Attacks have occurred in recent years using this agent, for example, against the water supply of the U.S. Embassy in Italy. The 1993 World Trade Center bombing in New York may have been intended as a cyanide release as well.
+
+Hydrogen cyanide and cyanogen chloride, the major forms of cyanide, are either true gases or liquids very close to their boiling points at standard room temperature. Hydrogen cyanide gas is lighter than air and does not remain concentrated outdoors for long; this makes it a poor military weapon but an effective weapon in an indoor space such as a train station or sports arena. Cyanide is also water-soluble and poses a threat to the food and water supply from either accidents or malign intent. It is well absorbed from the GI tract, through skin, or via inhalation, the preferred terrorist route. Cyanide smells like bitter almonds, but 50% of persons lack the ability to smell it.
+
+Unique among chemical warfare agents, cyanide is a normal constituent of the environment and actually is a required cofactor in many compounds important in metabolism, including vitamin B12. Cyanide is present in many plants; this explains why smokers, for instance, have three times the usual cyanide level chronically. In consequence, humans have evolved a detoxification mechanism for cyanide. Cyanide poisoning results if a large challenge of CN每 overwhelms this mechanism, while treatment of cyanide poisoning exploits it.
+
+Mechanism
+
+Cyanide directly poisons the last step in the mitochondrial electron transport chain, cytochrome a3, which results in a shutdown of cellular energy production. Tissues are poisoned in direct proportion to their metabolic rate, with the carotid baroreceptors and the brain, the most metabolically active tissues in the body, affected fastest and most severely. This results from cyanide's high affinity for certain metals, notably Co and Fe+++. Cytochrome a3 contains Fe+++, to which CN每 binds. Cyanide-poisoned tissues cannot extract oxygen from the blood; even though pulmonary oxygen exchange and cardiac function are preserved, cells die of hypoxia〞of histotoxic rather than cardiopulmonary cause.
+
+Clinical Features
+
+Approximately 15 seconds after inhalation of a high concentration of cyanide, there is a transient hyperpnea, followed within 15每30 s by the onset of convulsions and electrical status epilepticus. Respiratory activity stops 2每3 min later, and cardiac activity ceases several minutes after that. Exposure, especially via inhalation, to a large challenge of CN每 can cause death in as little as 8 min. Smaller challenges will cause symptoms spread over a longer period; very low doses may produce no effects at all because of the body's ability to detoxify small amounts. Cyanogen chloride additionally produces mucous membrane irritation. Many but not all patients will display a cherry red appearance because their venous blood remains oxygenated.
+
+Differential diagnosis 
+
+In a mass casualty caused by a chemical agent, the primary differential diagnosis of cyanide poisoning will be nerve agent poisoning. Cyanide-poisoned patients lack the prominent cholinergic signs such as miosis and increased secretions seen in nerve agent poisoning. The cherry red appearance often seen in cyanide poisoning is never seen in nerve agent poisoning. Cyanosis, confusingly, is not a prominent early sign in cyanide poisoning.
+
+Treatment: Cyanide
+
+Treatment of cyanide poisoning may require simply evacuating the patient from the source of contamination. Decontamination of a true gas, other than clothing removal to avoid gas trapped in clothing air cells, is probably not a major concern. 
+
+Oxygen, via mask, nasal cannula, or endotracheal tube, has been shown to benefit patients, although the benefit is not explained by the known mechanism of action of CN每.
+
+Antidotal Therapy
+
+Cyanide antidotes exploit the body's innate detoxification mechanism, the hepatic enzyme rhodanese. They also exploit cyanide's affinity for certain metal ions. The antidotes are summarized in Table 222-3.
+
+The classic two-step cyanide antidote kit includes two IV solutions: sodium nitrite and sodium thiosulfate. It may also include amyl nitrite perles for inhalation.
+
+Nitrites are methemoglobin formers. Giving a patient nitrite converts a fraction of the body's hemoglobin into methemoglobin by converting heme iron from Fe++ to Fe+++. CN每 has a greater affinity for methemoglobin Fe+++ than for cytochrome a3. As a result, administration of nitrite creates a "sink" of cyanmethemoglobin; creation of methemoglobin pulls CN每 off mitochondrial cytochrome a3, allowing cellular respiration to resume. Recent work suggests that nitrites may also work via a second mechanism, involving the neurotransmitter nitrous oxide, which may explain why cyanide-poisoned patients improve after nitrite administration faster than is explained by the known rate of methemoglobin formation.
+
+Nitrite administration may save the patient acutely but creates an unstable pool of cyanmethemoglobin, the elimination of which requires a sulfur donor: sodium thiosulfate. Sodium thiosulfate donates sulfur to the reaction catalyzed by rhodanese; this converts cyanide to thiocyanate, a compound the body eliminates harmlessly in urine. In fire victims'whose oxygen-carrying capacity is already reduced, and in whom the administration of nitrite may form so much methemoglobin as to make the blood unable to carry oxygen at all〞sodium thiosulfate alone may be administered.
+
+Hydroxocobalamin, or vitamin B12a, has recently been approved for use as an alternate cyanide antidote. It must be reconstituted at the scene, unlike sodium nitrite or sodium thiosulfate. It lacks the propensity for hypotension of nitrites, but many of the cases in which it has been beneficial have also required the use of sodium thiosulfate. It causes an orange discoloration of the skin of no functional significance.
+
+All of these antidotes require the placement of an IV line. Amyl nitrite is currently the only nonintravenous cyanide antidote available, although it has never been formally approved by the U.S. Food and Drug Administration. Cyanide antidote kits contain amyl nitrite perles that can be crushed and inhaled by a patient who is still breathing. Amyl nitrite can also be given through a respirator.
+
+None of the cyanide antidotes is specifically approved for pediatric use.
+
+Prognosis
+
+Cyanide casualties tend to recover very quickly compared with casualties of other chemical agents. Many industrial cases have returned to work within the same shift. If a patient suffers a large challenge and expires, it is usually within minutes of exposure.
+ 
+Further Readings
+
+Hurst CG, Smith WJ: Health effects of exposure to vesicant agents, in Chemical Warfare Agents: Chemistry, Pharmacology, Toxicology and Therapeutics, JA Romano et al (eds). Boca Raton, FL, CRC Press, 2008 
+
+ 
+Karalliedde L et al: Possible immediate and long-term health effects following exposure to chemical warfare agents. Public Health 114:238每248, 2000[PMID: 10962584] 
+
+ 
+Lenz DE et al: Nerve agent bioscavengers: Progress in the development of a new mode of protection against organophosphorus poisoning, in Chemical Warfare Agents: Chemistry, Pharmacology, Toxicology and Therapeutics, JA Romano et al (eds). Boca Raton, FL, CRC Press, 2008 
+
+ 
+McDonough JH et al: Anticonvulsant treatment of nerve agent seizures: Anticholinergics versus diazepam in soman-intoxicated guinea pigs. Epilepsy Res 38:1每14, 2000[PMID: 10604601] 
+
+ 
+Newmark J: Nerve agents, in Clinical Neurotoxicology: Syndromes, Substances, Environments, MR Dobbs (ed). Philadelphia, Saunders-Elsevier, 2009, pp 646每659 
+
+ 
+Okumura T et al: Report on 640 victims of the Tokyo subway sarin attack. Ann Emerg Med 28:129每135, 1996[PMID: 8759575] 
+
+ 
+Russell D, simpson J: Emergency planning and preparedness for the deliberate release of toxic industrial chemicals. Clin Toxicol 48:171每176,2010[PMID: 20334545] 
+
+ 
+Sidell FR: Clinical considerations in nerve agent intoxication, in Chemical Warfare Agents, SM Somani (ed). San Diego, Academic Press, 1992, pp 156每194 
+
+ 
+Tuorinsky SD (ed.): Medical Aspects of Chemical Warfare. Walter Reed Army Medical Center, Washington, DC, Borden Institute, 2008. [Available on the website: http://ccc.apgea.army.mil] 
+
+ 
+U.S. Army Medical Research Institute of Chemical Defense, Chemical Casualty Care Division: Medical Management of Chemical Casualties Handbook, 4th ed. Aberdeen Proving Ground, MD, 2007 [Available on the website: http://ccc.apgea.army.mil] 
+
+ 
+Willems JL: Clinical management of mustard gas casualties. Ann Med Milit Belg 3(Suppl.):1每61, 1989 
+
+ 
+Wurzburg H. Treatment of cyanide poisoning in an industrial setting. Vet Human Toxicol 38:44每47, 1996[PMID: 8825751] 
+ 
+ 
+
+^^
+Radiation Terrorism: Introduction
+
+Terror attacks using nuclear or radiation-related devices are an unequivocal threat in the twenty-first century and are capable of having unique medical and psychological effects. This chapter will focus on the most probable scenarios of possible attacks and the medical principles of handling such threats.
+
+There are two major categories of potential terrorist incidents with widespread radiologic consequences. The first is the use of radiologic dispersal devices. This could cause a purposeful dissemination of radioactive material without nuclear detonation by using conventional explosives with radionuclides, attacking fixed nuclear facilities, or attacking nuclear-powered surface vessels or submarines. Malfunctioning nuclear weapons that are detonated with no nuclear yield (nuclear "duds") and installation of radionuclides in food or water are also possible means of generating a terror attack. The second and less probable scenario is the actual use of nuclear weapons. Each scenario has its own medical aspects, including "conventional" blast or thermal injury, introduction to a radiation field, and exposure to either external or internal contamination from a radioactive explosion.
+
+Types of Radioisotopic Radiation
+
+Isotopes of atoms with uneven numbers of protons and/or neutrons are typically unstable; such isotopes discharge particles or energy to matter, a process that is defined as radiation. The main radiation types are alpha, beta, gamma, and neutrons.
+
+Alpha () radiation consists of heavy, positively charged particles that contain two protons and two neutrons. Alpha particles usually are emitted from isotopes with an atomic number of 82, such as uranium and plutonium. Due to their large size, alpha particles have limited penetrating power. Fine obstacles such as cloth and human skin usually can stop them from penetrating into the body, and they represent a small risk with external exposure due to their limited penetration. If they somehow are internalized, alpha particles can cause significant cellular damage in their immediate proximity.
+
+Beta () radiation consists of electrons, which are small, light, negatively charged particles (about 1/2000 the mass of a neutron or proton). They can travel only a short finite distance in tissue, depending on their energy. Exposure to beta particles is common in many radiation accidents. Radioactive iodine released in nuclear plant accidents is the best known member of this group. Plastic layers and clothing can stop most beta particles, and their penetration is measured to be a few millimeters. A large quantum of energy to the basal stratum of the skin can cause a burn that is similar to a thermal burn and is treated as such.
+
+Gamma () rays and x-rays (both photons) are similar. Gamma rays are uncharged electromagnetic radiation discharged from a nucleus as a wave or photons of energy. X-rays are the product of abrupt mechanical deceleration of electrons striking a heavy target such as tungsten. Gamma rays and x-rays have similar properties, (i.e., no charge and no mass, just energy). Both travel easily through matter, sometimes called penetrating radiation, and are the principal type of radiation that causes total-body exposure. If the energy of gamma rays and x-rays is the same, their biologic effects will be the same.
+
+Neutron () particles are heavy and uncharged, often emitted during nuclear detonation. They possess a wide energy range; their ability to penetrate tissues is variable, depending on their energy. They are less likely to be present in most scenarios of radiation bioterrorism.
+
+The ionization resulting from protons, electrons, and gamma rays is either a direct or an indirect (i.e., mediated through water) effect of particles or photons on DNA. Ionization of DNA resulting from neutrons is secondary to the neutrons knocking electrons out of their atomic orbit and the formation of free radicals, which can also damage DNA directly.
+
+The commonly used units of radiation are the rad and the gray (Gy). The rad (radiation absorbed dose) is energy deposited within living matter and is equal to 100 ergs/g of tissue.
+
+The traditional rad has been replaced by the Syst`me Internationale (SI) unit of the gray; 100 rad = 1 Gy.
+
+Types of Exposure
+
+Whole-body exposure represents deposition of radiation energy over the entire body. Alpha and beta particles have limited penetration and do not cause significant noncutaneous injury unless emission results from an internalized source. Whole-body exposure from gamma rays, x-rays, or neutrons, which can penetrate through the body (depending on their energy), can result in damage to multiple tissues and organs. The tissue damage is proportional to the radiation exposure of the specific organ or tissue.
+
+External contamination is a result of fallout of radioactive particles that land on the body surface, clothing, skin, and hair. This is the dominant element to consider in the mass casualty situation resulting from a radioactive terrorist strike. The common contaminants primarily emit alpha and beta radiation. Alpha particles do not penetrate beyond the skin and thus have minimal systemic effects. Beta emitters can cause significant cutaneous burns and scarring. Gamma emitters not only may cause local damage but also can cause whole-body radiation exposures and injury. The medical treatment is primarily decontamination of the body, including wounds and burns, to prevent the contamination from becoming internalized. Removing the contaminated clothing reduces the contamination significantly and is a first step in the decontamination process. Generally, patients will not constitute a significant radiation hazard to health care providers, and lifesaving treatment should not be delayed for fear of secondary contamination of the medical team. Any damage to health care personnel will depend directly on the duration of exposure and will be inversely proportional to the square of the distance from any radioactive source. Gowns that can be easily removed are essential to protect health care personnel.
+
+Internal contamination will occur when radioactive material is inhaled or ingested or is able to enter the body through open wounds or burns or via skin absorption. In principle, any externally contaminated casualty should be evaluated for internal contamination. Some isotopes may have toxic effects on specific target organs due to their chemical properties, in addition to radiologic injury. The respiratory system is the main portal of entrance for internal contamination, and the lung is the organ at greatest risk. Aerosol particles <5 m can reach the alveoli, whereas larger particles will remain in proximal airways. The tiny particles can be absorbed by the lymphatic system or the bloodstream. Bronchial lavage is often a helpful treatment in this situation. Radioactive material entering the gastrointestinal (GI) tract will be absorbed according to its chemical structure and solubility. The insoluble radionuclides may affect the lower GI tract. Intact skin is normally a good barrier to most radionuclides. Penetration through the skin usually takes place when wounds or burns have altered the skin barriers. Therefore, any skin erosion should be cleaned and decontaminated promptly.
+
+Absorbed radioactive materials will travel throughout the body. Liver, kidney, adipose tissue, thyroid, and bone and bone marrow tend to bind and retain the radioactive material more than other tissues do. The medical treatment includes preventing absorption, reducing incorporation, and enhancing elimination (see below).
+
+Localized exposure means close contact between a highly radioactive source and a part of the body, causing discrete damage to the skin and deeper tissues, similar to a thermal burn. Later signs include epilation, erythema, moist desquamation, ulceration, blistering, and necrosis in proportion to exposure. Alopecia, transient or permanent, is dose related and starts at cutaneous doses >3 Gy. Overt tissue damage can take weeks and even months to develop; the healing process can also be very slow, lasting for months. Long-term cutaneous changes, including keratosis, fibrosis, and telangiectasias, may appear years after the exposure. Treatment is based on analgesia and infection prophylaxis. Nevertheless, severe burns often require grafting or even amputation. Long-term radiation effects are characterized by cell loss and cell death.
+
+Radiologic Dispersal Events
+
+Radiologic dispersal incidents are generally of two types, resulting from (1) small, usually localized sources or (2) wide dispersals over large areas. The radioactive materials can take the form of solid state, aerosol, gas, or liquid. They can be put into food or water, released from vehicles, or be spread by explosion. The principal route of exposure is usually direct contact between the victim's skin and the radioactive particles, although internal contamination could occur if the material were inhaled or ingested. The radiation field is also a potential source of whole-body exposure. The psychosocial effects that accompany such an event are significant and are beyond the scope of this chapter. A list of radioactive materials, including information on their major properties and medical treatment, is given in Table 223-1.
+
+Table 223-1 Internal Contaminant Radionuclides: Properties and Treatment
+
+ 
+ 
+Isotope Name Symbol Common Usage Radiation Type t? Radiologic t? Biologic, days
+  Exposure Type Mode of Contamination Focal Accumulation in Body Treatment 
+Manganese Mn-56 Reactors, research laboratories ,  2.6 h 5.7 External, internal N/A Liver N/A 
+Cobalt Co-60 Medical radiotherapy devices, commercial food irradiators ,  5.26 y 9.5 External, internal Lungs Liver Gastric lavage, purgatives; penicillamine in severe cases 
+Strontium Sr-90 Fission product of uranium  28 y 18,000 Internal Moderate GI tract Bones〞similar to calcium Strontium, calcium, ammonium chloride 
+Molybdenum Mo-99 Hospitals〞scans ,  66.7 h 3 External, internal N/A Kidneys N/A 
+Technetium Tc-99m Hospitals〞scans ,  6.049 h 1 External, internal IV administration Kidneys, total body Potassium perchlorate to reduce thyroid dose 
+Cesium Cs-137 Medical radiotherapy devices ,  30 y 70 External, internal Lungs, GI tract, wounds, follows potassium Renal excretion Ion-exchange resins, Prussian blue 
+Gadolinium Gd-153 Hospitals ,  242 d 1000 External, internal N/A N/A N/A 
+Iridium Ir-192 Commercial radiography ,  74 d 50 External, internal N/A Spleen N/A 
+Radium Ra-226 Instrument illumination, industrial applications, old medical equipment, former Soviet Union military equipment , ,  1602 y 16,400  External, internal GI tract Bones MgSO4 lavage, ammonium chloride, calcium alginates
+  
+Tritium H-3 Luminescent gun sights, muzzle-velocity detectors, nuclear weapons  12.5 y 12 Internal Inhalation, GI tract, wounds Total body Dilution with controlled water intake, diuretics 
+Iodine-131 131I
+  Reactor accidents, thyroid ablators ,  8.1 d 138 Internal Inhalation, GI tract, wounds Thyroid Potassium/sodium iodide, propylthiouracil, methimazole 
+Uranium U-235 Depleted uranium, natural uranium, fuel rods, weapons-grade material , (, , ) 7.1 x 108 y 15 
+  Internal GI tract Kidneys, bones NaHCO3, chelation with EDTA
+  
+Plutonium Pu-239 Produced from uranium in reactors, nuclear weapons  2.2 x 104y 73,000 
+  Internal Limited lung absorption, high retention Lungs, bones, bone marrow, liver, gonads Chelating with DTPA or EDTA 
+Americium Am-241 Smoke detectors, nuclear weapon detonation fallout  458 y 73,000  Internal Inhalation, skin wounds Lungs, liver, bones, bone marrow Chelating with DTPA or EDTA 
+Polonium Po-210 Calibration source  138.4 d 60  Internal Inhalation, wounds Spleen, kidneys Lavage, dimercaprol 
+Thorium Th-232 Calibration source  1.41 x 1010y 73,000 
+  Internal N/A N/A N/A 
+Phosphorus P-32 Research laboratories, medical facilities  14.3 d 1155 Internal Inhalation, GI tract, wounds Bones, bone marrow, rapidly replicating cells Lavage, aluminum hydroxide, phosphate 
+ 
+
+
+Abbreviations: DTPA, diethylenetriamine pentaacetic acid; EDTA, ethylenediamine tetraacetic acid; GI, gastrointestinal; h, hours; N/A, not available; y, years.
+ 
+
+In a localized event, the amount and spread of the radioactive materials are usually limited and can be treated like a spill of hazardous material. Protective clothing prevents or minimizes the contamination of emergency responders.
+
+The use of explosives coupled with a large amount of radioactive materials can result in wide dispersion of radiation, which is of far greater concern. Other potential sources of radiation are nuclear reactors, spent nuclear fuel, and transport vehicles. Less probable but still possible is the use of a large source of penetrating radiation without explosion. It is expected that most exposures would be low, and the principal health and psychosocial effects would be similar to those in the former scenario but on a larger scale.
+
+Whenever an explosion is involved, conventional lifesaving treatment should be given first priority. Only then should decontamination and specific treatment be given for the radiation exposure.
+
+Silent exposure represents a scenario in which a powerful radiologic source, often also called a radiologic exposure device, could be hidden in a crowded place and spread radioactive materials without any awareness or announcement. It might take a long time to recognize the event and the source of exposure. One of the major clues to this situation is the appearance of unusual clinical manifestations in many individuals; such manifestations are often nonspecific and include symptoms of acute radiation sickness (see below) such as headache, fatigue, malaise, and opportunistic infections. GI phenomena such as diarrhea, nausea, vomiting, and anorexia may occur. Dermatologic symptoms (burns, ulceration, and epilation) and hematopoietic manifestations such as bleeding tendency, thrombocytopenia, purpura, lymphopenia, and neutropenia are also possible and are dose related. Careful epidemiologic studies may be necessary to identify the source of such exposure.
+
+Nuclear Weapons
+
+The most likely scenario of nuclear terror would be the detonation of a single low-yield device. The estimated yield of such a device is anywhere between 0.01 and 10 kilotons of TNT, although the probability more likely would be toward the lower yield. Coping with such an event is certainly possible. The effects of such an explosion are a combination of several components: ground shock, air blast, thermal radiation, initial nuclear radiation, crater formation, and radioactive fallout.
+
+The nuclear detonation, like a conventional explosion, will produce a shock wave that can further damage structures and cause many casualties. In addition, the detonation can produce an extremely hot fireball that can ignite materials and cause severe burns. The detonation also releases an intense pulse of ionizing radiation, mainly gamma rays and neutrons. The radiation produced in the first minute is termed initial radiation, whereas the ongoing radiation due to fallout is termed residual radiation. Both types of radiation can cause acute radiation sickness. The LD50/30 (i.e., a dose that causes a 50% mortality rate at 30 days) is 4 Gy for whole-body exposure without medical support; with medical support, the LD50/30 ranges between 8 and 10 Gy. Winds can carry fallout and contaminate large areas.
+
+On top of its effects, a massive blast forms a crater in the soil and usually produces a ground shock that compounds the damage and the number of casualties. Inhalation of large amounts of radioactive dust causes pneumonitis that can lead to pulmonary fibrosis. Use of a mask covering the mouth and nose can be very helpful. The intense flash of infrared and visible light can cause either temporary or permanent blindness. Cataracts can develop months to years later among those who survive.
+
+Acute Radiation Syndrome
+
+Radiation interactions with atoms can result in ionization and the formation of free radicals that damage tissue by disrupting chemical bonds and molecular structures in the cell, including DNA. Radiation damage can lead to cell death; the cells that recover may be mutated and at higher risk for subsequent cancer. Cell sensitivity increases as the replication rate increases and cell differentiation decreases. Bone marrow and mucosal surfaces of the GI tract, which have vast mitotic activity, are significantly more sensitive to radiation than are slowly dividing tissues such as bones and muscles. After exposure of either all or most of the human body to ionizing radiation, acute radiation syndrome (ARS) can develop. The clinical manifestations of ARS reflect the dose and type of radiation as well as the part of the body exposed.
+
+ARS manifests as three major groups of signs and symptoms: hematopoietic, GI, and neurovascular. There are four major stages in ARS: prodrome, latent phase, illness, and recovery or death. The higher the radiation doses, the shorter and more severe each stage. The prodrome appears within minutes to 4 days after exposure, lasts from a few hours to a few days, and can include nausea, vomiting, anorexia, and diarrhea. At the end of the prodrome, ARS progresses to the latent phase. Minimal or no symptoms are present during the latent phase, which commonly lasts up to 2.5 weeks but can last up to 6 weeks. The duration depends on the radiation dose, the health of the patient, and the coexisting illness or injury. After the latent phase, the exposed person manifests illness that may eventuate in recovery or lead to death.
+
+With exposure to doses <1 Gy, ARS is generally mild. At this dose symptoms can be minimal or nonexistent even if the entire body is exposed to penetrating radiation. The clinical picture will mainly be transient depression of bone marrow (lymphopenia) that lasts up to 2 to 3 weeks and then improves.
+
+ARS is significantly more acute and severe with exposure to very high doses: >30 Gy. At this dose the prodrome appears in minutes and is followed by 5 to 6 hours of latency before a cardiovascular collapse occurs secondary to irreversible damage to the microcirculation.
+
+The type and dose of radiation and the part of the body exposed will determine not only the timing of the different stages of ARS but also the dominant clinical picture. At low radiation doses of 0.7每4 Gy, hematopoietic depression due to bone marrow suppression takes place and constitutes the main illness. The patient may develop infections and bleeding secondary to low leukocyte and platelet counts, respectively. The bone marrow eventually will recover in almost all patients if they are supported with transfusions and fluids; antibiotics are often needed in addition. With exposure to 6每8 Gy, the clinical picture is significantly more complicated. At these doses, the bone marrow will not always recover and death may ensue. A GI syndrome may accompany the hematopoietic manifestations and further worsen the patient's condition. Compromise of the absorptive layer of the gut alters absorption of fluids, electrolytes, and nutrients. GI injury can lead to vomiting, diarrhea, GI bleeding, sepsis, and electrolyte and fluid imbalance in a patient whose blood counts are compromised for a period of weeks, often leading to death. Whole-body exposure to doses >9每10 Gy is almost always fatal. Crucial elements of the bone marrow simply will not recover. In addition to the GI syndrome associated with very large exposures, patients may develop a neurovascular syndrome; the latter dominates with whole-body doses >20 Gy. Vascular collapse, seizures, confusion, and death usually occur within days. In this variant the prodrome and latent phase both shorten to a few hours.
+
+Treatment: Acute Radiation Sickness
+
+The treatment of ARS is focused on maintaining homeostasis, giving damaged organs a chance to recover. Aggressive support is given to every damaged system. Treatment for the hematopoietic system includes mainly therapy for neutropenia and infection, transfusion and blood products such as leukoreduced irradiated blood as needed, and hematopoietic growth factors. The value of bone marrow transplantation in this situation is questionable. None of the transplants that were performed among the victims of the nuclear reactor accident in Chernobyl proved successful. Bone marrow transplantation could be considered for casualties with whole-body exposure to 6每10 Gy when the hematopoietic syndrome is dominant and the bone marrow is less likely to recover with time. Another major component of the treatment of ARS is partial or total parenteral nutrition to bypass the damaged GI system. For blast and thermal injuries, standard therapy for trauma is given. Psychological support is essential in many cases.
+
+Medical Management of Radiation Bioterrorism
+
+Victims of radiation bioterrorism can suffer from conventional thermal or blast injuries, exposure to radiation, and contamination by radioactive materials. Many will have combinations of the above, which can be synergistic and cause higher morbidity and mortality rates than is the case when they occur alone. The number of casualties will be a major factor in determining the response of the medical system to an act of radiation bioterrorism. If only a few persons are affected, no significant changes and adaptation of the system are needed to treat the victims. However, if a terror attack results in a large number (dozens or more) of casualties, an organized disaster plan at the local and state levels must be invoked to deal with the crisis properly. Useful U.S. planning documents that include many universal planning concepts can be found at http://www.remm.nlm.gov/remm_Preplanning.htm. Medical personnel should have a prior assignment and training and be prepared to function in a scenario with which they are familiar. Stockpiles of specific equipment and medications have to be preplanned (see the Centers for Disease Control and Prevention Web site at http://www.bt.cdc.gov/stockpile/). One of the goals of terrorists is to overwhelm medical facilities and minimize the salvage of casualties.
+
+Initial management consists of primary triage and transportation of the wounded to medical facilities for treatment. The rationale behind the triage is to sort patients into classes according to the severity of injury for the purpose of expediting clinical care and maximizing the use of the available clinical services and facilities. Triage requires determination of the level of emergency care needed. The higher the number and range of casualties are, the more complex and difficult triage becomes. The mildly wounded and victims of contamination only can be sent to evacuation, registration with disaster response teams, and decontamination and treatment centers. Figure 223-1 illustrates evacuation in a multicasualties radiologic event. In this way, the hospitals can avoid being directly overwhelmed, and those who are severely wounded can receive better treatment. Emergency treatment will be administered initially according to the presence of conventional injuries such as wounds, trauma, and thermal or chemical burns. Individuals with such injuries should be stabilized, if possible, and immediately transported to a medical facility. Removing the victim's clothes and wrapping him or her in clean blankets or nylon sheets reduces both the exposure of the patient and the contamination risk to the staff. However, the possibility of contamination needs to be determined. Less severely injured victims should receive a preliminary decontamination before or during evacuation to a hospital.
+
+Figure 223-1
+
+ 
+ 
+ 
+Algorithm for evacuation in a multicasualties radiologic event.
+ 
+ 
+
+One must remember that radionuclide contamination of the skin is commonly not an acute life-threatening situation for the patient or the personnel who care for the patient. Only powerful gamma emitters are likely to cause real damage from contamination. It is important to emphasize that exposure to a radiation field alone does not necessarily create any contamination. The exposed person, if not contaminated, is not radioactive and does not directly emit any radiation.
+
+To protect the staff, protective gear (gowns, gloves, masks, and caps) should be used. Protective masks with filters and chemically protective overgarments provide excellent protection from contamination. Waterproof shoe covers are also important. Remaining in the contaminated area and dealing with lifesaving procedures should take place according to the "ALARA" principle: as low as reasonably achievable. It is better to send many people for short exposure times than to send a few people for longer periods of time to do the same job.
+
+Decontamination of victims should take place in the field before their arrival at medical facilities, but radiologic decontamination should never interfere with medical care. Removal of outer clothing and shoes usually will reduce a patient's contamination by 80每90%. Contaminated clothes should be carefully removed by rolling them over themselves, placing them in marked plastic bags, and removing them to a predefined area for contaminated clothes and equipment. A radiation detector should then be used to check for the presence of any residual radiologic contamination on the patient's body. To prevent internalization of the radioactive materials, one should cover open wounds before decontamination. Showering or washing of the entire skin and hair is very important. The skin is dried and reassessed for residual contamination until no radiation is found. Contamination-removing chemical agents are more than sufficient to remove radiologic contamination.
+
+Wound decontamination should be as conservative as possible. The main goal is to prevent both extensive local damage and internal contamination through lacerated skin. The bandages should be removed, and the wounds flushed. The wound should then be dried and assessed for radiation. This procedure can be repeated again and again until contamination is undetectable. Excision of contaminated wounds should be attempted only when surgically necessary. Radioactive shrapnel that can penetrate through the skin should be removed.
+
+In the hospital, staff can wear normal hospital barrier clothing, including two pairs of gloves, a gown, shoe covers, a head cover, and a face mask. Eye protection is recommended. Decontamination of medical personnel is obligatory after emergency treatment and decontamination of the patient. All protective clothing should be placed after use in a designated container for contaminated clothing.
+
+Radiation intensity decays rapidly with the square of the distance from the source, and increasing the distance from the source and decreasing the time spent near it are basic principles of radiation safety. Shielding with lead can be used as protection from small radioactive gamma sources. Geiger counters can detect gamma and beta radiation. Pocket chamber (pencil) dosimeters, film badges, and thermoluminescent dosimeters can measure accumulated exposure to gamma radiation. All these detectors are in common use in medical facilities and should be used to help define the level of contamination. Alpha radiation is harder to detect due to its poor penetration. An alpha scintillation counter, which is capable of detecting alpha radiation, is not commonly used in medical facilities.
+
+Guidelines for Hospital Management
+
+Figure 223-2 shows a model for hospital arrangement for triage. Persons contaminated either externally or internally should be identified, externally decontaminated, and, if needed, treated immediately and specifically for internal contamination. In all other cases, the need for treatment of radiation injuries does not constitute a medical emergency. Early actions, such as blood sampling both for assessing the degree of severity of the exposure and for blood type and cross-matching for possible transfusion, need to be taken promptly if ARS is evident or if exposure is suspected.
+
+Figure 223-2
+
+ 
+ 
+ 
+Flow chart of hospital triage. O.R., operating room.
+ 
+ 
+
+In the hospital entrance, a distinct decontamination area should be set up promptly. Separation between clean and contaminated areas is essential. Medical personnel in this area should wear protective gear as noted above. They also should be rotated in their assignments every 1 to 2 hours to ensure minimal exposure to radiation. If patients are critically wounded and require either surgery or resuscitation, they need to pass directly to "contaminated" operating rooms or resuscitation sites for lifesaving procedures. Once such patients are stable, they should be decontaminated. It is important to obtain details concerning the exposure, look for prodromal signs of radiation sickness, and do a physical examination. One of the best ways to estimate exposure clinically is to measure the time of prodromal appearance. The earlier the prodromal signs and symptoms appear, the higher the dose is of radiation exposure. A few laboratory tests need to be taken routinely, such as complete blood count and urinalysis. If internal contamination is suspected, specific treatment should be given, as outlined below.
+
+Treatment: Radionuclide Contamination
+
+Treatment for internal radionuclide contamination, decorporation, should be started as soon as possible after suspected or known exposure. The approximate upper limit of radionuclide contamination that can reasonably be ignored from a radiation safety point of view is not well defined. These are judgments that will depend on the circumstances of the event and the resources available. One method to determine a level of internal contamination that will trigger decorporation would be the upper limit of the yearly radionuclide contamination permitted for radiation workers [allowable levels of intake (ALIs)]. Radiation workers are permitted 50 times more radiation dose each year than are members of the general public. A new concept called the Clinical Decision Guide is contained in the National Council on Radiation Protection and Measurements (NCRP) Report 161 and is expected to replace the use of ALI.
+
+The goal is to leave the smallest amount of radionuclides possible in the body. Treatment is given to reduce absorption and enhance elimination and excretion. Some of the decorporation agents are not U.S. Food and Drug Administration (FDA)-approved for these indications, and there is very little clinical data to support the efficacy of their use.
+
+Clearance of the GI tract may be achieved by stomach lavage, with emetics (such as apomorphine, 5 to 10 mg, or ipecac, 1- to 2-g capsules or 15 mL in syrup), or by using purgatives, laxatives, ion exchangers, and aluminum antacids. Prussian blue, 1 g tid for a minimum of 3 weeks, is an ion exchanger used to treat cesium 137 internal contamination. Aluminum antacids (such as aluminum phosphate gel) may reduce strontium uptake in the gut if given immediately after exposure. Aluminum hydroxide is less effective.
+
+Prevention or reversal of radionuclide interaction with tissues can be done by blocking, diluting, mobilizing, and chelating agents. Blocking agents prevent the entrance of radioactive materials. A good example is potassium iodide (KI), which blocks the uptake of radioactive iodine (131I) by the thyroid. KI is most effective if taken within the first hour after exposure and is still effective 6 hours after exposure. The effectiveness subsequently declines until 24 hours after exposure; however, it is recommended that KI be taken up to 48 hours after exposure. The KI dose is based on age, predicted thyroid exposure, and pregnancy and lactation status. Adults between the ages of 18每40 should receive 130 mg/d for 7每14 days if exposed to 10 cGy of radioactive iodine. Other thyroid-blocking agents include prophylthiouracil, 100 mg tid for 8 days, and methimazole, 10 mg tid for 2 days followed by 5 mg tid for 6 days, but they are somewhat less effective.
+
+Diluting agents decrease the absorption of the radionuclide; for example, water may be used as a diluting agent in the treatment for tritium (3H) contamination. The recommended amount is 3每4 L/d for at least 3 weeks.
+
+Mobilizing agents are most effective when given immediately; however, they may be effective for up to 2 weeks after exposure. These agents include antithyroid drugs, parathyroid extract, glucocorticoids, ammonium chloride, diuretics, expectorants, and inhalants. All of them should induce the release of radionuclides from tissues.
+
+Chelating agents can bind many radioactive materials, after which the complexes are excreted from the human body. In this regard, diethylenetriaminepentaacetic acid (DTPA) as either Ca-DTPA or Zn-DTPA is superior to ethylenediamine tetraacetic acid (EDTA); DTPA was approved by the FDA to treat internal contamination with plutonium, americium, and curium, but it also chelates berkelium, californium, and any material with an atomic number >92. Ca-DTPA is more effective than Zn-DTPA during the first 24 hours after internal contamination, and both drugs are equally effective after the initial 24 hours. If both drugs are available, Ca-DTPA should be given as the first dose. If additional treatment is needed, treatment should be switched to Zn-DTPA. The dose is 1 g Ca-DTPA or Zn-DTPA, dissolved in 250 mL of normal saline or 5% glucose, given intravenously over 1 hour daily. The duration of chelation treatment depends on the amount of internal contamination and the individual response to treatment. DTPA also can be administrated by nebulized inhalation; 1 g is given in 1:1 dilution with water or saline over 15每20 minutes. Nebulized Zn-DTPA is recommended if the internal contamination is only by inhalation. The IV route is recommended and should be used if the route of internal contamination is not known or if multiple routes of internal contamination are likely. Treating uranium contamination with DTPA is contraindicated due to its synergistic damage to the kidneys.
+
+Lung lavage can reduce radiation-induced pneumonitis and is indicated only when a large amount of radionuclide enters the lungs and has the potential for acute radiation injury. The procedure requires anesthesia. Table 223-2 summarizes the common treatment regimens for internal radionuclide contamination.
+
+Table 223-2 Common Drugsa for Treatment of Internal Contamination
+
+ 
+ 
+Medication Administered for Radionuclides Route of Administration Dosage Duration Mechanism of Action 
+KI 131I
+  PO 130 mg/d for adults >40 with thyroid exposure >500 cGy; 130 mg/d for adults 18每40 with thyroid exposure >10 cGy; 130 mg/d for pregnant or lactating women with thyroid exposure >5 cGy; 65 mg/d for children and adolescents 3每18 with thyroid exposure >5 cGy; 32.5 mg/d for infants 1 mo to 3 y with thyroid exposure >5 cGy; 16 mg/d for neonates from birth to 1 mo with thyroid exposure >5 cGy 7每14 d Blocking agent 
+Zn-DTPA Plutonium, trans-plutonium, yttrium, americium, curium  IV 1 g in 250 mL NS or 5% glucose, given in 1每2 h, or bolus over 3每4 min  Up to 5 d Chelating agent 
+    Inhalation 1 g in 1:1 dilution with water or NS over 15每20 min     
+    IM 1 g; not recommended because of pain     
+Ca-DTPA Plutonium, trans-plutonium, yttrium, americium, curium  IV 1 g in 250 mL NS or 5% glucose, given in 1每2 h, or bolus over 3每4 min  Up to 5 d Chelating agent 
+    Inhalation 1 g in 1:1 dilution with water or NS over 15每20 min     
+    IM 1 g; not recommended because of pain     
+Bicarbonate Uranium IV 2 ampoules sodium bicarbonate (44.3 meq each, 7.5%) in 1000 mL NS, 125 mL/L, or 1 ampoule of sodium bicarbonate (44.3 meq, 7.5%) in 500 mL NS, 500 mL/h Usually IV for the first 24 h, PO for additional 2 d; continuation of treatment for >3 d is rare and can be done according to titration of uranium amounts in the body Increased excretion via the kidneys 
+    PO 2 tablets every 4 h until urine pH = 7每8, or 4 g (8 tablets) 3 tid      
+Prussian blue Cesium-137 PO 1 g tid with 100每200 mL water, up to 10 g/d =3 wk titrated by urine and fecal bioassay and whole-body counting Ion exchanger 
+Water Tritium (H-3) PO >3每4 L per d 3 wk Excretion of water 
+Aluminum phosphate gel Strontium PO 100 mL immediately after exposure Once Decreased gut absorption 
+Aluminum hydroxide   PO 60每100 mL Once Decreased gut absorption 
+ 
+
+
+aExcluding Kl, these drugs have not been approved for this purpose by the U.S. Food and Drug Administration at the time of publication.
+
+Abbreviations: NS, normal saline.
+ 
+
+Medical Assay of the Radiation-Exposed Patient
+
+One of the major difficulties in treating victims exposed to radiation is determination of the amount of exposure. Clinical assessment of the patient is the best approach. Biodosimetry, when available, can lead to better assessment of the level of exposure. The clinical assessment is based primarily on the timing and severity of the prodrome of ARS. Appearance of an early prodrome indicates high exposure to radiation. Victims who arrive at the hospital complaining of severe weakness, nausea, vomiting, diarrhea, or seizures probably will not survive despite supportive measures. Decontamination and the use of radiation-detection equipment are both very important. Few tests can be performed to estimate the radiation exposure and the contamination. Biodosimetry Assessment Tool (BAT) is a tool to aid treatment decisions during radiation exposure incidents; it was developed by the U.S. Armed Forces Radiobiology Research Institute (http://www.afrri.usuhs.mil). Baseline laboratory tests should include a complete blood count with differential and platelet count, renal evaluation, and determination of electrolytes. Urine and stool samples should be obtained if internal contamination is suspected. Nasal swabs should be taken from each nostril for determination of inhalation of radionuclides. The nasal swabs are useful if taken within the first 1每2 hours after the exposure. After exhalation, each swab is labeled and sealed in a plastic bag and sent for analysis to appropriate laboratories. Patients exposed to 0.7每4 Gy will develop pancytopenia from as early as 10 days to as long as 8 weeks after exposure. Lymphocytes show the most rapid decline, whereas other leukocytes and platelets decline less rapidly. Erythrocytes are the least vulnerable blood elements.
+
+Absolute lymphocyte counts should be taken every 4每6 hours for 5每6 days; they are the most valuable early indicator because they are recognized to be a sensitive marker for radiation damage and correlate with both the exposure and the prognosis. A 50% drop in absolute lymphocyte count within the first 24 hours indicates a significant injury. HLA typing is necessary whenever there is suspicion of irreversible bone marrow damage. Lymphocyte chromosomal analysis can detect radiation exposure as low as 0.03每0.06 Gy, and 15 mL of blood should be drawn as early as possible in a heparinized collection tube and kept cool. Radiation-induced chromosomal aberrations in peripheral blood lymphocytes include dicentric chromosomes and ring forms that last for a few weeks. Calibration of a dose-response curve makes it possible to assess the radiation dose. Dicentric quantification requires multiple days to perform and is available only in select centers.
+
+Another method for estimating exposure is the in vitro cytokinesis-block micronucleus assay. Micronuclei can be the result of small acentric chromosome fragments that arise during exposure to radiation. The technique to score the micronuclei in peripheral blood lymphocytes has been standardized in the last few years. It can be a useful tool in small-scale exposure but is not feasible in a mass casualty setting. An algorithm for the treatment of radiation casualties is shown in Fig. 223-3.
+
+Figure 223-3
+
+ 
+ 
+ 
+General guidelines for treatment of radiation casualties. CBC, complete blood count.
+ 
+ 
+
+Follow-Up
+
+It is desirable to continue follow-up in some circumstances. In general, only persons who are exposed to <8每10 Gy whole-body irradiation have a chance to survive in the long term, and they are at risk of developing cataracts, sterility, and lung, kidney, and bone marrow problems. Based on their age, their gender, and the amount and type of exposure, they should be followed for many years. A major public health issue is the risk of secondary malignancy in individuals and populations that were exposed to low doses of radiation. Leukemia and breast, brain, thyroid, and lung cancer are the most common, but the exposed population is at increased risk for many other cancers as well. Appropriate follow-up protocols should be developed, based on the type of exposure and the exposed population. In cases of internal contamination, the long-term follow-up should be focused on the organ at risk. Such is the case with uranium contamination, with its nephrotoxic properties.
+ 
+Further Readings
+
+Dainiak N: Hematologic consequences of exposure to ionizing radiation. Exp Hematol 30:513, 2002[PMID: 12063018] 
+
+ 
+Harper FT et al: Realistic radiological dispersal device hazard boundaries and ramifications for early consequence management decisions. Health Phys 93:1, 2007[PMID: 17563488] 
+
+ 
+Homeland Security Council: Planning Guidance for Response to a Nuclear Detonation. http://www.remm.nlm.gov/planning-guidance.pdf 1/2009 
+
+ 
+Lawrence Livermore National Laboratory: Key Response Planning Factors for the Aftermath of Nuclear Terrorism. http://www.remm.nlm.gov/IND_ResponsePlanning_LLNL-TR-410067.pdf 
+
+ 
+Mettler FA JR, Voelz GL: Major radiation exposure〞what to expect and how to respond. N Engl J Med 346:1554, 2002[PMID: 12015396] 
+
+ 
+Moulder JE: Report on an interagency workshop on the radiobiology of nuclear terrorism: Molecular and Cellular Biology of Moderate Dose (1每10 Sv) Radiation and Potential Mechanisms of Radiation Protection (Bethesda, MD, December 17每18, 2001). Radiat Res 158:118, 2002[PMID: 12071812] 
+
+ 
+U.S. Department of Health and Human Services: Radiation event medical management: Guidance on diagnosis & treatment for health care providers. http://www.remm.nlm.gov/remm_Preplanning.htm 
+^^

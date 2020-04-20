@@ -1,0 +1,945 @@
+
+World Demography of Aging: Introduction
+
+Population aging is transforming the world in dramatic and fundamental ways. The age distributions of populations have changed and will continue to change radically, due to long-term declines in fertility rates and improvements in mortality rates (Table 70-1). This transformation, known as the Demographic Transition, is also accompanied by an epidemiological transition, in which noncommunicable chronic diseases are becoming the major causes of death and contributors to the burden of disease and disability. A concomitant of population aging is the change in key ratios expressing "dependency" of one form or another〞the ratio of adults in the workforce to those typically out of the workforce, such as infants, children, retired "young old" (those still active in many ways other than paid work) and the oldest old. Global aging will affect economic growth, migration, patterns of work and retirement, family structures, pension and health systems, and even trade and the relative standing of nations. Both numbers (the size of an age group) and ratios (the ratio of those in the labor force age group to dependants such as the young or retired, or the ratio of children to older people) are important. The size of population age groups might affect the number of hospital beds needed, while the ratio of children to older people, the relative demand for pediatricians and geriatricians.
+
+Table 70-1 Selected Indicators of Population Aging, Estimates for 2009 and Projections to 2050; Selected Regions and Countries
+
+ 
+ 
+  Population Age 60+ (in millions) Percentage of Population 60+ Life Expectancy at Birth Life Expectancy at 60 Old Age Support Ratioa  
+  2009 2050 2009 2050 Male Female Male Female 2009 2050 
+World  737 2008 11 22 65.4 69.8 18.1 21.2 9 4 
+More Developed Regions 264 416 21 33 73.6 80.5 19.6 23.7 4 2 
+Less Developed Regions 473 1592 8 20 63.9 67.4 17.3 19.6 11 4 
+Least Developed Countries 43 185 5 11 54.7 57.2 15.3 16.8 17 9 
+Africa  53.8 212.8 5 11 52.9 55.3 15.2 17.1 16 9 
+Egypt 6.0 24.8 7 19 68.3 71.8 16.2 18.3 14 5 
+Tanzania 2.1 8.4 5 8 54.6 56.2 16.1 17.6 17 13 
+Kenya 1.6 7.9 4 9 53.7 54.5 16 17.8 21 11 
+Nigeria 7.6 27.7 5 10 47.3 48.3 14.5 15.7 17 11 
+South Africa 3.6 8.1 7 14 49.9 53.2 13.6 17.8 14 7 
+Asia  399.9 1236.1 10 24 67.1 75.7 17.6 20.3 10 4 
+China 160.2 440.4 12 31 71.3 74.8 18.2 20.7 9 3 
+Japan 37.8 44.9 30 44 79 86.2 22.1 27.8 3 1 
+Rep. of Korea 7.3 18.0 15 41 75.9 82.5 19.7 24.6 7 2 
+India 88.6 315.6 7 20 62.1 65 16 17.9 13 5 
+Pakistan 11.1 49.8 6 15 66 66.7 17.6 18.4 15 7 
+Indonesia 20.2 71.6 9 25 68.7 72.6 16.5 18.5 11 3 
+Australia 4.1 8.5 19 30 79.1 83.8 22.3 25.8 5 3 
+New Zealand 0.8 1.6 18 29 78.2 82.2 21.6 24.7 5 3 
+Europe  158.5 236.4 22 34 71.1b
+  79.1b
+  18.3 22.6 4 2 
+Russian Federation 25.0 36.8 18 32 60.3 73.1 14.3 19.2 6 3 
+United Kingdom 13.8 20.9 22 29 77.2 81.6 20.4 24 4 3 
+Italy 15.8 22.3 26 39 78.1 84.1 21.5 25.9 3 2 
+Germany 21.1 27.9 26 40 77.1 82.4 20.4 24.6 3 2 
+France 14.1 22.0 23 33 77.6 84.7 21.6 26.6 4 2 
+Americas                      
+United States 56.2 110.5 18 27 76.9 81.4 21.2 24.6 5 3 
+Canada 6.5 14.1 20 32 78.3 82.9 21.7 25.2 5 2 
+Mexico 10.0 36.4 9 28 73.8 78.6 20.6 22.9 10 3 
+Argentina 5.9 12.7 15 25 71.6 79.1 18.1 23 6 3 
+Brazil 19.1 64.0 10 29 68.7 76 19.5 22.4 10 3 
+ 
+
+
+aUN Population Division defines Old Age Support Ratio as the number of persons aged 65 or older per one hundred persons aged 15 to 64 years.
+
+bThe UN includes all European regions in its overall statistics; life expectancy at birth for males ranges from 63.8 years in Eastern Europe to 77.4 years in Western Europe. For women it ranges from 74.8 to 83.1 years in Western Europe.
+
+Source: United Nations Population Division, World Population Ageing 2009.
+ 
+
+While the increase in life expectancy, resulting from a series of social, economic, public health, and medical victories over disease, might very well be considered the crowning achievement of the past century and a half, the increased length of life coupled with the shifts in the size of dependent groups relative to the size of the labor force, present formidable long-term challenges.
+
+The pace of the change is accelerating. In countries where the Demographic Transition began earlier, the process was slower: it took France 115 years for the proportion of the age group 65 and older to increase from 7 to 14% of the total population, and the United States will soon have completed this same increase in 69 years. But in countries that started the transition later, the process is occurring much more rapidly: Japan took 26 years to go from 7 to 14% age 65 and older, while China and Brazil are projected to require just 24 years.
+
+Sometime around the year 2020, for the first time ever, the number of people aged 65 and older in the world is expected to exceed that of children under the age of 5. Around the middle of the twentieth century, the under-5 age group constituted almost 15% of the total population and the over-65 age group 5%. It took about 70 years for these two to reach equal proportions. But population forecasts predict it will take only another 30 years for the 65 and older age group to equal about 15% and the younger age group, 5%. By the middle of their careers, medical students in most countries should expect to be practicing in far older populations. Preparations for these changes need to begin decades in advance, and the costs and penalties of waiting can be very high. While some governments have started planning for the long term, many, if not most, have yet to begin.
+ 
+Historical
+
+Population aging around the world in recent decades has followed a broadly similar pattern, starting with a decline in infant and childhood mortality that precedes a decline in fertility; at later stages, mortality at older ages declines as well. Declining fertility began as early as the beginning of the nineteenth century in the United States and France and extended to the rest of Europe and North America and parts of East Asia by the middle of the twentieth century. Since World War II, fertility declines have started in all other world regions. In fact, more than half the world's population now lives in countries or provinces with fertility rates below the replacement level of just over two live births per woman. Mortality rates also began to change, relatively slowly at first, in Western Europe and North America during the nineteenth century. At first, changes were most evident at the youngest ages. Improvements in water supply and sewage handling, as well as in nutrition and housing, accounted for most of the improvement before the 1940s, when antibiotics and vaccines, and increasing education of mothers began to make a major impact. Since the middle of the twentieth century, the "Child Survival Revolution" has spread to all parts of the world. Children almost everywhere in the world are much more likely to reach late middle age now than in previous generations.
+
+Especially since around 1960, mortality at older ages has improved rapidly in most of the developed countries. This improvement has been primarily due to advances in care of heart disease and stroke and in control of conditions like hypertension and hypercholesterolemia that lead to circulatory diseases. In some parts of the world, smoking rates have declined, and these declines have led to lower incidence of many cancers, heart disease, and stroke.
+
+The initial decline in fertility resulted in older age groups becoming a larger fraction of the total population. Declines in adult and old age mortality contributed to the later stages of the process. Life expectancy at birth〞the average age to which someone is expected to live, under prevailing mortality conditions〞has been calculated at around 28 years in ancient Greece, perhaps 30 years in medieval Britain, and less than 25 years in the colony of Virginia in North America. In the United States, life expectancy climbed slowly during the nineteenth century, reaching 49 years for white women by 1900. White men had a life expectancy 2 years lower than that for white women, and black Americans had life expectancy 14 years lower than did white Americans in 1900. By the early twenty-first century, life expectancy in the United States had improved dramatically for all, with the sex gap wider and the racial gaps narrower than at the beginning of the century: 76 years for white men in 2006; 81 years for white women; and 70 and 76 years for black men and women, respectively.
+
+At later stages of the demographic transition, mortality declines at the oldest ages, leading to increases in the 65 and older population, and the oldest old, those older than age 85 years. Migration can also affect population aging. An influx of young migrants with high birth rates can slow (though not stop) the process, as it has in the United States and Canada; or the out-migration of the young leaving older people behind can accelerate aging at the population level, as it has in many rural areas of the world. Wars and pandemic diseases such as AIDS can also change age composition by decimating particular adult age groups.
+ 
+Regional Aging每Numbers and Percentages Older Than Age 60 Years
+
+Regions of the world are at very different stages of the demographic transition (Fig. 70-1). Of a world population of 6.8 billion in 2009, approximately 11% were older than age 60 years, with Japan (30%) and Europe (22%) being the oldest regions (Germany, Italy, and Sweden have the highest percentages, 25每26%), and the United States and Canada having 21% and 20%, respectively. The percentage of the population older than age 60 years in the United States has remained lower than in Europe, due both to modestly higher fertility rates and to higher rates of immigration. The Caribbean and some Latin American countries average 10% older than age 60 years, with countries such as Uruguay, Cuba, and Argentina in the 15每18% range. Asia has about 10% older than age 60 years, with the population giants close to the average〞China (12%), Indonesia (9%), and India (7%). Middle Eastern and African countries have the lowest proportions of older people (5% or lower).
+
+Figure 70-1
+
+ 
+ 
+ 
+Percentages of national populations aged 60+, in 2010. (From the US Census Bureau, International Database. StatPlanet Mapping Software.)
+ 
+ 
+
+Based on estimates from the United Nations Population Division, 737 million people were older than age 60 years in 2009, of whom 264 million lived in more developed countries, 473 million in less developed countries (43 million of the latter living in the least developed countries, as classified by the United Nations). The countries with the largest populations of those aged 60 and older were China (160 million), India (89 million), and the United States (56 million).
+ 
+Numbers每Population Size Projections
+
+Population projections make use of expected fertility, mortality, and migration rates and should be regarded as uncertain when applied 40 or more years in the future. However, the population that will be aged 60 and older in 2050 have all been born and survived childhood in 2010, so uncertainty about their numbers (as distinct from their proportion of the total population) is not great. Comparing the maps of the world in 2010 (Fig. 70-1) and 2050 (Fig. 70-2), it is apparent that the middle- and low-income countries in Latin America, Asia, and much of Africa will be joining the "oldest" category. In the four decades between 2010 and 2050, the United Nations Population Division projects that the world population aged 60 and older will almost triple to 2.01 billion, with the least developed regions more than quadrupling. China's 60+ population is projected to reach 440 million, India's 316 million, and the United States's 111 million. Over the next 40 years, the median age of the world's population is expected to increase by 10 years.
+
+Figure 70-2
+
+ 
+ 
+ 
+Percentages of national populations aged 60 +, in 2050 (projections). (From the US Census Bureau, International Database. StatPlanet Mapping Software.)
+ 
+ 
+
+Current global life expectancy at birth is estimated to be 65.4 for men and 69.8 for women, with the comparable figures for the more developed region being 73.6 and 80.5 years. Life expectancy in the least developed countries averaged only 57.2 for women and 54.7 for men. Life expectancy at birth is heavily influenced by infant and child mortality, which is considerably higher in poor countries. At older ages, the gap between rich and poor nations is narrower; so while women who have reached age 60 in wealthy countries can expect 23.7 more years of life on average, women at age 60 in poor countries live 16.8 years on average〞a significant difference but not so stark as the difference in life expectancy at birth. At the lowest levels of per capita GNP, life expectancy shows a powerful positive association with this measure of economic development but then the slope of the relationship flattens out; for countries with average incomes above about $20,000 per years life expectancy is not closely related to income. At each level of economic development, there is significant variation in life expectancy, indicating that many other factors influence life expectancy.
+
+Japan, France, Italy, and Australia currently have life expectancy among the highest in the world, while the United States has lagged behind other high-income countries since about 1980, especially in the case of white women. The causes of this lag are being explored, but the cumulative number of years that people have smoked tobacco by the time they reach older ages appears to play an important role.
+ 
+Growth of the Oldest Old Population每Those over Age 85
+
+A modern feature of population aging has been the almost explosive growth of the age group known as the oldest old, variously defined as those over age 80 or age 85. This is the age group with the highest burden of noncommunicable degenerative disease and related disability. Thirty years ago, this group attracted little attention because they were hidden within the overall older population in most statistical reports; for example, the U.S. Census Bureau merged them into a 65+ category. The reduction of mortality at older ages coupled with larger birth cohorts surviving into old age led to the rapid growth of the oldest old. This age group is predicted to grow at a significantly higher rate than the 60+ population and one estimate has the current 102 million aged 80+ increasing to almost 400 million by 2050 (Table 70-2). Projected increases are astounding: China's 80+ population might increase from 18 to 101 million, India from 8 million to 43 million, the United States from 12 to 32 million, and Japan from 8 to 16 million. The numbers of centenarians are increasing at an even faster rate.
+
+Table 70-2 Estimates (2009) and Projections (2050) for the Population Aged 80 Years and Older: Selected Regions and Countries
+
+ 
+ 
+  Population Age 80 and Over (in thousands) 
+  2009 2050 
+World  101,873 394,663 
+More Developed Regions 51,827 120,982 
+Less Developed Regions 50,046 273,771 
+Least Developed Countries 3,282 18,221 
+Africa  4,136 21,042 
+Kenya 151 686 
+Congo 20 65 
+Tanzania 164 810 
+South Africa 277 1,226 
+Asia  45,235 227,916 
+China 18,463 101,354 
+Japan 7,693 15,864 
+Rep. of Korea 895 5,618 
+India 7,754 42,583 
+Pakistan 1,041 6,156 
+Indonesia 1,670 11,515 
+Australia 814 2587 
+New Zealand 147 472 
+Europe  29,994 66,147 
+Russian Federation 3,986 6,984 
+United Kingdom 2,869 6,235 
+Italy 3,486 7,670 
+Germany 4,096 9,926 
+France 3,324 7,634 
+Americas      
+United States 11,894 31,501 
+Canada 1,282 4,302 
+Mexico 1,477 7,944 
+Argentina 1,030 2,692 
+Brazil 2,754 14,133 
+ 
+
+
+Source: United Nations Population Division, World Population Ageing 2009.
+ 
+ 
+The Future of Life Expectancy
+
+The members of the population who could potentially become aged 80 and older in 2050 are those aged 40+ who are alive today. The actual numbers who will be age 80 and older in 2050 will therefore depend almost solely on adult and old age mortality rates over the next 40 years. The history of the decline of mortality and increase in life expectancy suggests that improvements in the standard of living including increased and improved education and improved nutrition coupled with improvements in public health stemming from an understanding of the germ theory of disease initially led to the improvements, with medical achievements such as antibiotics and improved understanding of risk factors for cardiovascular and circulatory diseases becoming factors only in the post每World War II period with the largest strides for cardiovascular disease coming only in more recent decades. The improvements in educational attainment of succeeding generations have been credited in large part for improvements in child mortality during the past century, since educated mothers are especially likely to understand and take advantage of measures to reduce infection. The effects of continuing progress will likely be seen in coming decades as well, since educational attainment is associated with improved health and survival at older ages. Countries vary in the extent to which the "future elderly" cohorts will be more educated. China in particular will have a much more educated elderly population in 2050 (with more than two-thirds of the 65+ population having completed secondary school) than it did in 2000 (when only 10% of older people had a secondary education). In the United States and other rich nations, this change has largely taken place already; future changes in educational attainment of the elderly population will be less dramatic.
+
+Holding aside the possibility of new infectious diseases ravaging populations as AIDS did in some African countries, debates about future life expectancy revolve around the balance and influence of risk factors such as obesity, the possibility of reducing the deaths from current killers such as cancer, heart disease, and diabetes, whether there is some natural limit to life expectancy, and the distant though nonzero possibility that science will find a way to slow the basic processes of aging.
+
+While some have posited natural limits to human life expectancy, the limits have been surpassed with some regularity and at the very oldest ages in the leading countries with the highest life expectancy, there appears to be little evidence of any approaching asymptote. Indeed a surprising discovery was that life expectancy in the leading country over the last century and a half, with different countries taking the lead in different epochs, could be represented almost perfectly by a straight line, with the increase for females showing a steady and astonishing increase of three months per year or 2.5 years per decade (Fig. 70-3). No single country kept that pace of improvement the entire time, but this trend does call into question the notion that improvement must slow down, at least in the near future.
+
+Figure 70-3
+
+ 
+ 
+ 
+Life expectancy in most advanced nations, 1800-2000, females. (From J Oeppen, JW Vaupel: Science 296:1029, 2002.)
+ 
+ 
+
+There remains a great deal of diversity in health conditions both among and within national populations. There is nothing inevitable about the mortality transition〞in several African countries, the prevalence of AIDS has been high enough to cause life expectancy to fall below the levels of 1980. Though none has so far reached a scale to rival the AIDS epidemic, periodic outbreaks of new influenza viruses or "emerging infectious" agents remind us that infectious diseases could again come to the fore. Progress against chronic disease is also reversible: In Russia and some other countries that formed part of the Soviet Union before 1992, life expectancy for men has been declining, now reaching levels below those of men in South Asia. Much of the gap between Russian and Western European men is explainable by much greater heart disease and injuries among the former.
+ 
+Dependency and Caregiving Ratios
+
+Ratios of different age groups provide useful though crude indicators of potential demands on resources and resource availability. One set of ratios, known variously as dependency or support ratios, compare the age groups who are most likely to be in the labor force with the age groups typically dependent on the productive capacity of those working〞the young and the old, or just the old. A commonly used ratio is the number of persons aged 15每64 per persons aged 65 and older. Even though many in some countries do not enter the labor force until significantly older than age 15, retire before age 65 or work past age 65, the ratios do summarize important facts, especially in countries where financial support for the retired comes partially or mainly from those currently in the labor force through either a formal pension system or through the family. While many countries, including China and most African countries do not have formal pension systems except in specialized sectors such as the government sector, in Europe public pensions are quite generous, and face dramatic changes in their dependency ratios. Over the next 40 years, Western Europe faces a drop in the ratio from 4 to 2. In other words, while in crude terms there are today 4 workers supporting the pensions and other costs of each older person, by 2050 there will only be 2. China faces an even steeper drop from 9 of working age to only 3, while Japan declines from 3 to just 1. Even in India, projected to become the most populous country, the decline is quite steep from 13 to 5.
+
+The dramatically declining number of workers per older person (however determined) is at the crux of the economic challenge of population aging. The extra years of life that can be considered the crowning achievement in medicine and public health of the last 150 years have to be financed. The economic model of the life cycle assumes that people are economically productive for a limited number of years and that the proceeds of their work during those years have to be smoothed over to finance consumption during less economically productive ages, either within families or by institutions such as the state in order to provide for the young, the old, and the infirm. There are only so many ways to meet the challenge of an extended period of dependency, including increasing the productivity of those in the labor force, saving more, reducing consumption, increasing the number of years worked most especially by increasing the age of retirement, increasing the voluntary nonmonetary productive contributions of the retired, and immigration of very large numbers of young workers into the "old" countries. Pressures to increase retirement ages in industrialized countries and to reduce benefits are increasing. But no single one of these measures can bear the full load of adaptation to population aging, since the changes would have to be so severe and disruptive as to be politically impossible. More likely will be some combination of these measures.
+
+Population health and the ability to function at work and in everyday life interact with these population ratios in significant ways. The physical and cognitive capacity to continue to work at older ages is crucial if the age of retirement is raised. Similarly, caregiving often requires significant physical and emotional stamina. Further, healthier older populations require less caregiving and medical services. Just two decades ago, the prevalent view of aging was highly pessimistic. Epidemiologists held that while modern medicine could keep older people alive, nothing much could be done to prevent, delay, or significantly treat the degenerative chronic diseases of aging. The result would be that more and more older people with chronic diseases would be kept from dying, with the consequent piling up of the older people disabled by chronic disease. Surprisingly, between 1984 and about 2000, the prevalence of disability in the 65+ population in the United States declined by about 25%, suggesting that in this respect, aging was more plastic than had been previously believed (Fig. 70-4). All the causes of this significant shift in disability are not yet understood, but rising levels of education, improved treatment of cardiovascular diseases and cataracts, greater availability of assistive devices, and less physically demanding occupations have been found to contribute. One calculation showed that if the rate of improvement could be maintained until 2050, that the numbers of disabled in the older population could be kept constant despite the aging of the baby boomers and the older population itself growing older. Unfortunately, concern is increasing that the rapid increase in obesity rates will negate and perhaps even reverse this most positive trend. Because of the absence of comparable data in other countries, it is uncertain whether the same improvement in disability rates (or recent deceleration) is occurring outside of the United States, but a global network of longitudinal studies on aging, health, and retirement is now providing data to answer the question.
+
+Figure 70-4
+
+ 
+ 
+ 
+Disability prevalence, various years 1982-2005, by age group over 65, United States. (Adapted from KG Manton et al: Proc Natl Acad Sci U S A. 103:18374, 2006.)
+ 
+ 
+
+Population aging, and related demographic changes including changes in family structure, could also have powerful though indirect effects through the "supply side" and health care financing. In every country, long-term care of the disabled and the chronically ill relies heavily on informal, typically unpaid caregivers〞usually spouses, children, and, increasingly in more developed countries, caregivers for the oldest old are in their 60s and early 70s. Though there are many men who provide care, on the population level, informal caregiving is still mainly done by women. Because both men and women are living longer than in the past, the "young old" in most countries are less likely than in the past to be widows. But because women live longer than men, lack of a spousal caregiver is especially likely to be a problem for older women. Both men and women have fewer children on whom they can call for informal caregiving, because of the worldwide decline in fertility rates. An increasing proportion of older men in Europe and North America have spent much or all of their adult lives apart from their biological children. Lower fertility rates, delayed marriage, and increasing divorce rates among their children mean that people approaching old age may be less likely to have or to have close ties with daughters and daughters-in-law〞the adults who have in the past been the most common caregivers apart from spouses. Adult women who in the past have provided uncompensated care (and much other essential volunteer work) are now more likely than in the past to be working for pay, and thus have fewer hours to devote to the unpaid roles.
+
+These broad demographic and economic trends do not dictate particular social adaptations or policy responses, of course. One can imagine many different responses to the challenges of caring for the disabled〞increased reliance on home health agencies and assisted living communities, "naturally occurring retirement communities" in which neighbors fulfill many of the roles once reserved for close kin; private or even publicly financed direct payments to compensate formerly unpaid family caregivers (a reform that has proved very popular in Germany)〞these and other responses to the challenge of long-term care are being tested in aging countries, and others will no doubt be needed.
+ 
+The Epidemiologic Transition每Changes in the Burden of Disease and Risk Factors
+
+The secular improvements in ages at death have been accompanied by changes in causes of death. In the broadest terms, the proportion of deaths due to infectious disease and conditions associated with pregnancy and delivery has fallen, and the proportion due to chronic, noncommunicable diseases, such as heart and cerebrovascular diseases, diabetes, cancers, and age-related neurodegenerative diseases such as Alzheimer's and Parkinson's diseases, has increased steadily and is expected to continue to increase. Figure 70-5 shows results from an international comparative project that drew on a wide variety of data sources to provide estimates of the global burden of disease at the beginning of this century, with projections to future years based on recent trends in disease prevalence and demographic rates. Burden of disease in these pie charts is a composite measure, one that takes into account both the number of deaths due to a particular disease or condition and the timing of such deaths〞an infant death represents a loss of more potential life-years lived than does the death of a very old person. Nor is death the only outcome that matters; most diseases or conditions cause significant disability and suffering even when nonfatal, so this measure of burden captures nonfatal outcomes using statistical weighting. As Table 70每3 shows, the "modern plagues" of chronic noncommunicable diseases are already among the leading causes of premature death and disability even in low-income countries. This is due to a mix of factors〞lower fertility rates mean fewer infants and children at prime ages of susceptibility to infections; more people reaching older ages when chronic disease incidence is high; and often changing incidence rates due to increased exposure to tobacco, Western diets, and inactivity. Noncommunicable diseases, once thought of as "diseases of affluence"〞are projected to account for more than half of the disease burden even in low- and middle-income countries by the year 2030 (Fig. 70-5).
+
+Figure 70-5
+
+ 
+ 
+ 
+Leading causes of burden of illness in world regions 2002 and projected for 2030. (Adapted from Mathers and Loncar.)
+ 
+ 
+Table 70-3 Diseases and Conditions Causing the Greatest Burden of Disease for Low-, Middle-, and High-Income Countries
+
+ 
+ 
+  Low-Income Countries Medium-Income Countries High-Income Countries 
+1 Lower respiratory infections Unipolar depressive disorders Unipolar depressive disorders 
+2 Diarrheal diseases Ischemic heart disease Ischemic heart disease 
+3 HIV/AIDS Cerebrovascular disease Cerebrovascular disease 
+4 Malaria Road traffic accidents Alzheimer's and other dementias 
+5 Prematurity and low birth weight Lower respiratory infections Alcohol use disorders 
+6 Neonatal infections and other COPD Hearing-loss, adult onset 
+7 Birth asphyxia and birth trauma HIV/AIDS COPD 
+8 Unipolar depressive disorders Alcohol use disorders Diabetes mellitus 
+9 Ischemic heart disease Refractive errors Trachea, bronchus, lung cancers 
+10 Tuberculosis Diarrheal disease Road traffic accidents 
+ 
+
+
+Note: "Burden of Disease" takes into account years of life lost due to premature death, and also a weighted estimate for years spent with disability, pain, or impairments due to conditions. These estimates are aggregated from many different national reporting systems and special surveys or surveillance systems, with adjustments for incomplete coverage and different reporting schemes. Especially for older people with multiple chronic conditions, it is difficult even for physicians familiar with their case to designate underlying and precipitating causes. For example, Alzheimer's disease and other dementias are treated very differently and cause-of-death data are of little use in studying trends and differences in dementiaprevalence.
+
+Abbreviation: COPD, chronic obstructive pulmonary disease.
+
+Source: World Health Organization: The Global Burden of Disease: 2004 Update. ? World Health Organization 2008. Accessed February 28, 2011 at http://www.who.int/healthinfo/global_burden_disease/2004_report_update/en/index.html.
+ 
+ 
+Summary
+
+Population aging is a global phenomenon with profound short- and long-term implications for health and long-term care needs, and indeed for the economic and social wellbeing of nations. The timing and context of aging vary across and within world regions and countries; the industrialized nations became wealthy before they aged significantly, while many of the low resource regions will age before they become significantly industrialized. The variation at both the population level and individual levels indicates that there is a significant degree of flexibility in successful aging, but meeting the challenges will require significant advance planning and preparation. The extent to which research can find solutions that reduce physical and cognitive disability at older ages will be a significant factor in how countries cope with this fundamental transformation of populations and societies.
+ 
+Further Readings
+
+Cutler D et al: The determinants of mortality. J Econ Perspectives 20:97, 2006 
+
+ 
+Kinsella K, He W: US Census Bureau, International Population reports, P95/09-1, in An Aging World: 2008. Washington DC, Govt Printing Office 2009 
+
+ 
+Lopez AD et al: The global and regional burden of disease and risk factors in 2001: Health priorities at the beginning of the millennium. Lancet 367:1747, 2006[PMID: 16731270]  [Full Text]
+
+ 
+Mathers CD, Loncar D: Projections of global mortality and burden of disease from 2002 to 2030. PLoS Med 3:e442, 2006 
+
+ 
+Samir KC et al: Projection of populations by level of educational attainment, age and sex for 120 countries for 2005-2050. Demographic Research 22:Article 15, 2010 (online at www.demographic-research.org) 
+
+ 
+Schoeni RF et al: Why is late-life disability declining? Milbank Q 86:47, 2008[PMID: 18307477]  [Full Text]
+
+ 
+United Nations Dept of International Economic and Social Affairs, Population Division (2010). World Population Ageing 2009. United Nations, NY, 2010 
+
+ 
+Vaupel JW: Biodemography of human ageing. Nature 464:536, 2010[PMID: 20336136]  [Full Text]
+
+^^
+The Biology of Aging: Introduction
+
+Thanks largely to the power of genetic analysis in model organisms such as Caenorhabditis elegans (a nematode), Drosophila melanogaster (a fruit fly), and the laboratory mouse, major advances have been made in the elucidation of what can be termed "public" modulations of intrinsic biological aging〞that is to say, commonalities of gene actions across widely diverse phyla that explain, in part, the plasticity of processes of aging. There are hints that at least one such conserved pathway may be operative in our own species. These observations, together with related research on other biochemical pathways, a long history of research on the beneficial effects of dietary restriction (most recently including an initial report of its beneficial effects on healthspan and lifespan in a primate) (Fig. 71-1), and spectacular advances in genomics raise the possibility that we may one day be able to delay the times of onset and decrease the rates of progression of aging processes. Such interventions have the potential to extend the healthspans and, therefore, the functional lifespans of a large proportion of our population. This new knowledge, however, is still very distant from clinical translation. Many remain skeptical of the relevance of these experimental findings. Moreover, we need much more information on the pathophysiology of aging, especially in the invertebrate models that have provided most of our new knowledge concerning genetic modulations of lifespan. We will also require more detailed information on the impact of longevity enhancements upon what can be described as the "terminal decline" of the life course, the stage of life in humans responsible for protracted morbidity, frailty, and the consequent loss of the ability to live independently. These terminal declines account for a very substantial proportion of all health care costs. Finally, the promising new knowledge needs fuller discussions by ethicists, economists, sociologists, and political scientists, among others, as to the impacts upon society of any large-scale clinical translations.
+
+Figure 71-1
+
+ 
+ 
+ 
+ 
+ 
+ 
+Photographs of an old (age 27.6 years) calorically restricted (CR) Rhesus monkey (A, B) compared to an age-matched control (C, D). The mean lifespans of control animals in captivity is 27 years and the maximum lifespan is about 40 years. CR (30% of ad libitum fed controls) was initiated as adults (ages 7每14 years). Restricted animals exhibited superior insulin sensitivity, less fat, more muscle mass, and fewer diseases (diabetes, neoplasia, cardiovascular, brain atrophy). Preliminary analyses of survival curves were consistent with enhanced longevity of the CR cohort. (Reproduced from RJ Colman et al: Science 235:201, 2009; with permission.)
+ 
+ 
+
+Definitions of Aging: Senescent Phenotypes
+
+Mammalian gerontologists usually define aging in terms of the gradual, insidious, and progressive declines in structure and function (involving molecules, cells, tissues, organs, and organisms) that begin to unfold after the achievement of sexual maturity. These declines affect the germ line as well as the soma. For large populations of individuals, exponential declines in the probability of survival are observed. The aging organism is less successful in its reaction to injury and has increasing difficulties in maintaining physiological homeostasis. The organism, therefore, becomes increasingly vulnerable to a wide range of environmental perturbations.
+
+Biological aging is the major risk factor for essentially all of the major geriatric disorders, including dementias of the Alzheimer type (DAT), Parkinson's disease, age-related macular degeneration, ocular cataracts, presbycusis, all forms of arteriosclerosis, type 2 diabetes mellitus, congestive heart failure, sarcopenia, osteoporosis, osteoarthritis, degenerative intervertebral disk disease, immunosenescence, benign prostatic hyperplasia, and most forms of cancer. These and many other disorders (Table 71-1) can be referred to as "senescent phenotypes."
+
+Table 71-1 Alterations in Proliferative Homeostasis in the Tissues of Aging Humans
+
+ 
+ 
+Integument  epidermal atrophy, "liver spots", seborrheic keratoses, basal cell ca, squamous cell carcinoma, graying and loss of hair, eccrine sweat gland atrophy, apocrine sweat gland hyperplasia, stasis dermatitis, regional subcutaneous atrophy, hyperplasia 
+Sensory  lacrimal gland atrophy, corneal degenerations, ocular cataracts, age-related macular degeneration, presbycusis, olfactory loss 
+Musculoskeletal  sarcopenia, "fatty infiltration" of muscle, osteoarthritis, osteoporosis 
+Hematopoietic/Immune  anemias, myelodysplastic syndromes, leukemia, lymphoma, monoclonal gammopathy and multiple myeloma, autoimmune disorders (e.g., atrophic gastritis and polycythemia vera), immunosenescence (accelerated in AIDS) 
+CNS  reactive gliosis, dural and meningeal fibrosis 
+Cardiovascular  atherosclerosis, arteriolosclerosis, myocardial interstitial fibrosis 
+Pulmonary  interstitial fibrosis, emphysema 
+Renal  glomerulosclerosis, interstitial fibrosis 
+Male Reproductive  benign prostatic hyperplasia (smooth muscle and glands), adenocarcinoma of prostate, testicular atrophy 
+Female Reproductive  ovarian atrophy and theca cell hyperplasia, endometrial atrophy and hyperplasia, endometrial carcinoma, smooth muscle atrophy, leiomyomas of uterus 
+Endocrine  parenchymal atrophy with interstitial fibrosis, cell type-specific hyperplasias, adenomas 
+GI  mucosal and smooth muscle atrophy, hyperplastic polyps, adenomas, adenocarcinomas of colon and rectum 
+ 
+
+
+Source: After GM Martin et al: PLoS Genet 3:e125, 2007.
+ 
+
+The Classical Evolutionary Biological Theory of Why We Age
+
+A compelling theory as to why aging occurs has been developed by a series of contributions by evolutionary biologists, beginning with JBS Haldane. Haldane wondered why certain late-onset disorders, such as Huntington's disease, seemed to be so prevalent in England〞perhaps of the order of one per thousand instead of what might have been expected from germ-line mutation rates〞perhaps one per million. He concluded that this was because the disease had largely escaped the force of natural selection, because the commonest forms of the disease did not manifest until after reproduction had ceased. In age-structured populations (i.e., populations consisting of individuals with a wide range of ages), most of the reproduction is carried out by the younger cohorts. This is because, historically, few individuals living in the wild escaped the effects of infections, predation, nutritional deprivations, and accidents to achieve old age. As such, even late-acting good alleles will have only minor contributions to the gene pools of subsequent generations. Peter Medawar extended this idea, arguing that there are numerous such constitutional mutations, an idea that has come to be known as the "mutation accumulation" theory of aging. (These are mutations that one is born with, not somatic mutations.) By this argument, most of us are likely to have been born with some special vulnerability to a late-life disorder or disorders. A second major theory, known as "antagonistic pleiotropy," was developed by George C. Williams. He argued that there are likely to be many genetic alleles that were selected because of their enhancement of reproductive fitness early in the life course, but that have negative effects late in life, when the force of natural selection will have greatly diminished. A more general conceptualization of tradeoffs between reproduction and lifespan (the "disposable soma" theory) was developed by TBL Kirkwood. The evolutionary theory was quantified by William D. Hamilton and elaborated on by Brian Charlesworth and Michael Rose.
+
+Perhaps the best indication that the field of biogerontology has finally matured as a science is the fact that its most cherished theory, what can now be termed as the "classical" evolutionary theory, has undergone several challenges. First, demographers have noted that at the extremes of old age for organisms as diverse as roundworms, fruit flies, med flies, and humans, rates of declines in the force of natural selection diminish. One response to this important challenge (the "cocoon" hypothesis) is that these declines may simply be related to the virtual cessation of locomotor activities at extreme ages. When flies cease flying and worms cease moving, fewer opportunities for serious injuries may result. These "plateaus" in the rates of mortality at very advanced ages are much less striking for people; they might also be related, in part, to diminished motility, as well as to secular trends in the development of central heating, air conditioning, and immunizations. A second challenge comes from geneticists who have discovered that, to our great surprise, many single-gene mutations can substantially increase the lifespans of Baker's yeast, nematodes, and fruit flies This issue has been most systematically explored in C. elegans; a meta-analysis of an initial set of unbiased, genome-wide RNAi screens ("knockdowns," but not "knockouts" of gene expression) has tabulated hundreds of single-gene loci capable of enhancing lifespan when they are dialed down. These genes fall into a finite number of pathways and, moreover, many of them fit within the context of antagonistic pleiotropic mechanisms of aging. For example, hypomorphic mutations in genes within the most famous of these pathways, the insulin-like growth factor (IGF)/insulin signaling pathway, may be reporting on an evolutionarily conserved diapause〞nature's way of taking time out from the business of development and reproduction during hard times, such as severe shortages of food. The gene actions associated with such diapauses (many of which are still unexplored at the biochemical genetic level) understandably result in enhanced resistance to various stresses. A large number of these C. elegans "longevity genes" converge upon a single transcription factor, daf2, or influence mitochondrial function. Moreover, it is possible that many such genes may be specific for this highly inbred laboratory model. In general, these investigations support, rather than refute, the evolutionary theory of aging.
+
+A third challenge to the theory comes mainly from anthropologists and economists and emphasizes intergenerational transfers of resources. As an oversimplification, this idea is often referred to as "the grandmother hypothesis." Older members of population groups have survived a number of threats to their existence and can pass along to their younger family members information about successful avoidance or adaptation. Field experiments with prides of lions and olive baboons have failed to support this hypothesis. Moreover, while many grandparents are now contributing to the reproductive fitness of their children and grandchildren via transfer of resources, current evidence, while still incomplete, indicates that such elders were exceedingly rare within populations of our remote ancestors, when the evolution of species-specific gene actions would have evolved. Any such favorable alleles not expressed until those late stages of life would, therefore, have been vastly diluted by the alleles of their progeny.
+
+A final challenge to evolutionary theory comes from a reexamination of the assumptions made by Hamilton in his influential 1966 paper. Baudisch, using different assumptions, demonstrates that, under some conditions, the force of natural selection can increase during aging. For example, species of rockfish that continue to grow beyond sexual maturity are much more likely to become predators rather than prey; as such, the force of natural selection would, indeed, become stronger, not weaker, as they age.
+
+The message is that aging is non-adaptive. It did not evolve via a program of determinative gene actions that are designed to lead to the death of aging organisms because it is good for the species. Moreover, evolution has taught us that lifespans and their associated healthspans are plastic, thus providing a rationale for the potential effectiveness of future interventions.
+
+Classes of Gene Action that Modulate Rates of Aging
+
+If we are ever to intelligently intervene in one or more aging processes, we must be thoroughly familiar with the nature of the underlying gene actions. We must also be aware of the influences of idiosyncratic constitutional mutations, genetic polymorphisms, gene-gene interactions, environmental agents, gene-environmental interactions, and stochastic events. All of these complexities support what most experienced clinicians have learned in the course of their practices〞namely that no two patients (even identical twins) age in precisely the same way; they share some commonalities but also have unique subsets of structural and functional impairments. Enhancements in the prevention and treatment of geriatric disorders will, therefore, require a more sophisticated and comprehensive understanding of the cellular, molecular, and integrative physiological underpinnings of these intra-specific variations in the patterns of aging.
+
+The evolutionary biological theory of why we age provides clues as to how we age (i.e., the nature of the underlying gene actions). We can, in fact, outline twelve distinct classes of gene actions suggested by the evolutionary theory.
+
+Class One: Good Alleles with Good Effects Early and Late: Longevity Assurance Genes
+
+There are many examples of such genes. For instance, about 150 distinct human genetic loci have already been identified for the repair of DNA. Table 71-2 gives an example of the many different types of genetic loci involved in the oxidative-damage theory of aging. According to that venerable theory, various sources of oxidative damage to macromolecules, notably those produced as byproducts of the oxidative metabolism of mitochondria, are the primary causes of intrinsic biological aging. There is now mounting evidence, however, that this theory is an insufficient explanation for variations in longevity. Nevertheless, increasing evidence also suggests that the modulation of oxidative damage is important for major aspects of healthspan. A cogent example is the evidence that the genetic engineering of mice to provide high concentrations of a human cDNA for catalase directed to the mitochondria greatly ameliorates a form of congestive heart failure responsible for many geriatric hospital admissions. By the criteria of anatomic pathology and echocardiography, the features in aging mice are quite comparable to those observed in aging human subjects. This finding gives support to the proposition that even potentially good novel gene actions can also escape the force of natural selection. Nature has targeted catalase to peroxisomes, but it does not supplement mitochondrial protection by also directing some optimal amount of catalase to the mitochondria to decrease the steady state levels of a dangerous by-product of mitochondrial metabolism, peroxide (H2O2). In the presence of iron, H2O2 results in the synthesis of the highly reactive hydroxyl radical, with resulting damage to all classes of macromolecules in its immediate vicinity.
+
+Table 71-2 Categories of Gene Action Relevant to the Oxidative Damage Theory of Aging
+
+ 
+ 
+Category I  Structural and regulatory genes modulating genesis of free radicals 
+
+Examples: Cytochrome C Oxidase; P450 family
+ 
+Category II  Structural and regulatory genes for scavenger enzymes 
+
+Examples: SOD-1,2,3; Catalase;  Glutamyl cysteine synthetase
+ 
+Category III  Genes regulating flux of nonenzymatic free radical scavengers
+
+Examples: uric acid synthetic enzymes
+ 
+Category IV  Genes regulating target copy number
+
+Examples: Genetic regulation of mitochondrial DNA replication, fusion, fission
+ 
+Category V  Genes specifying target structure
+
+Examples: Structural genes for chromatin proteins and membrane lipoproteins
+ 
+Category VI  Structural and regulatory genes for repair of target macromolecules
+
+Examples: Specification of machinery for reversal, repair, tolerance of DNA damage
+ 
+Category VII Genes specifying the orderly replacement of effete cells Examples: Genes modulating DNA replication and cell cycle progression, apoptosis, growth factors, growth factor receptors, and stem cell biology 
+ 
+
+
+Source: After GM Martin et al: Nature Genetics 13:25, 1996.
+ 
+
+The last category (VII) of gene actions listed in Table 71-2 is relevant to a very important aspect of mammalian aging〞the maintenance of proliferative homeostasis. As mammals age, there is a puzzling juxtaposition of both atrophy and inappropriate hyperplasia, often side by side. This can involve multiple tissues and is associated with numerous geriatric pathologies (Table 71-1). The hyperplasias may act as tumor promoters, leading to benign and malignantneoplasms.
+
+Tissue atrophy may be attributable, in part, to the accumulating effects of cell apoptosis and necrosis from various causes and the failure of stem cells to compensate for the gradual attenuation of the replicative potentials of somatic cells, a process known as replicative senescence or the "Hayflick limit." It remains controversial as to whether or not an in vivo phenomenon exists that reflects the in vitro phenomenon of replicative senescence. The dominant (but not the only) mechanism responsible for replicative senescence is the loss of telomere repeat units from the ends of chromosomes. The germ line, many stem cells, and most cancers are protected from the erosion of telomeres by an enzyme known as telomerase, but this enzyme is absent from most somatic cells. Scientists shared a 2009 Nobel Prize for research in this field, the first such prize to recognize modern research in biogerontology. Cells that have exited the cell cycle typically do not undergo necrosis or apoptosis. They have a variety of phenotypes that characterize them as senescent; most notably a senescence-associated secretory phenotype (SASP) that has important consequences for regional pathology. In brief, such cells secrete a range of pro-inflammatory cytokines, metallothioneins, and mitogens. While such cells may be few in number within a given tissue, they can have a "field effect," thus driving the proliferation of neighboring epithelial cells, altering the connective tissue matrix, and contributing to sustained chronic inflammation. The latter is receiving increasing attention as a major concomitant of intrinsic biological aging.
+
+As noted above, Category VII is also highly relevant to the emerging field of regenerative medicine. A possible generalization emerging from research on the interface of stem cell biology with the biology of aging is that a dominant factor in the decline of the success in mobilizing stem cells for the response to injury resides in the microenvironment of stem cells. This has been most effectively demonstrated in the repair of injury to skeletal muscle, in which satellite stem cells are mobilized quite effectively for repair in young mice but not in old mice. A clever parabiotic experiment provided compelling evidence for a non-cellular factor circulating from young to old mice that was capable of markedly ameliorating the deficient repair in the old mice. The satellite stem cell model has also demonstrated a switch, during adult myogenesis, from the Notch pathway〞required for stem cell proliferation〞to the Wnt pathway〞required for effective differentiation. As is the case with so many signal transduction pathways, there is cross-talk between these two pathways. The situation is more complex, however, with evidence of an important role for a member of the transforming growth factor beta family of cytokines. There may also be a role for Klotho, a transmembrane protein with a structure suggestive of certain glycosidases. In any case, the clinical implications of this field of research are clear: as a much less complex and much safer alternative to the transplantation of stem cells, including those derived from the patient's own cells, clinicians might one day be able to inject small molecular weight compounds to "wake up" the patient's endogenous stem cells.
+
+Class Two: Bad Alleles with Late-Life Penetrance: Idiosyncratic Constitutional Mutations
+
+There is a national debate concerning health care reform, including the need for legislation for the protection of children with pre-existing genetic disorders. It seems likely, however, that we all have pre-existing conditions〞namely gene actions that will lead to variable times of onset and variable severities of late-life disorders. Among these gene actions are individually rare but numerically numerous mutations that do not reach some phenotypic level of expression until middle age or beyond, when the effects will have escaped the force of natural selection. A prototypic example is Huntington's disease, one of a number of triplet repeat diseases; those unfortunate enough to have been born with the requisite number of CAG repeats (coding for a run of polyglutamines) in the affected locus will develop the disease after the peak of reproduction. More cogent examples, perhaps, come from rare, but pathogenetically informative, autosomal dominant mutations at three distinct loci resulting in "early" onset DAT. ("Early" here means younger than age 60; most patients are in late middle age when they're diagnosed with these forms of Alzheimer's disease.) To get some estimate of the genetic load of mutations that were known to lead to late-onset dementias of various types, the following is a systematic analysis of several editions of McKusick's Mendelian Inheritance in Man. In the 1975 edition, some 55 loci were identified from among 2336 listed at that time. Thirty years ago, the conventional wisdom was that there were ~100,000 protein-coding genes in the human genome. When the results of full genome sequencing were about to appear, geneticists participated in a contest (GeneSweep) to see who got closest to the sequencing results; the low bidder (~26,000 genes) won the event. Assuming that number is, in fact, correct (some new estimates suggest somewhat lower or higher figures), we can conclude that about 2.4% of these protein-coding genes, or a total of 624, have the potential to modulate one's susceptibility to dementing disorders of late life. That has to be an absolutely lower limit of how we can get in trouble with cognition as we age; however, as there are thousands of functionally distinct splice variants and thousands of DNA sequences that code for various families of RNA molecules (the "dark matter" of DNA), most of which seem likely to have a role in the regulation of gene expression. We are also learning about so-called "moonlighting proteins"〞single proteins with two distinct functions.
+
+Class Three: Bad Alleles Early with Good Effects Late: Paradoxical Antagonistic Pleiotropy
+
+In theory, such genes can persist in a population either because of a comparatively recent founder effect, or because the allele participates in a balanced polymorphism. Elevated frequencies of the 4G allele and of the homozygous 4G4G genotype were found in centenarians and were associated with high levels of plasminogen activator inhibitor-1. Such high levels are predictive of recurring myocardial infarction in young men. It is, therefore, paradoxical that these high levels are associated with extreme longevity. Like all such studies with centenarians, however, one requires independent confirmations and more sophisticated controls, such as the use of centenarian progeny and their spouses.
+
+Class Four: Bad Alleles Early and Late: Segmental Progeroid Syndromes
+
+These conditions can be defined as genetic disorders that mimic, to various extents, many, but not all, senescent phenotypes found in the general population. Prototypic examples are the Werner syndrome (WS) ("Progeria of the Adult") and the Hutchinson-Gilford syndrome (HGPS) ("Progeria of Childhood"). WS results from homozygosity for null mutations at the WRN locus, which codes for a member of the RecQ family of helicases. To "do business" with DNA, one must first unwind the double helix. The WRN protein appears to have several functions in DNA replication, transcription, recombination, and repair. Telomeres are particularly favored substrates. Almost all HGPS patients suffer from the same C-terminal mutation in the Lamin A gene (LMNA), which codes for an intermediate filament that lines the nuclear membrane. The mutation results in the preferential use of a cryptic splice site, resulting in the deletion of a sequence of 50 amino acids. The abnormal gene product (progerin) no longer acts as a substrate for the enzymatic removal of a post-translational modification (farnesylation). This contributes to structurally distorted nuclei and abnormalities in gene expression and has, therefore, led to clinical trials employing farnesylation inhibitors. Other factors are likely to contribute to the pathology, however. Many segmental progeroid syndromes are characterized by genomic instability. For the case of WS, there is a 10每100 fold increase in mutation rates; large deletions are particularly common. There is a striking limitation of the replicative lifespans of somatic cells from such patients, probably related to unrepaired damage of a major product of oxidative damage, 8-oxo-2'-deoxyguanosine, at telomeres. Deficiency of the WRN helicase also results in pro-inflammatory gene actions characteristic of normative aging.
+
+For the case of HGPS, in addition to the genomic instability related to the abnormal structures of nuclei, there are likely to be important aberrations in the regulation of gene expression. Evidence that the study of HGPS can provide insight into normative aging comes from the discovery that small, potentially pathogenetically relevant amounts of progerin can be found in cells from normal individuals and that the effects of this abnormal protein may be particularly relevant for stem cells.
+
+Class Five: Good Alleles Early with Bad Effects Late: Antagonistic Pleiotropy
+
+This category of gene action may contribute to three of our most devastating geriatric disorders〞cancer, atherosclerosis, and DAT. The evidence that it plays a role in the pathogenesis of cancer comes from research referred to above, largely from the laboratory of Judith Campisi. The underlying hypothesis, as noted above, is that the repression of telomerase in somatic cells and alternative modalities of expediting exit from the mitotic cell cycle (such as DNA damage and oncogenic stimuli), evolved because they were adaptive for young, actively reproducing organisms, where they act as tumor suppressors. Later in life, however, the accumulation of replicative senescent cells may act in tumor promotion, both via mitogenic effects upon neighboring epithelial cells and via degradative actions upon the associated matrix, which may enhance local invasion by neoplastic cells. The arguments for roles in atherosclerosis and in Alzheimer's disease are much more speculative but worthy of more research. For the case of atherosclerosis, an argument can be made that macrophages play a primary pathogenetic role, particularly in the presence of functionally impaired, aged endothelial cells. The primary functions of macrophages are to engulf and destroy pathogens, for which purpose they employ a range of receptors including promiscuous "flypaper" receptors that can also recognize oxidized lipoproteins, which are of relevance to the pathogenesis of atherosclerosis. Given the exposure of modern humans to high-fat diets, late-life deleterious effects of the phagocytosis of oxidized lipoproteins may be an unfortunate tradeoff. Evidence for such a tradeoff has come from experiments with a mouse model of atherosclerosis (APOE knockout mice on a high-fat Western diet). When these mice were crossed with mice deficient in a class-A scavenger receptor (MSR-A), there was the expected amelioration of atherosclerosis. These hybrid mice, however, were shown to be highly susceptible to infection with Listeria monocytogenes or herpes simplex virus.
+
+The evidence for a role of antagonistic pleiotropic gene action in the pathogenesis of DAT remains modest but is of considerable interest. Most such discussions revolve around polymorphic alleles of the APOE gene. The ancestral allele found within primates is the notorious epsilon 4 allele, the single-most important genetic susceptibility factor for common "sporadic" forms of DAT. In populations within the developed world, this has become a minor allele, however. Arguments have been developed that this allele had been (and still is, in some parts of the world) a major allele of Homo sapiens because it is under selection for its putative protection against a variety of infectious agents, either because of its enhancement of the immune/inflammatory response or because of its less efficient delivery of lipids to the membranes of infectious agents such as Trypanosoma brucei, which must obtain its lipids from its infected host. Yet another antagonistic pleiotropic hypothesis for the existence of DAT in our species comes from studies of polymorphic forms of a locus coding for an adaptor protein of importance in the metabolism of the beta amyloid precursor protein (APP), widely considered to be of central importance in the pathogenesis of DAT. The gene coding for this protein is formally designated as the APBB1 (Amyloid Beta A4 Precursor Protein-Binding, Family B, Member 1), but is widely referred to as FE65. Two laboratories have provided evidence that polymorphic alleles of this locus modulate susceptibility to what has been termed "very-late-onset Alzheimer's disease," that is to say, dementias with onsets after the peak ages of onset of the sporadic late-onset forms of Alzheimer's disease that are associated with the epsilon 4 allele of APOE (an association that peaks between 65 and 75 years of age). The FE65 polymorphism was shown to be independent of the impact of the APOE polymorphism. Its minor allele, the dominant allele found in other mammals and primates (species resistant to DAT) was shown to bind with much less avidity to APP. This is likely to significantly alter the modulation of functions of that protein, potentially including the role of the APP/FE65/TIP60 complex in transcription. The authors suggested that the new allele emerged as part of a suite of gene actions to enhance cognitive functions, but that this came with deleterious effects of APP metabolism in late life.
+
+Class Six: Bad Alleles Early and Late: Nuclear and Mitochondrial Somatic Mutations
+
+The accumulation of somatic mutations in the tissues of aging mammals has been well-documented and can be surprisingly high. For example, non-leaky mutations (i.e., severe loss of function mutations) have been shown to rise exponentially in the renal tubular epithelium of human kidneys, reaching levels〞by about age 80〞between 10每3 and 10每4. If one assumes that, for each such severe mutation, there are of the order of ten "leaky" mutations (i.e., mutations with diminished function), one can conclude that the levels of mutations at the single locus that was investigated could approach one in a hundred cells at advanced ages. In aging mice, the rates of increase and the types of nuclear somatic mutations were found to vary substantially from tissue to tissue. The frequencies of chromosomal mutations from the kidneys of aged F1 hybrid mice were found to be as high as one in three cells, but these remarkable results were likely related, in part, to transient exposures of the cells to ambient oxygen, which is now known to be particularly cytotoxic for murine cells. The late Howard J. Curtis, in an early example of the use of comparative gerontology, demonstrated that the levels of carbon tetrachloride-induced chromosomal mutations in mammals were inversely related to their lifespan potentials.
+
+About 1500 genes (encoded by nuclei and mitochondrial DNA) contribute to the functioning of mitochondria. These targets clearly also contribute to the load of somatic mutations during aging and age-related diseases. The frequency of somatic mutation in mitochondrial DNA is ~500每1000-fold higher than it is in nuclear DNA. The tissues of individuals may, in fact, provide unique and dynamic mosaics of patterns of these mutations, serving as a sort of forensic fingerprint. While we have noted above that there is a waning of support for the idea that lifespan is limited by oxidative damage related to mitochondrial metabolism, arguments are still garnered for a primary role in aging processes. We will require more research on the characterization of the specific types of mitochondrial mutations that might be important actors in normative aging, because certain mutations may be more likely to out-compete wild type molecules within cells. Perhaps mutations with rearrangements of the mitochondrial genome produce more than one origin of replication and may lead to dominance ("homoplasty") of deleterious mutant molecules and thus the death of cells bearing that type of mutation.
+
+In contrast to the present debate on the role of mitochondrial mutations and mitochondrial dysfunctions in the genesis of normative cellular aging, support for the roles of mitochondrial dysfunction in common geriatric diseases is becoming stronger. It is noted above that the evidence for an important role of mitochondrial dysfunction in a common form of geriatric congestive heart failure. The evidence of important roles of dysfunctional mitochondria in the genesis of Parkinson's disease is now quite compelling, given the roles of mutations at the DJ-1 and PINK1 loci. There is also great interest in observations of marked increases in the prevalence of mutations in the mitochondrial control region in the brains of patients with DAT. Given the key role of mitochondria in the control of apoptosis, aberrations in this pathway can skew the balance of cell proliferation and cell death and, therefore, modulate carcinogenesis; there is, in fact, growing interest in targeting mitochondria as treatments for cancer. Mitochondrial deletions appear to be key events in the genesis of sarcopenia. Mitochondrial mutations or dysfunctions may also be involved in the pathogenesis of atherosclerosis. Finally, a novel hypothesis has been proposed implicating changes that occur in utero as influences on diseases of aging. Epidemiologic data show an association of small birth weight with the increased risks of developing type 2 diabetes, metabolic syndrome, and cardiovascular disease in adulthood. Leduc and Levy propose that placental mitochondrial dysfunction is present in cases of placental insufficiency and may be a critical influence on the fetus leading to atherosclerosis in later life.
+
+Epigenetic Shifts in Gene Expression
+
+The next six classes of gene action (half of the total) can all be grouped under this heading. The term "epigenetic" refers to covalent chemical alterations in the expressions of DNA that are "on top of" the DNA〞that is to say, in contrast to mutations or polymorphisms, they do not change the primary sequence or arrangement of nucleotides. These alterations produce the striking specificities of gene expression that define the numerous functionally distinct mammalian cell types and are essential components in the reactions to various injuries. These chemical changes are of two broad types. One type involves methylations of cytosines, typically at "islands" of CpG runs within domains, such as promoters and enhancers, that regulate gene expression. Such methylations are associated with gene silencing. A second general type involves alterations of specific amino acids within the histone proteins that coat the DNA, such as acetylations (associated with gene activation), deacetylations (associated with gene silencing), phosphorylations, methylations, ubiquitinylations, and ADP ribosylations. Methods for molecular epigenetic analysis are being applied at the single cell level, a key technical development for gerontology, because there are many shifts in the population heterogeneity of tissues during aging. Such studies are of interest in the assessment of yet another antagonistic pleiotropic mechanism of aging (Class Twelve).
+
+Class Seven: Good Alleles Downregulated Early for Good Reasons: Adaptive Silencing
+
+Given our evolutionary biological premise that nature does not really "care" much about the impact of gene actions that are going on late in the life course (i.e., when the force of natural selection is very weak), any switches in the degrees of gene expression that are initiated at some earlier stage of life because of their adaptive nature could, in principle, have a life of their own and could, therefore, continue to be downregulated or upregulated to a degree that could eventually become deleterious. The following are two examples of such downregulations, one observed in lab mice and the other in people. The first example occurs at the period of life when the somatic growth of mice is dramatically slowed and when resources are switched toward the business of reproduction. Beginning at around that time, a subset of genes that code for the synthesis of ribosomal proteins is silenced. Consequently, the rates of protein synthesis and protein turnover decline in most tissues. This leads to the accumulation of post-translationally modified proteins, including alterations that lead to diminished functions of those proteins, a process likely to contribute to senescent phenotypes. The second example involves the silencing, probably beginning with human puberty, of the estrogen receptor in human colonic mucosa, including regions of the colon that are particularly susceptible to the development of adenocarcinoma. This silencing continues throughout the adult lifespan and, given other lines of evidence for a role of this locus in the regulation of gene expression, likely plays a role in the development of colon cancer the elderly. Both examples involve gene silencing via methylations of CpG dinucleotides.
+
+Class Eight: Good Alleles Upregulated Early for Good Reasons: Adaptive Expression
+
+Here is the counterpoint for the mechanism mentioned above. An example is the enhanced expression of androgenic loci after sexual maturation, a likely contributor to the eventual emergence of benign prostatic hyperplasia later in life.
+
+Class Nine: Good Alleles Inappropriately Upregulated in Late Life: Non-Adaptive Loss of Silencing
+
+The best example of this mechanism comes from research on aging laboratory mice. To cite only one of several examples, a locus (Atp7a) on the X-inactivated chromosome (a normal dosage compensation event) increases expression in the spleen with increasing age. While the links to specific pathophysiological effects of this and other aberrant upregulations of genes remains to be elucidated, it seems likely that that there will be contributions to senescent phenotypes, given large number of such alterations.
+
+Class Ten: Good Alleles Inappropriately Downregulated in Late Life: Non-Adaptive Epigenetic Loss of Expression
+
+An example comes from studies of monozygotic human twins. Both gains and losses of expression were seen in a large number of loci. While it is possible that a number of these alterations were adaptive responses to age-related changes in physiology ("sageing"), given the very large number of these epigenetic alterations in gene expression, many are likely to have resulted in pathophysiological effects.
+
+Class Eleven: Good Alleles for Females, Bad Effects for Males (and Vice-Versa): Sex-Based Antagonistic Pleiotropy
+
+It would seem likely that evolution will have optimized gene actions somewhat differently in males versus females to enhance the fitness for these behaviorally, morphologically, and physiologically distinct organisms. Thus, alleles that evolve because of optimization for females may not be optimal for males, and vice versa〞a sort of evolutionary battle of the sexes. In fruit flies, a large proportion of the alleles that have been optimized for male fertilization are detrimental for the fecundity of females, and vice versa. Arguments have also been made that, given the exclusive inheritance of mitochondria via the female germ line, mitochondrial structure, and function, including numerous interactions with the nuclear genome, may not work as well in males as they do in females. These effects can translate into differential longevities and patterns of late life dysfunction.
+
+Class Twelve: Good or Bad Alleles Early with Bad Effects Late: Epigenetic Gambling and Epigenetic Drift
+
+The histograms of Fig. 71-2 demonstrate a phenomenon that has puzzled gerontologists for generations. Why is it that, despite every effort to control genetics and environment, there are still marked variations in the lifespans of cohorts of experimental animals ranging from worms to mice? By far the best job of controlling for both genetics and environment has been achieved in experiments with C. elegans (Fig. 71-2). These organisms are hermaphrodites and, therefore, every diploid locus is driven to homozygosity〞in other words, populations of these worms essentially consist of identical twins. They also can be grown in axenic media (devoid of bacteria) in temperature-controlled suspension cultures, including those with magnetic stirring rods, so that each individual worm "sees" the same food and waste and has equal opportunities for contact with other worms. Nevertheless, lifespans among such genetically defined organisms show considerable variability. This intrinsic variation is sufficient to produce a remarkable degree of overlap in the distributions of lifespans among wild type controls and a long-lived mutant population. These variations in lifespan are not heritable. Therefore, when considering the relative contributions of nature, nurture, and chance to intraspecific variations in lifespan, chance seems to be the dominating factor. Phenotypic evidence for stochastic variations is seen in the differences in the rates of development of aberrations in the ultrastructure of the skeletal muscles of aging worms. Some of these stochastic factors could involve somatic mutations〞possibly in mitochondria〞but their probable frequencies seem insufficient to explain these striking variations. Therefore, a theory suggests that, based upon the proposition that stochastic variations in gene expression develop in cohorts of all organisms, they enhance survival of the population. In a given environment, some worms may have developed a "lucky" set of gene expressions, while the patterns of gene expression may be quite nonadaptive in some of their identical twins. These individual outcomes could be changed in different environments. It is speculated that such "epigenetic gambling" may have evolved before the development of meiosis as a mechanism to ensure the survival of the species under unpredictable environments. Once initiated, "epigenetic drift" would ensue, eventually leading to departures from physiological homeostasis and senescent phenotypes. Published evidence indicates that epigenetic drift occurs within families of isogenic single cells.
+
+Figure 71-2
+
+ 
+ 
+ 
+Life-span distributions for individual Caenorhabditis elegans nematodes in isogenic populations of wild-type (green bars) and age-1 (red bars) strains. (Reproduced from TB Kirkwood et al: Mech Ageing Dev 126:439, 2005; with permission.)
+ 
+ 
+
+The Identification of Signal Transduction Pathways Capable of Modulating Lifespan and Their Potential as Guides to Drug Targets
+
+Earlier in the chapter evidence was cited for the existence of biochemical genetic pathways (or "signal transduction pathways") that, when appropriately modified, could extend the lifespans of several distantly related species〞in other words, there is now evidence for the existence of "public" or shared mechanisms of aging. Because of claims that drugs that act in such pathways may enhance lifespans in model organisms (and, by extrapolation, perhaps in people), we need to review these pathways and the evidence for pharmacological interventions in more detail. We must keep in mind, however, that there is likely to be extensive cross-talk among these various pathways. Therefore, the "tweaking" of one pathway may have unanticipated effects on distant types of gene actions, especially given the high degree of genetic polymorphism in our species.
+
+The best-documented such longevity-related signaling pathway is the IGF-insulin signaling pathway. The details of this pathway vary somewhat between nematodes, fruit flies, mice, and men, but a key common element is a downstream transcription factor (daf16 in worms and members of the FOXO family in mammals). In response to the regulation of its phosphorylation state, the transcription factors can enter the nucleus and expedite the transcription of a very large suite of genes with diverse activities that serve to enhance the protection of the soma from macromolecular damage. Downregulation of IGF-insulin signaling, as in the case of upstream hypomorphic mutations, releases inhibition of this transcription factor. Such decreased signaling is associated with enhanced longevity. It has also been shown to protect C. elegans from the types of proteotoxicity associated with a variety of human neurodegenerative disorders. It is apparent, however, that an optimum level of functioning of this pathway must have evolved to enhance reproductive fitness and survival in both good times and bad times, including the prevention of diabetes mellitus. That such optimization is subject to modulations by genetic polymorphisms in human subjects is suggested by initial findings that exceptionally healthy and exceptionally long-lived subjects (centenarians) exhibit an enrichment of variant hypomorphic alleles for the IGF1 receptor. In that study, it was interesting that the progeny of these centenarians carrying these alleles were more likely to have shorter stature. Such short stature has been associated with a specific haplotype for IGF1 and with longer lifespans of breeds of dogs.
+
+A second pathway (actually two related pathways) involves mTOR signaling. The nomenclature derives from the discovery that this protein, a serine/threonine kinase, is a target of rapamycin, a drug in clinical use as an immunosuppressive agent, for the prevention of coronary artery restenosis and for the treatment of malignantneoplasms. The pathways are involved in a plethora of vital functions, including cell proliferation and survival, the recycling of intracellular materials, aspects of metabolism including nutrient sensing, the generation of ribosomes, and the regulation of protein translation. It has been referred to as the conductor of the cell-signaling symphony. Rapamycin enhances the lifespans and healthspans of mice even when administered at ages roughly comparable to those of 60-year-old humans. While there appeared to be no impact of this treatment upon the numbers of neoplasms, the dominant cause of death of these strains of lab mice, it remains to be seen if the increased lifespan was attributable, at least in part, to a slowing of the rate of growth of these neoplasms.
+
+A third pathway of growing interest to biogerontologists involves a family of histone deacetylases known as sirtuins. Early experiments in yeast demonstrated that such enzymes are associated with the silencing of genes. Their functions are intimately related to the metabolism of nicotinamide adenine dinucleotide (NAD), a coenzyme used as an oxidizing or reducing agent in a variety of essential metabolic processes. Although still controversial, an important member of this family is SIRT1, homologues of which enhance the lifespans of model organisms. SIRT1 is a putative target of resveratrol, which is thought to activate the enzyme and, therefore, might enhance lifespan and, presumably healthspan as well. Health benefits of large doses of resveratrol have been noted in obese, diabetic mice with fatty livers. Resveratrol, a component of red wine, has caught the imagination of the general public and the investment dollars of some pharmaceutical companies. The latter are searching for more potent variants of the molecule; phase IIa clinical trials in patients with type 2 diabetes and other disorders are in progress.
+ 
+Further Readings
+
+Austad SN: Why we age: what science Is Discovering About the Body's Journey Through Life. New York, John Wiley & Sons, 1997 
+
+ 
+Colman RJ et al: Caloric restriction delays disease onset and mortality in rhesus monkeys. Science 325:201, 2009[PMID: 19590001]  [Full Text]
+
+ 
+Conboy IM et al: Rejuvenation of aged progenitor cells by exposure to a young systemic environment. Nature 433:760, 2005[PMID: 15716955]  [Full Text]
+
+ 
+Coppe JP et al: The senescence-associated secretory phenotype: the dark side of tumor suppression. Annu Rev Pathol 5:99, 2010[PMID: 20078217]  [Full Text]
+
+ 
+Harrison DE et al: Rapamycin fed late in life extends lifespan in genetically heterogeneous mice. Nature 460:392, 2009[PMID: 19587680]  [Full Text]
+
+ 
+Imai SI, Guarente L: Ten years of NAD-dependent SIR2 family deacetylases: implications for metabolic diseases. Trends Pharmacol Sci 31:212, 2010[PMID: 20226541]  [Full Text]
+
+ 
+Kennedy BK: The genetics of ageing: insight from genome-wide approaches in invertebrate model organisms. J Intern Med 263:142, 2008[PMID: 18226092]  [Full Text]
+
+ 
+Kenyon CJ: The genetics of ageing. Nature 464:504, 2010[PMID: 20336132]  [Full Text]
+
+ 
+Leduc L et al: Fetal programming of atherosclerosis: Possible role of the mitochondria. Eur J Obstet Gynecol Reprod Biol 149:127, 2010[PMID: 20053495]  [Full Text]
+
+ 
+Martin GM: Modalities of Gene Action Predicted by the Classical Evolutionary Theory of Aging, in VL Bengston et al (Eds). Handbook of Theories of Aging, 2nd ed, New York, Springer, 2009, pp 179-191 
+
+ 
+Partridge L, Gems D: Beyond the evolutionary theory of ageing, from functional genomics to evo-gero. Trends Ecol Evol 21:334, 2006[PMID: 16769434]  [Full Text]
+ 
+ 
+
+^^
+Clinical Problems of Aging: Introduction
+
+While an in-depth understanding of internal medicine serves as a foundation, proper care of older adults should be complemented by insight into the multidimensional effects of aging on disease manifestations, consequences, and response to treatment. In younger adults, individual diseases tend to have a more distinct pathophysiology with well-defined risk factors; the same diseases in older persons may have a less distinct pathophysiology and are often the result of failed homeostatic mechanisms. Causes and clinical manifestations are less specific and can vary widely between individuals. Therefore, the care of older patients demands an understanding of the effects of aging on human physiology and a broader perspective that incorporates geriatric syndromes, disability, social contexts, and goals of care. For example, care planning for the older patient cannot ignore the influence of life expectancy. In fact, the expected remaining years of life can guide recommendations about appropriate preventive and other long-term interventions, and shape discussions about treatment alternatives.
+
+Demography (Chap. 70) Population aging emerged on a worldwide scale for the first time in history within the last century. Since aging influences many facets of life, governments and societies now face new social and economic challenges that impact health care, as well as family and community responsibilities. Figure 72-1 highlights recent and predicted changes in U.S. population structure. The overall number of children has remained relatively stable, but explosive growth has occurred among older populations. The percentage growth is particularly dramatic among the oldest old. For example, the 80每89-year-old group increased more than threefold between 1960 and 2010 and will increase almost tenfold between 1960 and 2050. Women already outlive men by many years and the sex discrepancy in longevity is projected to increase further in the future.
+
+Figure 72-1
+
+ 
+ 
+ 
+Change in the structure of the U.S. population between 1960 and 2050. (From United Nations World Population Prospects: The 2008 Revision, http://esa.un.org/unpp.)
+ 
+ 
+
+
+Population aging occurs at different rates in varying geographic regions of the world. Over the last century, Europe, Australia, and North America have had the populations with the greatest proportions of older persons, but Asia and South America are aging rapidly, with a population structure that will resemble the "older" countries by around 2050 (Fig. 72-2). Among older persons, the oldest old (those older than age 80 years) are the fastest growing segment of the population (Fig. 72-3), and the pace of aging is projected to accelerate in most countries in the next 50 years. There is no evidence that the rate of population aging is decreasing.
+
+Figure 72-2
+
+ 
+ 
+ 
+Population aging in different geographic regions. (From United Nations World Population Prospects: The 2008 Revision, http://esa.un.org/unpp.)
+ 
+ 
+
+Figure 72-3
+
+ 
+ 
+ 
+Percentage of the population age >80 years from 1950 to 2050 in different representative nations. The pace of aging will accelerate. (From United Nations World Population Prospects: The 2008 Revision, http://esa.un.org/unpp.)
+ 
+ 
+
+Population Aging and Health
+
+Many chronic diseases increase in prevalence with age. It is not unusual for older persons to have multiple chronic diseases (Fig. 72-4) although some seem more susceptible to co-occurring problems compared to others. Functional problems with difficulty or need for help in performing basic activities of daily living (ADLs) (Table 72-1) increase with age and are more common in women than men. In recent decades, the age-specific prevalence of disability has declined, especially in the oldest old. Estimated rates are shown in Fig. 72-5 as the percentage of persons who reported severe difficulty or needed help in bathing, but data on other basic activities of daily living show similar trends. The rate of decline in disability is decreasing, but the magnitude of this decline is small compared to the overwhelming effect of population aging. Thus, the number of people with disability in the United States and other countries is rapidly expanding. Rates of cognitive impairments, such as memory problems, also increase with aging (Fig. 72-6). Chronic disease and disability lead to increased use of health care resources. Health care expenditures increase with age, increase more with disability, and are highest in the last year of life. However, new medical technologies and expensive medications are greater influences on health care costs than population aging alone. General practitioners and internists with little specific training in geriatric medicine provide the bulk of care for older persons.
+
+Figure 72-4
+
+ 
+ 
+ 
+Prevalence of comorbidity by age group in persons 65 years and older living in the U.S. and enrolled in Medicare parts A and B in 1999. (From JL Wolff et al: Arch Intern Med 162:2269, 2002.)
+ 
+ 
+
+Figure 72-5
+
+ 
+ 
+ 
+Self-reported prevalence of disability (severe difficulty) in bathing/showering between 1992 and 2007, according to age and sex. (From Medicare Current Beneficiary Survey 1992每2007. Accessed May 26, 2010 at http://205.207.175.93/HDI/TableViewer/.)
+ 
+ 
+
+Figure 72-6
+
+ 
+ 
+ 
+Rates of memory impairments in different age groups. The definition of "moderate or severe memory impairment" is 4 or fewer words recalled out of 20. (Source: Health and Retirement Survey. Accessed February 7, 2011 at http://aoa.gov/agingstatsdotnet/Main_Site/Data/2000_Documents/healthstatus.aspx.)
+ 
+ 
+Table 72-1 Basic and Instrumental Activities of Daily Living
+
+ 
+ 
+The Basic Activities of daily living (ADLs) consist of these self-care tasks 
+Personal hygiene
+Dressing and undressing
+Eating
+Transferring from bed to chair, and back
+Voluntarily controlling urinary and fecal discharge
+Using the toilet
+Moving around (as opposed to being bedridden)
+ 
+Instrumental activities of daily living (IADLs) are not necessary for fundamental functioning, but they let an individual live independently in a community  
+Doing light housework
+Preparing meals
+Taking medications
+Shopping for groceries or clothes
+Using the telephone
+Managing money
+Using technology (older generations may not be that technologically savvy since they were not as exposed to it during their lifetime.)
+ 
+ 
+
+ 
+
+Systemic Effects of Aging
+
+Systemic consequences of aging are widespread but can be clustered into four main domains or processes (Fig. 72-7): (1) body composition; (2) balance between energy availability and energy demand; (3) signaling networks that maintain homeostasis; and (4) neurodegeneration. Each domain can be assessed using routine clinical tests, although more detailed research techniques are also available (Table 72-2).
+
+Figure 72-7
+
+ 
+ 
+ 
+A unifying model of aging, frailty, and the geriatric syndromes.
+ 
+ 
+Table 72-2 Example of Assessment of the Different Domains of the Aging Phenotype
+
+ 
+ 
+Body Composition Energetics Homeostatic Regulation Neurodegeneration 
+Anthropometrics (weight, height, BMI, waist circumference, arm and leg circumference, skin folds) Self-reported questionnaires investigating physical activity, sense of fatigue/exhaustion, exercise tolerance Baseline levels of biomarkers and hormone levels Standard neurologic exam, including assessment of global cognition [Mini Mental State, Montreal Cognitive Assessment (MoCa)] 
+Muscle strength testing (isometric and isokinetic) Resting metabolic rate Inflammatory markers (ESR, CRP, IL-6, TNF-alpha, etc) Objective assessment of gait, balance, reaction time, coordination 
+Biomarkers (24-h creatinuria or 3-methyl-histidine) Performance-based tests of physical function Nutritional biomarkers (vitamins, antioxidants, etc) Electroneurography and electromyography 
+CT and MRI, dual-energy x-ray absorptiometry (DEXA) Treadmill testing Response to provocative tests, such as oral glucose tolerance test, dexamethasone test, and others MRI, fMRI, PET, and other dynamic imaging techniques 
+Hydrostatic weighing Objective measures of physical activity (accelerometers, double labeled water) Stress response Evoked potentials 
+ 
+
+ 
+
+Body Composition
+
+Profound changes in body composition may be the most evident and inescapable effect of aging (Fig. 72-8). Over the life span, body weight tends to increase through childhood, puberty, and adulthood until late middle age. Weight tends to decline in men between ages 65 and 70 years, and somewhat later in women. Lean body mass, composed predominantly of muscle and visceral organs, decreases steadily after the third decade. In muscle, this atrophy is greater in fast-twitch compared to slow-twitch fibers. Fat mass tends to increase in middle age and then declines in late life, reflecting the trajectory of weight change. Interestingly, waist circumference continues to increase across the life span, suggesting that visceral fat, which is responsible for most of the pathologic consequences of obesity, continues to accumulate. In some individuals, fat also accumulates inside muscle where it affects muscle quality and function. With age, fibro-connective tissue tends to increase in many organ systems. In muscle, fibro-connective tissue buildup also affects muscle quality and function. In combination, the loss of muscle mass and quality result in reduced muscle strength, with ultimate impact on functional capacity and mobility. Muscle strength declines with aging and not only affects functional status but is also a strong independent predictor of mortality (Fig. 72-9). Progressive demineralization and architectural modification occurs in bone, resulting in a decline of bone strength. Loss of bone strength increases the risk of fracture. Sex differences in the effects of aging on bone mass are due to sex differences in peak bone mass and the effects of gonadal hormones on bone. Overall, compared to men, women tend to lose bone at an earlier age and more quickly reach the threshold of low bone strength that increases fracture risk. All of these changes in body composition can be attributed to disruptions in the links between synthesis, degradation, and repair that normally serve to remodel tissues. Body composition can be approximated in clinical practice using weight, height, body mass index (weight in kilograms divided by height in meters squared), and waist circumference, or more precisely using dual-energy x-ray absorptiometry (DEXA), computed tomography or MRI.
+
+Figure 72-8
+
+ 
+ 
+ 
+Longitudinal changes of weight, body composition, and waist circumference over the life span estimated in 1167 participants of the Baltimore Longitudinal Study of Aging. *Lean Body Mass (LBM) and Fat Mass estimated with DEXA. [Source: The Baltimore Longitudinal study of Aging 2010 (unpublished data).]
+ 
+ 
+
+Figure 72-9
+
+ 
+ 
+ 
+Cross-sectional differences and longitudinal changes in muscle strength over a 27-year follow-up. Note that subjects who died during the follow-up had lower baseline muscle strength. (From T Rantanen et al: J Appl Physiol 85:2047, 1998.)
+ 
+ 
+
+Balance between Energy Availability and Energy Demand
+
+Release of phosphate from ATP provides every living cell with the energy required for life. However, the storage of ATP is only enough for 6 seconds; therefore, ATP is constantly resynthesized. Although ATP resynthesis can be done during anaerobic glycolysis, most of the energy used in the body is generated through aerobic metabolism. Therefore, energy comsumption is usually estimated indirectly by oxygen consumption (indirect calorimetry). There is currently no method to measure true "fitness," which is the maximum energy that can be produced by an organism over extended time periods. Thus, fitness is estimated indirectly from peak oxygen consumption (MVo2peak), often during a maximal treadmill test. Longitudinal studies have demonstrated that MVo2peak declines progressively with aging (Fig. 72-10), and the rate of decline is accelerated in those who are sedentary and in those affected by chronic diseases. A large portion of energy is consumed as the "resting metabolic rate" (RMR), the amount of energy expended at rest in a neutral temperature environment and in a postabsorptive state. In healthy individuals, RMR declines with aging, mostly due to a decline in the highly metabolically active tissues of lean body mass (Fig. 72-11). However, persons with unstable homeostasis due to illness require additional energy for compensatory mechanisms. Indeed, an inadequately high RMR is a marker of illness, is an independent risk factor for mortality, and may contribute to the weight loss that often accompanies severe illness. Finally, for reasons that are not yet completely clear, older age, pathology, and physical impairment increase the energy cost of motor activities such as walking. Overall, older individuals with multiple chronic conditions have low available energy levels and require more energy both at rest and during physical activity. Thus, sick older people may consume all their available energy performing the most basic activities of daily living, leading to symptoms of fatigue and restriction to a sedentary existence. Energetic status can be assessed clinically by simply asking the patient about their perceived level of fatigue during daily activities such as walking or dressing. Energy capacity can be assessed more precisely by exercise tolerance during a walking test or a treadmill test coupled with spirometry.
+
+Figure 72-10
+
+ 
+ 
+ 
+Longitudinal changes in aerobic capacity in participants of the Baltimore Longitudinal Study of Aging. (From JL Fleg: Circulation 112:674, 2005.)
+ 
+ 
+
+Figure 72-11
+
+ 
+ 
+ 
+Changes in resting metabolic rate with aging. [Data from the Baltimore Longitudinal Study of Aging (unpublished).]
+ 
+ 
+
+Signaling Networks that Maintain Homeostasis
+
+The main signaling pathways that control homeostasis involve hormones, inflammatory mediators, and antioxidants; all are profoundly affected by aging. Sex hormone levels, such as testosterone, decrease with age in both men (Fig. 72-12) and women, while other hormone systems may change more subtly (Table 72-3). Most aging individuals, even those who remain healthy and fully functional, tend to develop a mild proinflammatory state characterized by high levels of proinflammatory markers, including IL-6 and CRP (Fig. 72-13). Aging is also thought to be associated with increased oxidative stress damage, either because the production of reactive oxygen species increases or because antioxidant buffers are less effective. Since hormones, inflammatory markers, and antioxidants are integrated into complex signaling networks, levels of individual biomarkers may well reflect adaptation within homeostatic feedback loops rather than true causative factors. Thus, the therapeutic strategy of single-molecule replacement may be ineffective or even counterproductive. The presence of such signaling networks and feedback loops may help explain why single-hormone "replacement therapy" for problems of aging has demonstrated little benefit. The focus of research in this area is now on multiple-hormonal dysregulation. For example, taken one at a time, levels of testosterone, dehydroepiandrosterone (DHEAs), and IGF-1 do not predict mortality, but in combination they are highly predictive of longevity. This combination effect is especially strong in the setting of congestive heart failure. Similarly, several micronutrients, such as vitamins (especially vitamin D), minerals (selenium and magnesium), and antioxidants (vitamins D and E), also regulate aspects of metabolism. Low levels of these micronutrients have been associated with accelerated aging and high risk of adverse outcomes. However, except for vitamin D, no clear evidence suggests that supplementation has positive effects on health. Unfortunately, no standard criteria exist that allow the detection and quantification of homeostatic dysregulation.
+
+Table 72-3 Hormones that Decrease, Remain Stable, and Increase with Aging
+
+ 
+ 
+Decrease No Change Increase 
+Growth hormone Prolactin Cholecystokinin 
+Luteinizing hormone (men) Thyrotropin Luteinizing hormone (women) 
+Insulin growth factor I Thyroid hormones Follicle-stimulating hormone 
+Testosterone Epinephrine Cortisol 
+Estradiol Glucagon-like peptide 1 Prolactin 
+DHEA and DHEAs Gastric inhibitory polypeptide Norepinephrine 
+Pregnenolone   Insulin 
+25(OH) vitamin D   Parathormone 
+Aldosterone     
+Vasoactive intestinal peptide     
+Melatonin     
+ 
+
+ 
+Figure 72-12
+
+ 
+ 
+ 
+Longitudinal changes of free testosterone levels in healthy men. (From SM Harman et al: J Clin Endocrinol Metab 86:724, 2001.)
+ 
+ 
+
+Figure 72-13
+
+ 
+ 
+ 
+Change in IL-6 and c-reactive protein with aging. *Values are expressed as Z-Scores to make them comparable. (From L Ferrucci et al: Blood 105:2294, 2005.)
+ 
+ 
+
+Neurodegeneration
+
+Neurons stop reproducing shortly after birth and their number declines throughout life. Brain atrophy occurs with aging after the age of 60 years. Atrophy proceeds at varying rates in different parts of the brain (Fig. 72-14) and is often accompanied by an inflammatory response and microglial activation. Age-associated brain atrophy may contribute to age-related declines in cognitive and motor function. Atrophy may also be a factor in some brain diseases that may occur with aging, such as mild cognitive impairment (MCI), in which persons have mild but detectable impairments on tests of cognition but no severe disability in daily activities. In MCI, atrophy has been found mostly in the prefrontal cortex and hippocampus, but these findings are not specific and their diagnostic utility is unclear (Fig. 72-15). Other neurophysiologic changes in the brain also frequently occur with aging and may contribute to cognitive decline. Functional imaging studies have shown that some older people have diminished coordination between the brain regions responsible for higher-order cognitive functions and that such diminished coordination is correlated with poor cognitive performance. In young healthy individuals, the brain activity associated with executive cognitive functions (e.g., problem solving, decision making) is very well localized while in healthy older individuals, the pattern of cortical activation is more diffuse. Brain pathology has typically been associated with specific diseases; amyloid plaques and neurofibrillary tangles are considered the pathologic hallmarks of Alzheimer's disease. However, these pathologic markers have been found at autopsy in many older individuals who had cognitive testing in the year before death and were found to be normal. Taken together, trends in brain changes with aging suggest that some neurophysiologic manifestations are compensatory adaptations, rather than primary contributors to age-related declines. Because the brain is capable of reorganization and compensation, extensive neurodegeneration may not be clinically evident. Therefore, early detection requires careful testing. Clinically, cortical and subcortical changes are reflected in the high prevalence of "soft," nonspecific neurologic signs, often with slow and unstable gait, poor balance, and slow reaction times. These movement changes can be elicited more overtly using "dual tasks," in which a cognitive and a motor task are performed simultaneously. In a simple version of a dual task, an older adult who has to stop walking in order to talk has been shown to predict increased risk of falls. Poor dual task performance has been interpreted as a marker of reduced overall capacity for central processing, so that simultaneous processing is more constrained. Beyond the brain, the spinal cord also experiences changes after age 60 years, including reduced numbers of motor neurons and damage to myelin. The motor neurons that survive compensate by increased branching complexity, and by serving larger motor units. As motor units become larger, they decline in number at a rate of about 1% per year, starting after the third decade. These larger motor units contribute to reductions in fine-motor control and manual dexterity. Age-related changes also occur in the autonomic nervous system, affecting cardiovascular and splanchnic function.
+
+Figure 72-14
+
+ 
+ 
+ 
+Five-year decline in mean volumes measured in standard deviation units (Cohen's d) of different brain regions. The primary visual cortex shows the smallest average shrinkage and the prefrontal and inferior parietal cortex and hippocampus showed the highest average shrinkage. (From N Raz et al: Ann N Y Acad Sci 1097:84, 2007.)
+ 
+ 
+
+Figure 72-15
+
+ 
+ 
+ 
+Longitudinal changes of regional brain volumes in normal aging and MCI. (From I Driscoll et al: Neurology 72:1906, 2009.)
+ 
+ 
+
+System Changes Coexist and Affect Each Other: The Phenotype of Aging Is the Final Common Pathway of This Interaction
+
+While age-related system changes were described individually, in reality, these changes develop in parallel and affect each other through many feed-forward and feedback loops. Some system interactions are well understood, while others are under investigation. For example, body composition interacts with energy balance and signaling. Higher lean body mass increases energy consumption and improves insulin sensitivity and carbohydrate metabolism. Higher fat mass, especially visceral fat mass, is the culprit in the metabolic syndrome and is associated with low testosterone, high SHBG, and increased levels of proinflammatory markers such as C-reactive protein and IL-6. Altered signaling can affect neurodegeneration; insulin resistance and adipokines such as leptin and adiponectin are associated with declines in cognitive function. A state of inflammation, reduced levels of testosterone and IGF-1, combined with loss of motor neurons and dysfunction of the motor unit, have been linked to accelerated decline of muscle mass and strength. Normal intersystem coordination is also affected by aging. The hypothalamus normally functions as a central regulator of metabolism and energy use and coordinates physiologic responses of the entire organism through hormonal signaling; aging-related changes in the hypothalamus alter this control. The central nervous system also controls adaptive sympathetic/parasympathetic activity, so that age-related CNS degeneration may have implications for autonomic function.
+
+The phenotype that results from the aging process is characterized by increased susceptibility to diseases, high risk of multiple coexisting diseases, impaired response to stress (including limited ability to heal or recover after an acute disease), emergence of "geriatric syndromes" (characterized by stereotyped clinical manifestations but multifactorial causes), altered response to treatment, high risk of disability, and loss of personal autonomy with all its psychological and social consequences. In addition, these key aging processes may interfere with the typical pathophysiology of specific diseases, thereby altering expected clinical manifestations and confounding diagnosis. Clinically, patients may present with obvious problems within only one of these domains, but since systems interact, all four main domains should be evaluated and considered potential therapeutic targets. When patients present with obvious problems in multiple main systems affected by aging, they tend to extreme degrees of susceptibility and loss of resilience, a condition that is globally referred to as "frailty."
+
+Frailty
+
+Frailty has been described as a physiologic syndrome characterized by decreased reserve and diminished resistance to stressors, resulting from cumulative decline across multiple physiologic systems, causing vulnerability to adverse outcomes and high risk of death. A proposed definition characterized by weight loss, fatigue, impaired grip strength, diminished physical activity, and slow gait has shown good internal consistency and strong predictive validity, and has been used in many clinical and epidemiologic studies. However, alternative schools of thought have different diagnostic criteria. For example, frailty has been suggested to be a random accumulation of multiple impairments with aging, and, therefore, no standard criteria for diagnosis can be developed. Regardless of the definition, an extensive literature shows that older persons who are considered frail by any definition have overt changes in the same four main processes〞body composition, homeostatic dysregulation, energetic failure, and neurodegeneration, the characteristics of the aging "phenotype." A classic clinical case would be an older woman with sarcopenic obesity characterized by increased body fat and decreased muscle (body composition changes); extremely low exercise tolerance and extreme fatigue (energetic failure); high insulin; low IGF-1; inadequate intake of calories; low vitamin D, E, and carotenoids (signal dysregulation); and memory problems, slow gait, and unstable balance (neurodegeneration). This woman is likely to show all the manifestations of frailty, including high risk of multiple diseases, disability, urinary incontinence, falls, delirium, depression, and other geriatric syndromes.
+
+Conceptualizing frailty through the four main underlying processes stems from accumulated evidence and recognizes the heterogeneity and dynamic nature of the aging phenotype. Aging is universal but proceeds at highly variable rates, with wide heterogeneity in the emergence of the aging phenotype. Thus, the question is not whether an older patient is frail, but rather whether the severity of frailty is beyond the threshold of clinical and behavioral relevance. Understanding frailty through the lens of four interacting underlying processes also provides an interface with diseases that, like aging itself, affect the "aging phenotype." For example, congestive heart failure is associated with low energy availability, multiple hormonal derangements, and a proinflammatory state, thereby contributing to frailty severity. Parkinson's disease is an example of neurodegeneration that, in an advanced state, affects body composition, energy metabolism, and homeostatic signaling, resulting in a syndrome that closely resembles frailty. Diabetes is especially important to aging and frailty because it harms body composition, energy metabolism, homeostatic dysregulation, and neuronal integrity. Accordingly, a number of studies have found that type 2 diabetes is a strong risk factor for frailty and for many of its consequences. Since disease and aging interact, careful and appropriate treatment of disease is critical to prevent or reduce frailty.
+
+Consequences of Aging Processes, the Aging Phenotype, and Frailty
+
+While the pathophysiology of frailty is still being elucidated, its consequences have been well characterized in prospective studies. Four main consequences are important for clinical practice: (1) ineffective or incomplete homeostatic response to stress, (2) multiple coexisting diseases (multi- or comorbidity) and polypharmacy, (3) physical disability, and (4) the so-called geriatric syndromes. We will briefly address each one of them.
+
+Low Resistance to Stress
+
+Frailty can be considered a progressive loss of reserve in multiple physiologic functions. At an early stage and in the absence of stress, mildly frail older individuals may appear to be normal. However, they have reduced ability to cope with challenges, such as acute diseases, traumas, surgical procedures, or chemotherapy. Acute illness involving a hospital stay is associated with undernutrition and inactivity, which sometimes may be of such magnitude that the residual muscle mass fails to meet the minimal requirement for walking. Even when nutrition is reinstated, energy reserves may be insufficient to adequately rebuild muscle mass. Older persons have a reduced ability to tolerate infections, in part because they are less able to build a dynamic inflammatory response to vaccination or infectious exposure, so that infections are more likely to become severe and systemic and resolve more slowly. In the context of tolerance to stress, assessing aspects of frailty can help estimate ability to withstand the rigors of aggressive treatments, to respond to interventions aimed at infection, to anticipate and prevent complications of hospitalization, and generally to estimate prognosis. Accordingly, treatment plans may be adjusted to improve tolerance and safety; bed rest and hospitalization should be used sparingly; and infections should be prevented, anticipated, and managed assertively.
+
+Comorbidity and Polypharmacy
+
+Older age is associated with high rates of many chronic diseases (Fig. 72-4). Thus, not unexpectedly, the percentage of individuals affected by multiple medical conditions (co- or multimorbidity) also increases with age. In frail older individuals, comorbidity occurs at higher rates than would be expected from the combined probability of the component conditions. It is likely that frailty and comorbidity affect each other, so that multiple diseases contribute to frailty and frailty increases susceptibility to diseases. Clinically, patients with multiple conditions present unique diagnostic and treatment challenges. Standard diagnostic criteria may not be informative because there are additional confusing signs and symptoms. A classic example is the coexistence of iron and vitamin B12 deficiency, creating an apparently normocytic anemia. The risk/benefit ratio for many medical and surgical treatment options may be reduced in the face of other diseases. Drug treatment planning is made more complex because comorbid diseases may affect the absorption, volume of distribution, protein binding, and, especially, elimination of many drugs, leading to fluctuation in therapeutic levels and increased risk of under- or overdosing. Drug excretion is affected by renal and liver changes with aging that may not be detectable with usual clinical tests. Formulas for estimating glomerular filtration rate in older patients are available while estimating changes in hepatic excretion is still a challenge. Patients with many diseases are usually prescribed multiple drugs, especially when they are cared for by multiple specialists who do not communicate. The risk of adverse drug reactions, drug-drug interactions, and poor compliance increases geometrically with the number of drugs prescribed and with the severity of frailty. Some general rules to minimize the chances of adverse drug events are as follows: (a) always ask patients to bring in all medications, including prescription, over-the-counter, vitamins supplements, and herbal preparations (the "brown bag test"); (b) screen for unnecessary drugs〞those without a clear indication should be stopped; (c) simplify the regimen in terms of number of agents and schedules, try to avoid frequent changes, and use single daily dose regimens whenever possible; (d) avoid drugs that are expensive or not covered by insurance whenever possible; (e) minimize the number of drugs to those that are absolutely essential and always check for possible interactions; (f) make sure that the patient or an available caregiver understands the administration regimen and provide legible written instructions; and (g) schedule periodic medication reviews.
+
+Disability and Impaired Recovery from Acute-Onset Disability
+
+The prevalence of disability in self-care and home management increases steeply with aging and tends to be higher in women than in men (Fig. 72-5). Physical and cognitive function in older persons reflects overall health status, and predicts health care utilization, institutionalization, and mortality more accurately than any other known biomedical measure. Thus, assessing function and disability and predicting the risk of disability are cornerstones of geriatric medicine. Frailty, regardless of the criteria used for its definition, is a robust and powerful risk factor for disability. Because of this strong relationship, measures of physical function and mobility have been proposed as standard criteria for frailty. However, disability occurs late in the frailty process, after reserve and compensation are exhausted. Early in the development of frailty, body composition change, reduced fitness, homeostatic deregulation, and neurodegeneration can begin without impact on daily function. As opposed to disability in younger persons, where the rule is to look for a clear dominant cause, disability in frail, older persons is almost always multifactorial. Multiple disrupted aging processes are usually involved, even when the precipitating cause seems unique. Excess fat mass, poor muscle strength, reduced lean body mass, poor fitness, reduced energy efficiency, poor nutritional intake, low circulating levels of antioxidant micronutrients, high levels of proinflammatory markers, objective signs of neurologic dysfunction, and cognitive impairment all contribute to disability. The multifactorial nature of disability in frail older persons reduces the capacity for compensation and interferes with functional recovery. For example, a small lacunar stroke that causes problems with balance in a young hypertensive individual can be overcome by standing and walking with the feet further apart, a strategy that requires the brain to adapt, strong muscles, and lots of energy capacity. The same small, lacunar stroke may cause catastrophic disability in an older person already affected by neurodegeneration and weakness who is less able to compensate. As a consequence, interventions aimed at preventing and reducing disability in older persons should have a dual focus on both the precipitating cause and the systems needed for compensation. In the case of the lacunar stroke, interventions to promote mobility function might include stroke prevention, balance rehabilitation, and strength training. As a rule of thumb, the assessment of contributing causes and the design of intervention strategies for disability in older persons should always consider the four main aging processes that contribute to frailty. One of the most popular approaches to disability measurement is a modification of the International Classification of Impairments, Disabilities and Handicaps (World Health Organization, 1980) proposed by the Institute of Medicine (IOM, 1992). This classification infers a causal pathway in four steps: pathology (diseases), impairment (the physical manifestation of diseases), functional limitation (global functions such as walking, grasping, climbing stairs), and disability (ability to fulfill social roles in the environment). In practice, the assessment of functional limitation and disability is performed either by: 1) self reported questionnaire concerning the degree of ability to perform basic self-care or more complex activities of daily living; 2) performance-based measures of physical function that assess specific domains, such as balance, gait, manual dexterity, coordination, flexibility, and endurance. A concise list of standard tools that can be used to assess physical function in older persons is reported in Table 72-4. In 2001, the WHO officially endorsed a new classification system, the International Classification of Functioning, Disability and Health, known more commonly as ICF. In the ICF, health measures are classified from body, individual, and societal perspectives by means of two lists: a list of body functions and structure and a list of domains of activity and participation. Since an individual's functioning and disability occurs in a context, the ICF also includes a list of environmental factors. A detailed list of codes that allow the classification of body functions, activities, and participation is being developed. The ICF system is widely implemented in Europe and is gaining popularity in the United States.
+
+Table 72-4 Tools for Functional Assessment in Older Patients
+
+ 
+ 
+Measurement Instrument Evaluation Activities/ Reference Notes 
+Index of independence in Activities of Daily Living (ADLs) Self-reported Difficulty/need for help in bathing, dressing, using toilet, transferring, continence, feeding. Katz S et al: The index of ADL: A standardized measure of biological and psychosocial function. JAMA 1963  Short and simple but subjective. 
+Instrumental Activities of Daily Living (IADLs) Self-reported Difficulty using the telephone, using car/public transportation, shopping, preparing meals, housework, managing medications, financial management. Lawton MP et al: Instrumental activities of daily living (IADL) scale: original observer-rated version. Psychopharmacol Bull 1988  Short and simple. Gender-biased and cultural-biased items. 
+Functional Independence Measure (FIM) Consensus multidisciplinary team Motor (eating, grooming, bathing, dressing, toileting, bladder/bowel management, transfers, walking, climbing stairs); Cognitive (auditory comprehension, verbal expression, social interaction, problem solving, memory). Keith RA et al: The functional independence measure: A new tool for rehabilitation. Adv Clin Rehabil 1987  Administered by trained health professionals. 
+Barthel Index Professionally evaluated Independence and need for help in feeding, transferring from bed to chair and back, grooming, transferring to and from toilet, bathing, walking, stairs, dressing, continence. Mahoney FI et al: Functional evaluation: The Barthel Index. Md State Med J 1965  Administered by trained health professionals. 
+Mobility Questionnaire Self-reported Severe difficulty walking 1/4 mile and/or climbing stairs. Short and simple 
+Short Physical Performance Battery Objective performance based Time to walk 4 m, rise from a chair 5 times, maintain balance for 10 sec in the side-by-side, semi-tandem and tandem positions. Guralnik JM et al: A short physical performance battery assessing lower extremity function: Association with self-reported disability and prediction of mortality and nursing home admission. J Gerontol 1994  Some training required. 
+Berg Balance Scale Objective and professionally evaluated Performance in 14 different tasks related to balance. Berg KO et al: Clinical and laboratory measures of postural balance in an elderly population. Arch Phys Med Rehabil 1992  Typically used by physical therapists. 
+Walking Speed Objective performance Measure walking speed over a 4 m course. Studenski S: Bradypedia: Is gait speed ready for clinical use? J Nutr Health Aging 2009  Simple and powerful but limited to patients who can walk. 
+6-Minute Walk Objective performance based Distance covered in 6 min. Guyatt GH: The 6-minute walk: A new measure of exercise capacity in patients with chronic heart failure. Can Med Assoc J 1985  Good measure of fitness, walking capacity/ endurance. 
+Long Distance Corridor Walk (400 m) Objective performance based Time to fast walk 400 m. Newman AB et al: Association of long-distance corridor walk performance with mortality, cardiovascular disease, mobility limitation, and disability. JAMA 2006  More challenging than the 6-min walk. 
+ 
+
+ 
+
+Impaired cognition is a very important cause of disability but is treated in detail in Chap. 371.
+
+Geriatric Syndromes
+
+The term geriatric syndrome is used to capture clinical conditions that are frequently encountered in older persons, have a deleterious effect on function and quality of life, have multifactorial pathophysiology, often involving systems unrelated to the apparent chief complaint, and are manifested by stereotypical clinical presentations. The list of geriatric syndromes includes incontinence, delirium, falls, pressure ulcers, sleep disorders, problems with eating or feeding, pain, and depressed mood. Dementia and physical disability are also sometimes considered to be geriatric syndromes. Using the term syndrome is somewhat misleading since this term is normally used to describe a pattern of symptoms and signs that have a single underlying cause. Geriatric syndromes, by contrast, refer to "multifactorial health conditions that occur when the accumulated effects of impairments in multiple systems render an older person vulnerable to situational challenges." According to this definition, geriatric syndromes reflect the complex interactions between an individual's vulnerabilities and exposure to stressors or challenges. This definition aligns well with the concept that geriatric syndromes should be considered as phenotypic consequences of frailty and that a limited number of shared risk factors contribute to their etiology. Indeed, in various combinations and frequencies, virtually all geriatric syndromes are characterized by body composition changes, energy gaps, signaling disequilibria, and neurodegeneration. For example, detrusor (bladder) underactivity is a multifactorial geriatric condition that contributes to urinary retention in the frail elderly. It is characterized by detrusor muscle loss, fibrosis, and axonal degeneration. A proinflammatory state, and a lack of estrogen signaling, cause bladder muscle loss and detrusor underactivity while a chronic urinary infection may cause detrusor hyperactivity, all factors that may contribute to urinary incontinence.
+
+Due to limited space, only delirium, falls, incontinence, chronic pain, and anorexia are addressed here. Interested readers can consult the references at the end of the chapter for details on other geriatric syndromes.
+
+Delirium
+
+(Chap. 25) Delirium is an acute disorder of disturbed attention that fluctuates with time. It affects between 15 and 55% of hospitalized older patients and is associated with high in-hospital mortality and sometimes with permanent brain damage. Figure 72-16 shows brief guidelines for assessment and management of delirium in hospitalized older patients. The clinical presentation of delirium is heterogeneous, but frequent features are (a) rapid decline in level of consciousness with difficulty focusing, shifting, or sustaining attention; (b) cognitive change (rumbling incoherent speech, memory gaps, disorientation, hallucinations) not explained by dementia; and (c) medical history suggestive of preexisting cognitive impairment, frailty, and comorbidity. The strongest predisposing factors for delirium are dementia, any other condition associated with chronic or transient neurologic dysfunction (neurologic diseases, dehydration, alcohol consumption, psychoactive drugs), and sensory (visual and hearing) deprivation, suggesting that delirium is a condition of brain function susceptibility (neurodegeneration or transient neuronal impairment) that cannot avoid decompensation when hit by a stressful event. Many stressful conditions have been implicated as precipitating factors, including surgery, anesthesia, persistent pain, opiates, narcotics, anticholinergics, sleep deprivation, immobilization, hypoxia, malnutrition, and metabolic and electrolyte derangements. Delirium, both onset and severity, can be reduced by anticipatory screening and preventive strategies aimed at reducing precipitating causes. The Confusion Assessment Method (CAM) is a simple, validated tool for screening in the hospital setting. Immediate identification and treatment of precipitating factors, withdrawal of drugs that may have facilitated the insurgence of delirium, and supportive care (management of hypoxia, hydration and nutrition, mobilization, and environmental modifications) are the three pillars of treatment. Whether patients in special Delirium Units have better outcomes is still in question. Physical restraints should be avoided because they tend to increase agitation and injury. Whenever possible, drug treatment should be avoided because it may prolong or aggravate delirium in some cases. The treatment of choice is low-dose haloperidol.
+
+Falls and Balance Disorders
+
+Unstable gait and falls are serious concerns in the older adult because they lead not only to injury but also to restricted activity, increased health care utilization, and even death. Like all geriatric syndromes, problems with balance and falls tend to be multifactorial and are strongly connected with the disrupted aging systems that contribute to frailty. Poor muscle strength, neural damage in the basal ganglia and cerebellum, diabetes, and peripheral neuropathy are all recognized risk factors for falls. Therefore, evaluation and management require a structured multisystem approach that spans the entire frailty spectrum and beyond. Accordingly, interventions to prevent or reduce instability and falls usually require a mix of medical, rehabilitative, and environmental modification approaches. Guidelines for the evaluation and management of falls, released by the American Geriatrics Society, recommend asking all older adults about falls and perceived gait instability (Fig. 72-17). Patients with a positive history of multiple falls, in addition to persons who have sustained one or more injurious falls, should undergo an evaluation of gait and balance as well as a targeted history and physical examination to detect sensory, nervous system, brain, cardiovascular, and musculoskeletal contributors. Interventions depend on the factors identified but often include medication adjustment, physical therapy, and home modifications. Meta-analyses of falls prevention strategies have found that multifactorial risk assessment and management, as well as individually targeted therapeutic exercise, are effective in reducing falls. Supplementation with vitamin D at 800 IU daily may help reduce falls, especially in older persons with reduced levels.
+
+Figure 72-16
+
+ 
+ 
+ 
+Algorithm depicting assessment and management of delirium in hospitalized older patients. (Modified from SK Inouye: N Engl J Med 354:1157, 2006.)
+ 
+ 
+
+Figure 72-17
+
+ 
+ 
+ 
+Algorithm depicting assessment and management of falls in older patients. (From American Geriatrics Society and British Geriatrics Society: Clinical Practice Guideline for the Prevention of Falls in Older Persons. New York, American Geriatric Society, 2010.)
+ 
+ 
+
+Persistent Pain
+
+Pain from multiple sources is the most common symptom complaint of older adults in primary care settings and is also common in acute care, long-term care, and palliative care settings. Acute pain and cancer pain problems are beyond the scope of this chapter. Persistent pain results in restricted activity, depression, sleep disorders, social isolation, and increases the risk of medication adverse events. The most common causes of persistent pain are musculoskeletal problems, but neuropathic and ischemic pain occur frequently, and multiple concurrent causes are often found. Alterations in mechanical and structural elements of the skeleton commonly lead to secondary problems in other parts of the body, especially to soft tissue or myofascial components. A structured history should obtain information about the quality, severity, and temporal patterns of pain. Physical examination should focus on back and joints as well as trigger points and periarticular areas, as well as evidence of radicular neurologic patterns and peripheral vascular disease. Pharmacologic management should follow standard progressions as recommended by the World Health Organization (Chap. 11), but side effects to the central nervous system are more likely and must be monitored. For persistent pain, regular analgesic schedules are appropriate and should be combined with nonpharmacologic approaches such as splints, physical exercise, heat, and other modalities. A variety of adjuvant analgesics such as antidepressants and anticonvulsants may be used, but again, effects on reaction time and alertness may be dose limiting, especially in older persons with cognitive impairment. Joint or soft tissue injections may be helpful. Patient education and mutual goal setting are important since pain is usually not fully eliminated, but rather controlled to a tolerable level that maximizes function while minimizing adverse effects.
+
+Urinary Incontinence
+
+Urinary incontinence (UI), the involuntary leakage of urine, is highly prevalent in older persons, especially in older women, and has a profound negative impact on quality of life. Approximately 50% of American women will suffer from some form of UI over a lifetime. Increasing age, white race, childbirth, obesity, and medical comorbidity are all risk factors for UI. The three main clinical forms of UI are as follows: (1) Stress incontinence is the failure of the sphincteric mechanism to remain closed when there is a sudden increase in intraabdominal pressure, such as a cough or sneeze. In women, this condition is due to insufficient strength of the pelvic floor muscles, while in men it is almost exclusively secondary to prostate surgery. (2) Urge incontinence is the loss of urine accompanied by a sudden sensation of need to urinate and is due to detrusor muscle overactivity (lack of inhibition) due to loss of neurologic control or local irritation. (3) Overflow incontinence is characterized by urinary dribbling, either constantly or for some period after urination. This condition is due to impaired detrusor contractility (due usually to denervation, for example, in diabetes) or bladder outlet obstruction (prostate hypertrophy in men and cystocele in women). Thus, not surprisingly, the pathogenesis of urinary incontinence is connected to the disrupted aging systems that contribute to frailty, body composition changes (atrophy of the bladder and pelvic floor muscle), and neurodegeneration (both central and peripheral nervous systems). Frailty is a strong risk factor for urinary incontinence. Indeed, older women are more likely to have mixed (urge+stress) incontinence than any pure form (Fig. 72-18). In analogy with the other geriatric syndromes, UI derives from a predisposing condition superimposed on a stressful, precipitating factor. Accordingly, treatment of UI should address both. The first line of treatment is bladder training associated with pelvic muscle exercise (Kegel exercises) that sometimes should be associated with electrical stimulation. Those with possible vaginal or uterine prolapse should be referred to a specialist. Urinary infections should be investigated and eventually treated. A long list of medications can precipitate urinary incontinence, including diuretics, antidepressants, sedative hypnotics, adrenergic agonists or blockers, anticholinergic, and calcium channel blockers. Whenever possible, these medications should be discontinued. Until recently, it was believed that estrogen oral or local treatments improved the UI symptoms in postmenopausal women, but this notion is now controversial. Antimuscarinic drugs such as tolterodine, darifenacin, and fesoterodine are modestly effective for mixed incontinence, but they all can affect cognition and so must be used with caution and careful follow-up monitoring of cognitive status. In some cases, surgical treatment should be considered. Chronic catheterization has many adverse effects and should be limited to chronic urinary retention that cannot be managed in any other way. Bacteriuria always occurs and should be treated only if symptomatic.
+
+Figure 72-18
+
+ 
+ 
+ 
+Rates of urge, stress and mixed incontinence by age group in a sample of 3552 women. *Based on a sample of 3553 participants. (From JL Melville et al: Arch Intern Med 165:537, 2005.)
+ 
+ 
+
+Undernutrition and Anorexia
+
+Normal aging is associated with a decline in food intake that is more marked in men than in women. To some extent, food intake is reduced because energy demand declines as a result of a combination of lower physical activity, decline in lean body mass, and slowed rates of protein turnover. Other contributors to decreased food intake include losses of taste sensation, reduced stomach compliance, higher circulating levels of cholecystokinin, and, in men, low testosterone associated with increased leptin. When food intake decreases to a level below the reduced energy demand, the result is energy malnutrition. Malnutrition in older persons should be considered a geriatric syndrome because it is the result of intrinsic susceptibility due to aging, complicated by multiple superimposed precipitating causes. In addition, many older individuals tend to consume a monotonous diet that lacks sufficient fresh food, fruits, and vegetables, so that intake of important micronutrients is inadequate. Undernutrition in older people is associated with multiple adverse health consequences, including impaired muscle function, decreased bone mass, immune dysfunction, anemia, reduced cognitive function, poor wound healing, delayed recovery from surgery, and increased risk of falls, disability, and mortality. Despite these serious consequences, undernutrition often remains unrecognized until it is very advanced because weight loss tends to be ignored by both patients and physicians. Muscle wasting is a frequent feature of weight loss and malnutrition, often associated with loss of subcutaneous fat. The main causes of weight loss are anorexia, cachexia, sarcopenia, malabsorption, hypermetabolism, and dehydration, almost always in various combinations. Many of these causes can be detected and corrected. Cancer accounts for only 10每15% of cases of weight loss and anorexia in older people. Other important causes include a recent move to a long-term care setting, acute illness (often with inflammation), hospitalization with bed rest for as little as 1每2 days, depression, drugs that cause anorexia and nausea (e.g., digoxin and antibiotics), swallowing problems, oral infections, dental problems, GI pathology, thyroid and other hormonal problems, poverty, and isolation, with reduced access to food. Weight loss may also result from dehydration, possibly related to excess sweating, diarrhea, vomiting, or reduced intake. Early identification is paramount and requires careful weight monitoring. Patients or caregivers should be taught to record weight regularly at home, the patient should be weighed at each clinical encounter, and a record of serial weights should be maintained in the medical record. If malnutrition is suspected, formal assessment should begin with a standardized screening instrument such as the Mini Nutritional Assessment (MNA), the Malnutrition Universal Screening Tool, or the Simplified Nutritional Appetite Questionnaire. The MNA includes questions on appetite, timing of eating, and frequency of meals and taste, and has sensitivity and specificity >75% for future weight loss of 5% in older people. Many nutritional supplementations are available and should be initiated early to prevent more severe weight loss and its consequences. When an older patient has malnutrition, the diet should be liberalized and dietary restrictions should be lifted as much as possible. Nutritional supplements should be given between meals to avoid interference with food intake at mealtime. Limited evidence supports the use of any pharmacologic intervention to treat weight loss. The two antianorexic drugs most often prescribed in older persons are megesterol and dronabinol. Both can increase weight, although the gain is mostly fat not muscle, and both have serious side effects. Dronabinol is an excellent drug in the palliative care setting. There is little evidence that intentional weight loss in overweight, older people prolongs life. Weight loss after the age of 70 should probably be limited to those with extreme obesity and should always be medically supervised.
+
+How the Phenotypes of Aging Affect Disease Presentation
+
+Common diseases in older adults may have unexpected and atypical clinical features. Most age-related changes in clinical presentation, evolution, and response to treatment are due to the interaction between the pathophysiology of disease and the development of age-related system dysregulation. Some diseases directly impact aging systems and, therefore, have a devastating impact on frailty and its consequences. Parkinson's disease (PD) and diabetes are described as examples.
+
+Parkinson's disease (Chap. 372) Most cases of PD begin after age 60 years, and incidence increases up to about age 80 years. Brain aging and PD have long been thought to be related. The nigrostriatal system deteriorates with aging, and many older persons tend to develop a mild form of movement disorder characterized by bradykinesia and stooped posture, that mimics mild PD. Interestingly, in PD, older age at presentation is associated with a more severe and rapid decline in gait, balance, postural problems, and cognition. These age-related motor and cognitive manifestations of PD tend to be poorly responsive to levodopa or dopamine agonist treatments, especially in older persons. Interestingly, age at presentation does not correlate with the severity and progression of other classic PD symptoms such as tremor, rigidity, and bradykinesia, and it does not affect response of these symptoms to levodopa. The pattern of PD features in older persons suggests that late-life PD may reflect a failure of the normal cellular compensatory mechanisms in vulnerable brain regions, and this vulnerability is increased by age-related neurodegeneration, making PD symptoms particularly resistant to levodopa treatment. In addition to the motor symptoms, older PD patients tend to have reduced muscle mass (sarcopenia), eating disorders, and poor levels of fitness. Accordingly, PD is a powerful risk factor for frailty and its consequences, including disability, comorbidity, falls, incontinence, chronic pain, and delirium. Use of levodopa and dopaminergic agonists in older PD patients requires complex dosing schedules and therefore slow-release preparations should be preferred. Both dopaminergic and anticholinergic agents increase the risk of confusion and hallucinations. Use of anti-cholinergic agents should generally be avoided. For dopaminergic agents, cognitive side effects can be dose-limiting.
+
+Diabetes (Chap. 344) Both the incidence and prevalence of diabetes mellitus increase with aging. Among persons age 65 years and older, the prevalence is about 12%, and is higher in African Americans and Hispanics, reflecting the effects of population aging and the obesity epidemic. Diabetes affects all four main aging systems that contribute to frailty. Obesity, especially visceral obesity, is a strong risk factor for diabetes. Diabetes is associated with both reduced muscle mass and accelerated rates of muscle wasting. Diabetic patients have a higher RMR and poor fitness. Diabetes is associated with multiple hormone dysregulation, a pro-inflammatory state, and excess oxidative stress. Finally, diabetes-induced neurodegeneration involves both the central and peripheral nervous systems. Given these characteristics, not surprisingly, patients with DM are more likely to be frail and to have a very high risk of developing physical disability, depression, delirium, cognitive impairment, urinary incontinence, injurious falls, and persistent pain. Thus, the assessment of older diabetic patients should always include screening and risk factor evaluation for these conditions.
+
+In young and adult patients, the main treatment goal has been strict glycemic control aimed at bringing the hemoglobin A1c level to within normal values. However, the risk/benefit ratio is optimized by using less-aggressive glycemic targets. In fact, in the context of a randomized clinical trial, strict glycemic control was associated with higher mortality. Thus, a more reasonable goal for A1c is 7% or slightly below. Treatment goals are altered further in frail older adults who have a high risk of complications of hypoglycemia and a life expectancy of less than 5 years. In these cases, an even less stringent target such as 7每8% should be considered, with A1c monitored every 6 or 12 months. Hypoglycemia is particularly difficult to identify in older diabetic patients because autonomic and nervous system symptoms occur at a lower blood sugar level compared to younger diabetics, although the metabolic reactions and neurologic injury effects are similar in young and older diabetics. The autonomic symptoms of hypoglycemia are often masked by beta blockers. Frail older adults are at even higher risk for serious hypoglycemia than are healthier, higher functioning older adults. In older patients with type 2 diabetes, a history of severe hypoglycemic episodes is associated with higher mortality, more severe microvascular complications, and greater risk of dementia. Thus, patients with suspected or documented episodes of hypoglycemia, especially those who are frail or disabled, need more liberal glucose control goals, careful education about hypoglycemia, and close follow-up with the health provider, possibly accompanied by a caregiver. Chlorpropamide has a prolonged half-life, particularly in older adults, and should be avoided because it is associated with high risk for hypoglycemia. Metformin should be use with caution and only in patients free of severe renal insufficiency. Renal insufficiency should be assessed by calculated glomerular filtration rate, or in very old patients who have reduced muscle mass, by a direct measure of creatinine clearance from a 24-h urine collection. Lifestyle changes in diet and exercise and losing a little weight can prevent or delay diabetes in high-risk individuals and is substantially more effective than metformin. Risk of type 2 diabetes decreased by 58% in a study of diet and exercise and this effect was similar in all ages and all ethnic groups. For comparison, the risk reduction with standard care plus metformin was 31 percent.
+
+Approach to the Care of Older Persons
+
+Organization of Health Care for Older Adults
+
+The complex underlying physiology of aging leads to multiple coexisting medical problems and functional consequences that are often chronic with recurrent exacerbations and remissions. Combined with social consequences of aging such as widowhood and lack of an available caregiver, older adults must sometimes use nonmedical services to meet functional needs. The end result of these medical, functional, and social factors is that older adults use many health care and social support services and settings. Thus it is incumbent on the internist, whether a generalist or specialist, to be familiar with the scope of settings and services that are used by their patients. For many settings, Medicare reimbursement requires a medical order based on specific indications, so the hospitalist or referring physician must be familiar with eligibility requirements. Table 72-5 summarizes the types of services and payment sources for common settings of care. Older adults who have experienced new disability during a hospitalization are eligible for rehabilitation services. Inpatient rehabilitation requires at least 3 h per day of active rehabilitation and is limited to specific diagnoses. More and more rehabilitative services are provided in postacute settings, where the required intensity of service is less stringent. Postacute settings are also used for complex nursing services such as provision and supervision of long-term parenteral medications or wound care. Under current policy, Medicare only covers postacute care if there is an eligible medical, nursing, or rehabilitation service. Otherwise, nursing home care is not covered by Medicare and must be paid for by expending personal assets until resources are consumed, at which time Medicaid coverage becomes available. Medicaid is a state每federal partnership whose greatest single cost is nursing home care. Thus the need for chronic daily assistance with personal care in a nursing home consumes a large part of most state Medicaid budgets as well as personal assets. Therefore, alternatives to chronic nursing home care are of great interest to states, patients, and families. Some states have developed Medicaid-funded day care programs, sometimes based on the Program for All-inclusive Care of the Elderly (PACE) model. In this situation, older adults who are eligible for both Medicare and Medicaid, and otherwise eligible for chronic nursing home care, can receive coordinated medical and functional services along with a day care setting. For most older adults, a caregiver must be available to provide assistance on weeknights and weekends. Home health services under current policy do not provide chronic functional assistance in the home, but rather are targeted at episodes of care for medical or rehabilitative services for older adults who are considered home bound. Within the past decade, there has been tremendous growth in a broad spectrum of assisted living settings. Such settings do not provide the degree of 24-h nursing supervision or personal aide care that is provided in traditional nursing homes, although distinctions are becoming blurred. Most assisted living settings provide meals, medication supervision, and homemaking services but often require that residents be capable of transporting themselves to a congregate meal site. Most of these settings accept only private pay from residents and their families and thus are hard to access for older adults with limited resources. Some states are exploring coverage for lower-cost residential care services such as family care homes. Some community agencies, whether private or public, can provide homemaker and home aide services to assist the home-bound older adult with functional needs, but there may be income requirements or need for expensive private payment.
+
+Table 72-5 Care Setting for Older Patients
+
+ 
+ 
+Setting Services Payment Source 
+Hospital acute care Medical, surgical, and psychiatric services that cannot be provided in less complex settings Medicare, Medicaid, and private insurance 
+Emergency room Resuscitation, stabilization, triage, disposition Medicare, Medicaid, and private insurance 
+Inpatient rehabilitation Hospital-based residential program providing team-based, physician-supervised, intensive therapeutic rehabilitation for specific diagnoses Medicare, Medicaid, and private insurance 
+Outpatient clinic Chronic, urgent, and preventive services Medicare, Medicaid, and private insurance 
+Postacute care Medical, nursing, and rehabilitative services after hospitalization, often based in hospitals or nursing homes Medicare up to 100 days with eligibility requirements 
+Long-term care Residential program with daily nursing and aide care for persons who are dependent in self-care Medicaid, private pay, long-term care insurance 
+Assisted living Residential program with daily aide care and housing for persons who are dependent in household management Private pay 
+Home health care Nursing and rehabilitative services for episodes of care provided to persons in the community Medicare, Medicaid 
+Day programs Supervised settings providing nursing and aide care for scheduled hours Private pay, Medicaid 
+ 
+
+ 
+
+Models of Care Coordination
+
+The complexity and fragmentation of care for complex older adults results in both increased costs and increased risk of iatrogenic complications such as missed diagnoses, adverse medication events, further worsening of function, and even death. These serious consequences have led to a strong interest in care coordination through teams of providers, with the goal to reduce unnecessary costs and prevent adverse events. Table 72-6 lists examples of evidence-based models of care coordination that were recommended in a recent Institute of Medicine report. While not mentioned as a specific type of team care, modern information technology has substantial promise to provide consistent readily available information across settings and providers. All such team programs are targeted at prevention and management of chronic and complex problems. Each model has demonstrated evidence for benefit in clinical trials or quasi-experimental studies, and some have sufficient findings to support meta-analyses. The evidence for benefit is not always consistent between studies or types of care, but includes some support for improved quality of care, quality of life, function, survival, and health care costs and use. Some models of care are disease-specific and focus on common chronic conditions such as diabetes mellitus, congestive heart failure, chronic obstructive pulmonary disease, or stroke. One challenge to these models is that a majority of older adults will have multiple simultaneous conditions, and thus need services from multiple programs that may not communicate among themselves.
+
+Table 72-6 Evidence-Based Models of Care Coordination for Older Patients (Institute of Medicine 2009)
+
+ 
+ 
+Model Team Members Services 
+Interdisciplinary primary care "Medical Home" Primary care physician plus social worker, nurse, nurse practitioner, or other care coordinators Coordinate medical and social needs across settings 
+Case management Nurse or social worker Provide education and information to patients and families, may communicate with providers and settings 
+Disease management Nurse Health education and follow-up support for specific chronic diseases 
+Preventive home visits Physician, nurse, social worker, and others Structured assessment of physical, mental, functional, and social status in the home setting, with recommendations for care and prevention 
+Comprehensive outpatient geriatric assessment and management Physician, nurse, social worker, plus sometimes others such as pharmacist, rehabilitation therapists, psychologist Structured assessment of physical, mental, functional, and social status in the outpatient setting, with recommendations for care and prevention. Some programs also take responsibility for implementing the recommendations 
+Pharmaceutical care management Pharmacist Review and recommendations regarding the total medication regimen, provided in any setting 
+Chronic disease self-management Nurse, health educator, or other health professional Health education and coaching for specific chronic conditions 
+Prevention rehabilitation Rehabilitation therapist Anticipatory evaluation, therapeutic exercise, and assistive technology in the home or outpatient setting for older adults with physical disability 
+Caregiver services Social worker, psychologist, or other health professional Education, counseling, and resource referral for caregivers of older adults with chronic functional and mental health problems 
+Hospital discharge/transition coordination Nurse, nurse practitioner Care planning and education for patient and family before and after hospital discharge 
+Hospital at home Physician, nurse, pharmacist Diagnostic testing and medical treatments that can replace hospitalization or reduce length of stay for target conditions 
+Nursing home care coordination Nurse practitioner or physician assistant Scheduled assessment and care planning, as well as education for health workers in chronic care settings 
+Hospital delirium comprehensive care Physician, nurse Prevention, screening, and management of delirium in the hospital setting 
+Comprehensive inpatient geriatric assessment and management Physician, nurse, social worker plus sometimes others such as pharmacist, rehabilitation therapists, psychologist Specialized inpatient settings such as acute care of the elderly (ACE) unit or roving multidisciplinary teams that provide evaluation and recommendations for medical, mental health, functional, and social needs. ACE units and some teams take responsibility for implementation of recommendations 
+ 
+
+
+Source: Reproduced with permission from Boult et al.
+ 
+
+Most models of care are difficult to implement in today's health care system because non physician services are not reimbursed, nor is physician effort that is not incorporated into "face to face" time. Thus several models have largely been developed in the Department of Veterans Affairs Health Care system, Medicare Managed Care providers, or other sponsoring agencies. Medicare has developed a series of demonstration projects that can help further build the evidence base and serve policy makers.
+
+Screening and Prevention in Older Persons
+
+In older adults, prevention tests and interventions are less consistently recommended for all asymptomatic patients. The guidelines fail to address the influence of health status and life expectancy on recommendations, although the benefits of prevention are clearly affected by life expectancy. For example, in most types of cancer, screening provides no benefit in patients with a life expectancy of 5 years or less. More research is needed to build an appropriate evidence base for age- and life expectancy每adapted preventive services. Health behavior modification, especially increasing physical activity and improving nutrition, are probably the two interventions with the highest potential to promote healthy aging.
+
+Screening Tests
+
+Osteoporosis: Bone mineral density (BMD) at least once after the age of 65 years. There is little evidence that regular monitoring of BMD improves the prediction of fractures. However, because of limitations in the precision of DEXA the minimal interval between evaluations should be 2每3 years.
+Hypertension: Blood pressure at least once a year, more often in patients with hypertension.
+Diabetes: Serum glucose and hemoglobin A1c every 3 years, more often in patients who are obese or hypertensive.
+Lipid disorders: Lipid panel every 5 years, more often in patients with diabetes or any cardiovascular disease.
+Colorectal cancer: Fecal occult blood test, sigmoidoscopy or colonoscopy, regular schedule up to age 75 years. No consensus guidelines after age 75 years.
+Breast cancer: Mammography every 2 years between ages 50 and 74 years. No consensus guidelines after age 75 years.
+Cervical cancer: Pap smear every 3 years up to age 65 years.
+Preventive Interventions
+
+Influenza: Immunization annually.
+Shingles: Herpes zoster immunization once after age 50 years.
+Pneumonia: Pneumococcal immunization once at age 65 years.
+Myocardial infarction: Daily aspirin in patients with prevalent cardiovascular disease or with poor cardiovascular risk profile.
+Osteoporosis: Calcium 1200 mg daily and vitamin D at least 800 UI daily.
+Exercise
+
+Rates of regular physical activity decrease with age and are lowest in older persons. This is unfortunate because physical activity has clear benefits in aging. In older adults, increased physical activity improves physical function, muscle strength, mood, sleep, and metabolic risk profile. Some studies suggest that exercise can improve cognition and prevent dementia, but this is still controversial. Exercise programs, both aerobic and strength training, are feasible and beneficial even in very old and frail individuals. Regular, moderate-intensity exercise can reduce the rate of age-associated decline in physical function. The U.S. Centers for Disease Control and Prevention recommend that older persons should have at least 150 min per week of moderate-intensity aerobic activity (such as brisk walking) and muscle-strengthening activities that work all major muscle groups (legs, hips, back, abdomen, chest, shoulders, and arms) on 2 or more days a week. In the absence of contraindications, more intense and prolonged physical activity provides higher benefits. Frail and sedentary persons may need supervision, at least at the start of the exercise program, to avoid falls and exercise-related injuries.
+
+Nutrition
+
+Older persons are particularly vulnerable to malnutrition and many problems that affect older patients can be addressed by dietary modification. In spite of this, evidence-based guidelines for individualized dietary modification in the elderly are lacking and older people tend to be poorly compliant with dietary recommendations. Basic principles of a healthy diet that are also valid for older persons are as follows:
+
+Encourage consumption of fruits and vegetables; they are rich in micronutrients, mineral, and fibers. Whole grains are also a good source of fiber. Keep in mind that some of these foods are costly and thus less accessible to low-income persons.
+Good hydration is essential. Fluid intake should be at least 1000 mL daily.
+Encourage the use of fat-free and low-fat dairy products, legumes, poultry, and lean meats. Encourage consumption of fish at least once a week.
+Match intake of energy (calories) to overall energy needs in order to maintain a healthy weight and body mass index (BMI 20每27). If BMI >27, implement a 5每10% calorie restriction.
+Limit consumption of foods with high caloric density, high sugar, and high salt content (less than 6 g per day).
+Limit the intake of foods with a high content of saturated fatty acids and cholesterol.
+Limit alcohol consumption (1 drink per day or less).
+Older persons who have little exposure to UVB radiation are at risk of vitamin D insufficiency. Thus, vitamin D每fortified foods and/or vitamin D supplements should be introduced in the diet.
+Make sure that the diet includes adequate food-related intake of magnesium, vitamin A, and vitamin B12.
+For constipation: increase dietary fiber to 10每25 g and fluid intake to 1500 mL daily. A bulk laxative (methylcellulose or psyllium) can be added.
+Novel Interventions to Modify Aging Processes
+
+Aging is a complex process with multiple manifestations at the molecular, cellular, organ, and whole organism level. The nature of the aging process is still not fully understood, but aging and its effects may be modulated by appropriate interventions. Dietary and genetic alterations can increase healthy life span and prevent the development of dysregulated systems and the aging phenotype in laboratory model organisms. The mechanisms responsible for life span expansion are "food" sensors typically activated in situations of food shortage, such as IGF (insulin-like growth factor)/insulin and the TOR (target of rapamycin) pathways. Accordingly, a reduction in food intake without malnutrition extends the life span by 10每50% in diverse organisms, from yeast to rhesus monkeys. Mechanisms that mediate the effects of caloric restriction are under intensive study because they are potential targets for interventions aimed at counteracting the emergence of the aging phenotype and its deleterious effects in humans. For example, resveratrol, a natural compound found in grape skin that mimics some of the effects of dietary restriction, increases longevity and improves health when fed to mice on a high-fat diet but has little effect in mice on a standard diet. Other compounds that potentially mimic caloric restriction are currently in development and testing. A high prevalence of IGF-1 receptor gene mutation has been found in Ashkenazi Jewish centenarians and in long-lived individuals, suggesting that the downregulation of IGF-1 signaling may promote human longevity. A 20-year 30% dietary restriction applied to adult rhesus monkeys was shown to be associated with reduced cardiovascular and cancer morbidity, reduced signs of aging, and higher longevity, though a second such study did not find increased longevity. In humans, dietary restriction is effective against obesity and reduces insulin resistance, inflammation, blood pressure, c-reactive protein, and intima-media thickness of the carotid arteries. However, the beneficial effects of dietary restriction in humans are still controversial, and some potential negative effects have not been sufficiently studied. An interesting effect of caloric restriction in humans is mitochondrial biogenesis. Mitochondrial dysfunction has emerged as a potentially important underlying contributor to aging. Reduced expression of mitochondrial genes is a strongly conserved feature of aging across different species. Interestingly, mitochondria are the machinery for chemical energy production, and brain and muscle are particularly susceptible to defective mitochondrial function. Thus, declining mitochondrial function may be a direct cause of at least three of the main dysregulated systems contributing to the phenotype of aging.
+
+Other Aspects of Aging
+
+This chapter touched on some of the fundamental aspects of human aging, focusing mostly on those that are relevant to the care of older patients. Many aspects of geriatric medicine could not be addressed due to space limitations. Valuable topics had to be left out, including details of comprehensive geriatric assessment, depression and anxiety, hypertension, orthostatic hypotension, dementia, vision and hearing impairment, osteoporosis, palliative care, prostate disorders, foot problems, and women's health. Some of these topics are treated extensively elsewhere in this text, sometimes with comments on age-specific issues. The interested reader can find resources for further information at the end of this chapter.
+
+Conclusions
+
+The universal process of aging is becoming better understood. There appear to be shared underlying cellular and molecular processes that induce widespread dysregulation in key systems. This dysregulation contributes to clinical manifestations of a frailty phenotype and can be used to understand how to evaluate and manage the older patient.
+
+Acknowledgment
+
+We would like to thank our colleagues who provided criticisms and suggestions for improvement of this chapter. We are particularly indebted to Dr. John Morley for his valuable suggestions on the "Anorexia-Malnutrition" section.
+ 
+Further Readings
+
+American Geriatrics Society Panel on Pharmacological Management of Persistent Pain in Older Persons. Pharmacological management of persistent pain in older persons. J Am Geriatr Soc 57:1331, 2009 
+
+ 
+Boult C et al: Successful models of comprehensive care for older adults with chronic conditions: Evidence for the Institute of Medicine's "retooling for an aging America" report. J Am Geriatr Soc 57:2328, 2009[PMID: 20121991]  [Full Text]
+
+ 
+Halter JB et al: Hazzard's Geriatric Medicine & Gerontology, 6th ed. New York, McGraw-Hill, 2009 
+
+ 
+Reuben DB et al: Geriatrics at Your Fingertips: 2010, 12th ed. New York, American Geriatric Society, 2010 
+
+ 
+ 
+Websites
+
+The American Geriatric Society http://www.americangeriatrics.org/ 
+
+ 
+The Gerontological Society of America http://www.geron.org/ 
+
+ 
+World Health Organization Website on Aging http://www.who.int/topics/ageing/en/ 
+^^
