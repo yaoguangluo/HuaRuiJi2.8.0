@@ -28,8 +28,8 @@ public class flt extends JPanel{
 				r+= newdata1[n]* cos[k][n];
 				i+= newdata1[n]* sin[k][n];
 			}
-			fdata1[k] = Math.sqrt(r*r+i*i);
-			flines.add(new Line2D.Double(k, 0, k, fdata1[k]/900));
+			fdata1[k]= Math.sqrt(r* r+ i* i);
+			flines.add(new Line2D.Double(k, 0, k, fdata1[k]/ 900));
 		} 
 	}
 
@@ -38,10 +38,10 @@ public class flt extends JPanel{
 		double set= 2* pi/ N;
 		for(int k= 0; k< N; k++){
 			for(int n= 1; n < N; n ++){
-				cos[k][n]= cos[k][n- 1]+ newdata1[n]* Math.cos(set* n * k);
+				cos[k][n]= cos[k][n- 1]+ newdata1[n]* Math.cos(set* n* k);
 			} 	
-			fdata1[k]= Math.abs(cos[k][N-1]/N);
-			flines.add(new Line2D.Double(k, 0, k,fdata1[k]));
+			fdata1[k]= Math.abs(cos[k][N- 1]/N);
+			flines.add(new Line2D.Double(k, 0, k, fdata1[k]));
 		} 	
 	}
 
@@ -69,12 +69,12 @@ public class flt extends JPanel{
 			bili0= new waveProcessor.Guassian().guassian1d(bili0, 1.6);
 			lines.clear();
 			for(int i= 0; i< bili0.length; i++) {
-				lines.add(new Line2D.Double(i, bili0[i], i,bili0[i]));
+				lines.add(new Line2D.Double(i, bili0[i], i, bili0[i]));
 			} 
-			jp3.paint(jpt.getGraphics(),lines, forOutput);
+			jp3.paint(jpt.getGraphics(), lines, forOutput);
 		}else if(1== type) {
 			bili0= new waveProcessor.Proportion().newXY(bili0, 1024, 100);
-//			bili0= new waveProcessor.Proportion().newXYBest(bili0, 1024, 65);
+			//			bili0= new waveProcessor.Proportion().newXYBest(bili0, 1024, 65);
 			bili0= new waveProcessor.Guassian().guassian1d(bili0, 1.6);
 			lines.clear();
 			for(int i= 0; i< bili0.length; i++) {

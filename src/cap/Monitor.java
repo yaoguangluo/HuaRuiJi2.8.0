@@ -423,13 +423,13 @@ public class Monitor extends JApplet{
 							mag= new imageProcessor.Threshold().Processor(mag, 7);
 							mag= new imageProcessor.Mask().Processor(mag, dir);				
 							mag= new imageProcessor.Threshold().ProcessorSection(mag, 25 ,110);		
-							
+
 							//将梯度的索贝尔分层后进行距离为2的 128像色素团小于1 大于50的像色素团噪声过滤输出。
 							mag= ImagePixGroupFilter.getImagePix2DGroupFilter(mag, 128, 2, 1, 50);
 							//将梯度的索贝尔分层后进行距离为2的 255像色素团小于1 大于50的像色素团噪声过滤输出。
 							mag= ImagePixGroupFilter.getImagePix2DGroupFilter(mag, 255, 2, 1, 50);
-							
-							
+
+
 							int[][] rp1= mag;
 							int w= rp1.length;
 							int h= rp1[0].length;
@@ -579,15 +579,15 @@ public class Monitor extends JApplet{
 												if(
 														find1>=00      
 														&&find1<10+m
-														                &&find2<13+m
+														&&find2<13+m
 														&&find3>=12  -n   &&find3<50+m
 														&&find4>=3      &&find4<20+m
 														&&find5>=19 -n    &&find5<22+m
 														&&find6>=8  -nn    &&find6<19
 														&&find7>10  -nn    &&find7<35+m
 														&&find8>20 -n     &&find8<75+m
-														                &&find9<10+m
-														                &&find10<1
+														&&find9<10+m
+														&&find10<1
 														&&find11>=66  -n  &&find11<72+m
 														&&find12>=10  -n   &&find12<30+m
 														&&find13>=5      &&find13<15+m
@@ -595,10 +595,10 @@ public class Monitor extends JApplet{
 														&&find15>=15  -nn   &&find15<35+m
 														&&find16>=1     &&find16<20+m
 														&&find17>=50 -nn  &&find17<=60+m
-														                 &&find18<10+m
-														                 &&find19<10+m
-														                 &&find20<1
-														                 &&find21<40+m
+														&&find18<10+m
+														&&find19<10+m
+														&&find20<1
+														&&find21<40+m
 														&&find22>=0     
 														&&find22<20 +m) {
 													if(i>50&&i<550&&j>50&&j<400) {	
