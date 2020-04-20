@@ -20,7 +20,8 @@ public class MakeContainerSJFX extends Thread implements Runnable{
 	public Map<String, String> cte;
 	public Object[][] tableData_old;
 	public JTextPane text;
-	public MakeContainerSJFX(Object[][] tableData_old, JTextPane text, Analyzer analyzer,Container jpanelSecond, App3 u2
+	public MakeContainerSJFX(Object[][] tableData_old, JTextPane text
+			, Analyzer analyzer,Container jpanelSecond, App3 u2
 			, JTabbedPane jTabbedpane, String[] tabNames, Map<String, String> pos
 			, Map<String, String> pose, Map<String, String> etc, Map<String, String> cte) {
 		super();

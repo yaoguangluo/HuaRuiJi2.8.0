@@ -20,7 +20,9 @@ public class MakeContainerZYZD extends Thread implements Runnable{
 	public Map<String, String> pose;
 	public Map<String, String> etc;
 	public Map<String, String> cte;
-	public MakeContainerZYZD(Analyzer analyzer,App3 u2, JTabbedPane jTabbedpane, String[] tabNames, Map<String, String> pos, Map<String, String> pose, Map<String, String> etc, Map<String, String> cte) {
+	public MakeContainerZYZD(Analyzer analyzer,App3 u2, JTabbedPane jTabbedpane
+			, String[] tabNames, Map<String, String> pos, Map<String, String> pose
+			, Map<String, String> etc, Map<String, String> cte) {
 		super();
 		this.u = u2;
 		this.tabNames = tabNames;
