@@ -95,57 +95,68 @@ Map<String, Object> dic_qi_ta, Map<String, Object> dic_yong_liang, Map<String, O
 				if(rowValue.containsKey("西药名")) {
 					HashMap<String, Object> temp= (HashMap<String, Object>) rowValue.get("西药名");
 					keyName= temp.get("culumnValue").toString().replace("@biky@", ":");
-					dic_yao_ming.put(keyName, null== temp.get("culumnValue")?"":temp.get("culumnValue").toString().replace("@biky@", ":"));
+					dic_yao_ming.put(keyName, null== temp.get("culumnValue")?"":temp.get("culumnValue")
+							.toString().replace("@biky@", ":"));
 					stringBuilder.append(temp.get("culumnValue").toString());
 				}
 				if(rowValue.containsKey("介绍")) {
 					HashMap<String, Object> temp= (HashMap<String, Object>) rowValue.get("介绍");
-					dic_jie_shao.put(keyName, null== temp.get("culumnValue")?"":temp.get("culumnValue").toString().replace("@biky@", ":"));
+					dic_jie_shao.put(keyName, null== temp.get("culumnValue")?"":temp.get("culumnValue")
+							.toString().replace("@biky@", ":"));
 					stringBuilder.append(temp.get("culumnValue").toString());
 				}
 				if(rowValue.containsKey("药理")) {
 					HashMap<String, Object> temp= (HashMap<String, Object>) rowValue.get("药理");
-					dic_yao_li.put(keyName, null== temp.get("culumnValue")?"":temp.get("culumnValue").toString().replace("@biky@", ":"));
+					dic_yao_li.put(keyName, null== temp.get("culumnValue")?"":temp.get("culumnValue")
+							.toString().replace("@biky@", ":"));
 					stringBuilder.append(temp.get("culumnValue").toString());
 				}
 				if(rowValue.containsKey("主要成分")) {
 					HashMap<String, Object> temp= (HashMap<String, Object>) rowValue.get("主要成分");
-					dic_chengfen_danwei.put(keyName, null== temp.get("culumnValue")?"":temp.get("culumnValue").toString().replace("@biky@", ":"));
+					dic_chengfen_danwei.put(keyName, null== temp.get("culumnValue")?"":temp.get("culumnValue")
+							.toString().replace("@biky@", ":"));
 					stringBuilder.append(temp.get("culumnValue").toString());
 				}
 				if(rowValue.containsKey("用法")) {
 					HashMap<String, Object> temp= (HashMap<String, Object>) rowValue.get("用法");
-					dic_yong_fa.put(keyName, null== temp.get("culumnValue")?"":temp.get("culumnValue").toString().replace("@biky@", ":"));
+					dic_yong_fa.put(keyName, null== temp.get("culumnValue")?"":temp.get("culumnValue")
+							.toString().replace("@biky@", ":"));
 					stringBuilder.append(temp.get("culumnValue").toString());
 				}
 				if(rowValue.containsKey("注意事项")) {
 					HashMap<String, Object> temp= (HashMap<String, Object>) rowValue.get("注意事项");
-					dic_zhu_yi.put(keyName, null== temp.get("culumnValue")?"":temp.get("culumnValue").toString().replace("@biky@", ":"));
+					dic_zhu_yi.put(keyName, null== temp.get("culumnValue")?"":temp.get("culumnValue")
+							.toString().replace("@biky@", ":"));
 					stringBuilder.append(temp.get("culumnValue").toString());
 				}
 				if(rowValue.containsKey("适应症")) {
 					HashMap<String, Object> temp= (HashMap<String, Object>) rowValue.get("适应症");
-					dic_shi_ying.put(keyName, null==temp.get("culumnValue")?"":temp.get("culumnValue").toString().replace("@biky@", ":"));
+					dic_shi_ying.put(keyName, null==temp.get("culumnValue")?"":temp.get("culumnValue")
+							.toString().replace("@biky@", ":"));
 					stringBuilder.append(temp.get("culumnValue").toString());
 				}
 				if(rowValue.containsKey("不良反应")) {
 					HashMap<String, Object> temp= (HashMap<String, Object>) rowValue.get("不良反应");
-					dic_bu_liang_fan_ying.put(keyName, null==temp.get("culumnValue")?"":temp.get("culumnValue").toString().replace("@biky@", ":"));
+					dic_bu_liang_fan_ying.put(keyName, null==temp.get("culumnValue")?"":temp.get("culumnValue")
+							.toString().replace("@biky@", ":"));
 					stringBuilder.append(temp.get("culumnValue").toString());
 				}
 				if(rowValue.containsKey("用量")) {
 					HashMap<String, Object> temp= (HashMap<String, Object>) rowValue.get("用量");
-					dic_yong_liang.put(keyName, null==temp.get("culumnValue")?"":temp.get("culumnValue").toString().replace("@biky@", ":"));
+					dic_yong_liang.put(keyName, null==temp.get("culumnValue")?"":temp.get("culumnValue")
+							.toString().replace("@biky@", ":"));
 					stringBuilder.append(temp.get("culumnValue").toString());
 				}
 				if(rowValue.containsKey("药物相互作用")) {
 					HashMap<String, Object> temp= (HashMap<String, Object>) rowValue.get("药物相互作用");
-					dic_yao_wu_xiang_hu_zuo_yong.put(keyName, null==temp.get("culumnValue")?"":temp.get("culumnValue").toString().replace("@biky@", ":"));
+					dic_yao_wu_xiang_hu_zuo_yong.put(keyName, null==temp.get("culumnValue")?"":temp
+							.get("culumnValue").toString().replace("@biky@", ":"));
 					stringBuilder.append(temp.get("culumnValue").toString());
 				}
 				if(rowValue.containsKey("其他")) {
 					HashMap<String, Object> temp= (HashMap<String, Object>) rowValue.get("其他");
-					dic_qi_ta.put(keyName, null==temp.get("culumnValue")?"":temp.get("culumnValue").toString().replace("@biky@", ":"));
+					dic_qi_ta.put(keyName, null==temp.get("culumnValue")?"":temp.get("culumnValue")
+							.toString().replace("@biky@", ":"));
 					stringBuilder.append(temp.get("culumnValue").toString());
 				}
 				dic_map.put(keyName, stringBuilder.toString().replace("@biky@", ":"));
