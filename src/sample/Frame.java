@@ -39,7 +39,7 @@ public class Frame{
 		//			return;
 		//		}
 		NE= new App3();
-		JFrame frame= new JFrame("养疗经 TM V2.1.0");
+		JFrame frame= new JFrame("养疗经 V2.1.0/ 华瑞集 V2.8.0+");
 		frame.setIconImage(NE.logo.getImage());
 		frame.setLayout(null);
 		frame.setSize(1330, 770+ 40);
