@@ -17,6 +17,7 @@ public class SoundPlay implements Runnable {
 	private LYGFileIO cur;
 	private AdataFrame af;
 	private jp jp;
+	@SuppressWarnings("unused")
 	private Object bootSound;
 	public SoundPlay(){
 	}

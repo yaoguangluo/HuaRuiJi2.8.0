@@ -1,8 +1,5 @@
 package org.plsql.db.plsql.imp;
-import java.awt.List;
-import java.util.ArrayList;
 import java.util.Map;
-
 import java.util.concurrent.ConcurrentHashMap;
 import org.tinos.language.plorm.PLORMInterf;
 public class ExecPLSQLImp {

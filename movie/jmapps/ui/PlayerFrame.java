@@ -6,8 +6,9 @@
 
 package jmapps.ui;
 
-import java.net.*;
-import java.lang.reflect.Method;
+//import java.net.*;
+//
+//import java.lang.reflect.Method;
 import java.awt.*;
 import java.awt.event.*;
 
@@ -303,8 +304,8 @@ public class PlayerFrame extends JMFrame implements ActionListener,
 	protected void processReplaceURL ( ControllerEvent event ) {
         Class   classReplaceURLEvent;
         Class   classEvent;
-        Method  methodGetUrl;
-        URL     url;
+//        Method  methodGetUrl;
+//        URL     url;
 
         killCurrentPlayer ();
 
@@ -312,9 +313,9 @@ public class PlayerFrame extends JMFrame implements ActionListener,
             classReplaceURLEvent = Class.forName ( "com.ibm.media.ReplaceURLEvent" );
             classEvent = event.getClass ();
             classReplaceURLEvent.isAssignableFrom ( classEvent );
-            methodGetUrl = classEvent.getMethod ( "getURL",null);
-            url = (URL) methodGetUrl.invoke ( event, null );
-            open ( url.toString() );
+//            methodGetUrl = classEvent.getMethod ( "getURL",null);
+//            url = (URL) methodGetUrl.invoke ( event, null );
+ //           open ( url.toString() );
         }
         catch (Exception e) {
         }

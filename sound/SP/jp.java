@@ -35,6 +35,7 @@ import soundProcessor.SoundPlay;
 import soundProcessor.SoundRecord;
 import thread.MakeContainerZNSZ;
 import waveProcessor.DFT;
+@SuppressWarnings("unused")
 public class jp extends JPanel implements Runnable{
 	private static final long serialVersionUID = 1L;
 	LYGFileIO cur;
