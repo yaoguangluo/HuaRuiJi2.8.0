@@ -1,4 +1,5 @@
-# HuaRuiJi2.8.0
+# HuaRuiJi2.8.0 
+# Apache 2.0 LICENSE
 《华瑞集 2.8.0+》源码，这个项目赠送给中华人民共和国政府。
 
 
