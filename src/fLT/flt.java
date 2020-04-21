@@ -1,4 +1,4 @@
-package FLT;
+package fLT;
 import java.awt.Graphics;
 import java.awt.geom.Line2D;
 import java.awt.geom.Line2D.Double;

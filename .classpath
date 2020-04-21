@@ -2,29 +2,29 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/6.1.9"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="AILanguage"/>
+	<classpathentry kind="src" path="aILanguage"/>
 	<classpathentry kind="src" path="bi"/>
 	<classpathentry kind="src" path="bioDNA"/>
 	<classpathentry kind="src" path="database"/>
 	<classpathentry kind="src" path="dataSwap"/>
-	<classpathentry kind="src" path="DetaPLSQL"/>
+	<classpathentry kind="src" path="detaPLSQL"/>
 	<classpathentry kind="src" path="chemistry"/>
-	<classpathentry kind="src" path="DetaSrc"/>
+	<classpathentry kind="src" path="detaSrc"/>
 	<classpathentry kind="src" path="image"/>
-	<classpathentry kind="src" path="JVM"/>
+	<classpathentry kind="src" path="jVM"/>
 	<classpathentry kind="src" path="medcine"/>
 	<classpathentry kind="src" path="movie"/>
 	<classpathentry kind="src" path="neroMap"/>
-	<classpathentry kind="src" path="NeroTheme"/>
+	<classpathentry kind="src" path="neroTheme"/>
 	<classpathentry kind="src" path="network"/>
-	<classpathentry kind="src" path="OPGL"/>
+	<classpathentry kind="src" path="oPGL"/>
 	<classpathentry kind="src" path="prediction"/>
 	<classpathentry kind="src" path="processor"/>
 	<classpathentry kind="src" path="sound"/>
-	<classpathentry kind="src" path="SPEEK"/>
+	<classpathentry kind="src" path="speak"/>
 	<classpathentry kind="src" path="suggest"/>
 	<classpathentry kind="src" path="target"/>
-	<classpathentry kind="src" path="UI"/>
+	<classpathentry kind="src" path="ui"/>
 	<classpathentry kind="src" path="wavelet"/>
 	<classpathentry kind="src" path="wordSegment"/>
 	<classpathentry kind="lib" path="lib/artoolkitplus-2.3.1-1.3.jar"/>

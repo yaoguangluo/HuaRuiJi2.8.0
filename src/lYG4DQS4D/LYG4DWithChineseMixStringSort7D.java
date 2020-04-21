@@ -1,28 +1,24 @@
-package LYG4DQS4D;
+package lYG4DQS4D;
 import java.util.HashMap;
-//20200314 集成了最新的小高峰过滤催化排序5代思想。
-//罗瑶光
 import java.util.Map;
-public class LYG5DWithChineseMixStringSort8D{
+public class LYG4DWithChineseMixStringSort7D{
 	Map<String, Boolean> find= new HashMap<>();
 	Map<String, String> pinyin;
 	int range;
-	int deeps;
 	public void quick4DChineseStringArray(String[] strings, int leftPosition
-			, int rightPosition, int scale, Map<String, String> map, int range, int deeps) {
+			, int rightPosition, int scale, Map<String, String> map, int range) {
 		this.pinyin= map;
 		this.range= range;
-		this.deeps= deeps;
 		processKernel(strings, leftPosition, rightPosition, scale, 0);
 	}
 
-	private void processKernel(String[] kernel, int leftPosition
+	public void processKernel(String[] kernel, int leftPosition
 			, int rightPosition, int scale, int point) {
 		int rightPositionReflection= rightPosition;
 		if(point> scale) {
 			return;
 		}
-		processQS4DLYG5D(kernel, leftPosition, rightPosition, scale, point, 0);
+		processQS4DLYG4D(kernel, leftPosition, rightPosition, scale, point);
 		int i;
 		for(i= leftPosition; i<= rightPosition; i++) {
 			if(!(kernel[i].length()<= point|| kernel[leftPosition].length()<= point)) {
@@ -38,7 +34,7 @@ public class LYG5DWithChineseMixStringSort8D{
 		}
 	}
 
-	private void processSort(String[] kernel, int leftPosition
+	public void processSort(String[] kernel, int leftPosition
 			, int rightPosition, int scale, int point) {
 		if(point> scale) {
 			return;
@@ -112,21 +108,21 @@ public class LYG5DWithChineseMixStringSort8D{
 		}
 	}
 
-	private void processQS4DLYG5D(String[] kernel, int leftPosition
-			, int rightPosition, int scale, int point, int deep) {
+	public void processQS4DLYG4D(String[] kernel, int leftPosition
+			, int rightPosition, int scale, int point) {
 		if(leftPosition< rightPosition){
 			int c= rightPosition- leftPosition; 
-			if(!(c > this.range|| deep> this.deeps)) {//增加了deep
+			if(c< this.range){	
 				processSort(kernel, leftPosition, rightPosition, scale, point);
 				return;
 			}
 			int pos= partition(kernel, leftPosition, rightPosition, scale, point);
-			processQS4DLYG5D(kernel, leftPosition, pos- 1, scale, point, deep+ 1);
-			processQS4DLYG5D(kernel, pos+ 1, rightPosition, scale, point, deep+ 1);
+			processQS4DLYG4D(kernel, leftPosition, pos- 1, scale, point);
+			processQS4DLYG4D(kernel, pos+ 1, rightPosition, scale, point);
 		}
 	}
 
-	private boolean findSmall(String[] kernel, int scale, int point
+	public boolean findSmall(String[] kernel, int scale, int point
 			, int i, int j, int rightPosition) {
 		if(kernel[i].length()<= point|| kernel[j].length()<= point) {
 			if(kernel[i].length()< kernel[j].length()) {
@@ -183,7 +179,7 @@ public class LYG5DWithChineseMixStringSort8D{
 		return false;
 	}
 
-	private boolean findSmallWithTwoChar(String x1, String x2
+	public boolean findSmallWithTwoChar(String x1, String x2
 			, int scale, int point) {
 		if(x1.length()<= point|| x2.length()<= point) {
 			if(x1.length()< x2.length()) {
@@ -203,7 +199,7 @@ public class LYG5DWithChineseMixStringSort8D{
 			if(!(!hasX1|| !hasX2)){
 				String[] js= new String[2];
 				js[0]= this.pinyin.get(""+ x1.charAt(point));
-				js[1]= this.pinyin.get(""+ x2.charAt(point));
+				js[1]= this.pinyin.get(""+x2.charAt(point));
 				boolean change= processSortPinYin(js, 3);
 				if(change) {
 					return true;
@@ -226,7 +222,7 @@ public class LYG5DWithChineseMixStringSort8D{
 		return false;
 	}
 
-	private int partition(String[] array, int leftPosition, int rightPosition, int scale, int point) {
+	public int partition(String[] array, int leftPosition, int rightPosition, int scale, int point) {
 		String x= findSmall(array, scale, point, leftPosition, rightPosition, rightPosition)
 				? array[rightPosition]: array[leftPosition];
 		int leftPositionReflection= leftPosition;
@@ -258,7 +254,7 @@ public class LYG5DWithChineseMixStringSort8D{
 		return rightPosition;
 	}
 
-	private boolean processSortPinYin(String[] kernel, int scale) {
+	public boolean processSortPinYin(String[] kernel, int scale) {
 		for(int k= 0; k< scale; k++) {
 			if(kernel[0].length()<= k|| kernel[1].length()<= k) {
 				if(kernel[0].length()< kernel[1].length()) {
@@ -277,6 +273,48 @@ public class LYG5DWithChineseMixStringSort8D{
 		}
 		if(kernel[0].length()< kernel[1].length()) {
 			return true;
+		}
+		return false;
+	}
+	public boolean findSmallWithTwoCharWithPinYin(Map<String, String> pinyinMap, String x1, String x2
+			, int scale, int point) {
+		if(x1.length()<= point|| x2.length()<= point) {
+			if(x1.length()< x2.length()) {
+				for(int p= 0; p< scale; p++) {
+					if(!(x1.length()<= p|| x2.length()<= p)) {
+						if(x1.charAt(p)!= x2.charAt(p)) {
+							return false;
+						}
+					}
+				}
+				return true;
+			}
+			return false;
+		}else { 
+			boolean hasX1= pinyinMap.containsKey(""+ x1.charAt(point));
+			boolean hasX2= pinyinMap.containsKey(""+ x2.charAt(point));
+			if(!(!hasX1|| !hasX2)){
+				String[] js= new String[2];
+				js[0]= pinyinMap.get(""+ x1.charAt(point));
+				js[1]= pinyinMap.get(""+ x2.charAt(point));
+				boolean change= processSortPinYin(js, 3);
+				if(change) {
+					return true;
+				}
+				return false;
+			}else if(!(hasX1|| hasX2)){
+				if(x1.toLowerCase().charAt(point)> x2.toLowerCase().charAt(point)) {
+					return true;
+				}else if(x1.toLowerCase().charAt(point)== x2.toLowerCase().charAt(point)) {
+					if(x1.charAt(point)> x2.charAt(point)) {
+						return true;
+					}
+					return false;
+				}
+				return false;
+			}else if(!(hasX1|| !hasX2)){
+				return true;
+			}
 		}
 		return false;
 	}

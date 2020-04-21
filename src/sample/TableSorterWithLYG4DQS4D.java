@@ -14,7 +14,7 @@ import javax.swing.event.TableModelEvent;
 import javax.swing.event.TableModelListener;
 import javax.swing.table.*;
 
-import LYG4DQS4D.LYG4DWithChineseMixStringSort7D;
+import lYG4DQS4D.LYG4DWithChineseMixStringSort7D;
 
 /**
  * TableSorter is a decorator for TableModels; adding sorting

@@ -1,5 +1,6 @@
 package org.LYG.GUI.extOSGI;
 import java.io.IOException;
+
 import javax.swing.JTextPane;
 import org.LYG.GUI.OSGI.*;
 import org.LYG.node.ai.WekaPilot2D.WekaPilot2DNodeInterface;

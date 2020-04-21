@@ -7,7 +7,8 @@ import java.util.Map;
 import java.util.Vector;
 import javax.sound.sampled.AudioFormat;
 import javax.sound.sampled.AudioInputStream;
-import FLT.flt;
+
+import fLT.flt;
 import waveProcessor.DFT;
 public class soundWaveVector{
 	Vector<Double> lines= new Vector<Double>();
