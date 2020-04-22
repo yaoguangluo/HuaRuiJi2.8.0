@@ -12,7 +12,7 @@ import java.io.RandomAccessFile;
 import javax.sound.sampled.AudioFormat;
 import javax.sound.sampled.AudioFormat.Encoding;
 import soundProcessor.BytestoAIS;
-import thread.MakeContainerZNSZ;
+import thread.MakeContainerZhiNengShengZhen;
 import waveProcessor.DFT;
 public class LYGFileIO{
 	public Header header;
@@ -27,12 +27,12 @@ public class LYGFileIO{
 	public double[][] fftmatrix;
 	public int[] fftLogCount;
 	public BufferedImage image;
-	public MakeContainerZNSZ makeContainerZNSZ;
+	public MakeContainerZhiNengShengZhen makeContainerZNSZ;
 	
 	public LYGFileIO(){
 	}
 
-	public LYGFileIO initWithFFT(double fft[], MakeContainerZNSZ makeContainerZNSZ) {
+	public LYGFileIO initWithFFT(double fft[], MakeContainerZhiNengShengZhen makeContainerZNSZ) {
 		LYGFileIO lYGFileIO= new LYGFileIO();
 		lYGFileIO.makeContainerZNSZ= makeContainerZNSZ;
 		lYGFileIO.header= new Header();

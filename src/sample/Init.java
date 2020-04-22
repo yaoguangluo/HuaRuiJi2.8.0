@@ -25,23 +25,23 @@ import org.tinos.engine.base.translator.imp.TranslatorImp;
 import org.tinos.vpcs.restServer.restServer;
 
 import comp.jbutton.cfxButton;
-import thread.MakeContainerBJY;
-import thread.MakeContainerGJJD;
-import thread.MakeContainerHLS;
-import thread.MakeContainerQMDJ;
-import thread.MakeContainerSJFX;
-import thread.MakeContainerXXFC;
-import thread.MakeContainerXYCF;
-import thread.MakeContainerXYJZ;
-import thread.MakeContainerXYNK;
-import thread.MakeContainerXYWK;
-import thread.MakeContainerZNSZ;
-import thread.MakeContainerZNXZ;
-import thread.MakeContainerZYFC;
-import thread.MakeContainerZYNKFJ;
-import thread.MakeContainerZYWS;
-import thread.MakeContainerZYZD;
-import thread.MakeContainer_ZHONG_YAO;
+import thread.MakeContainerBianJiYe;
+import thread.MakeContainerGuJiJingDian;
+import thread.MakeContainerHaLiSen;
+import thread.MakeContainerQiMenDunJia;
+import thread.MakeContainerShuJuFenXi;
+import thread.MakeContainerXiYiFuChan;
+import thread.MakeContainerXiYiChuFang;
+import thread.MakeContainerXiYiJiZhen;
+import thread.MakeContainerXiYiNeiKe;
+import thread.MakeContainerXiYiWaiKe;
+import thread.MakeContainerZhiNengShengZhen;
+import thread.MakeContainerZhiNengXiangZhen;
+import thread.MakeContainerZhongYiFuChan;
+import thread.MakeContainerZhongYiNeiKeFangJi;
+import thread.MakeContainerZhongYiWaiShang;
+import thread.MakeContainerZhongYiZhenDuan;
+import thread.MakeContainerZhongYao;
 
 public class Init{
 	public void init(AppBoot appInstance){
@@ -384,79 +384,79 @@ public class Init{
 			appInstance.setBounds(0, 0, 1345, 770+ 25);
 			appInstance.setVisible(true);
 			Container jpanelFirst= new Container();
-			MakeContainer_ZHONG_YAO c1= null;
-			c1= new MakeContainer_ZHONG_YAO(appInstance.analyzer, jpanelFirst, appInstance, tabNames, appInstance.pos);
+			MakeContainerZhongYao c1= null;
+			c1= new MakeContainerZhongYao(appInstance.analyzer, jpanelFirst, appInstance, tabNames, appInstance.pos);
 
 			c1.start();
 			jTabbedpane.addTab(tabNames[0], new ImageIcon(), jpanelFirst, "first");
 			jTabbedpane.setMnemonicAt(0, KeyEvent.VK_0); 
 			jTabbedpane.addChangeListener(appInstance);
 			Container jpanelSecond= new Container();  
-			MakeContainerSJFX c2=new MakeContainerSJFX(appInstance.tableData_old, appInstance.text, appInstance.analyzer
+			MakeContainerShuJuFenXi c2=new MakeContainerShuJuFenXi(appInstance.tableData_old, appInstance.text, appInstance.analyzer
 					,jpanelSecond, appInstance,jTabbedpane,tabNames, appInstance.pos, appInstance.pose, appInstance.etc, appInstance.cte);
 			c2.start();
 			Thread.sleep(20);
 			Container jpanelThird= new Container();  
 
-			MakeContainerZNXZ c3= new MakeContainerZNXZ(appInstance.analyzer, jpanelThird, appInstance, jTabbedpane, tabNames
+			MakeContainerZhiNengXiangZhen c3= new MakeContainerZhiNengXiangZhen(appInstance.analyzer, jpanelThird, appInstance, jTabbedpane, tabNames
 					, appInstance.pos, appInstance.pose, appInstance.etc, appInstance.cte);
 			c3.start();
 			Thread.sleep(20);
 			Container jpanelFourth= new Container();
-			MakeContainerZNSZ c4=new MakeContainerZNSZ(appInstance.analyzer,jpanelFourth,appInstance,jTabbedpane, tabNames
+			MakeContainerZhiNengShengZhen c4=new MakeContainerZhiNengShengZhen(appInstance.analyzer,jpanelFourth,appInstance,jTabbedpane, tabNames
 					, appInstance.pos, appInstance.pose, appInstance.etc, appInstance.cte);
 			c4.start();
 			Thread.sleep(20);
 			Container jpanel5= new Container();  
-			MakeContainerQMDJ c5= new MakeContainerQMDJ(appInstance.analyzer, jpanel5, appInstance, jTabbedpane, tabNames
+			MakeContainerQiMenDunJia c5= new MakeContainerQiMenDunJia(appInstance.analyzer, jpanel5, appInstance, jTabbedpane, tabNames
 					, appInstance.pos, appInstance.pose, appInstance.etc, appInstance.cte);
 			c5.start();
 			Thread.sleep(20);
-			MakeContainerXYNK c6= new MakeContainerXYNK(appInstance.analyzer,appInstance,jTabbedpane,tabNames
+			MakeContainerXiYiNeiKe c6= new MakeContainerXiYiNeiKe(appInstance.analyzer,appInstance,jTabbedpane,tabNames
 					, appInstance.pos, appInstance.pose, appInstance.etc, appInstance.cte);
 			c6.start();
 			Thread.sleep(20);
-			MakeContainerZYNKFJ c7= new MakeContainerZYNKFJ(appInstance.analyzer,appInstance,jTabbedpane,tabNames
+			MakeContainerZhongYiNeiKeFangJi c7= new MakeContainerZhongYiNeiKeFangJi(appInstance.analyzer,appInstance,jTabbedpane,tabNames
 					, appInstance.pos, appInstance.pose, appInstance.etc, appInstance.cte);
 			c7.start();
 			Thread.sleep(20);
-			MakeContainerZYZD c8= new MakeContainerZYZD(appInstance.analyzer,appInstance,jTabbedpane,tabNames
+			MakeContainerZhongYiZhenDuan c8= new MakeContainerZhongYiZhenDuan(appInstance.analyzer,appInstance,jTabbedpane,tabNames
 					, appInstance.pos, appInstance.pose, appInstance.etc, appInstance.cte);
 			c8.start();
 			Thread.sleep(20);
-			MakeContainerGJJD c9= new MakeContainerGJJD(appInstance.analyzer,appInstance,jTabbedpane,tabNames
+			MakeContainerGuJiJingDian c9= new MakeContainerGuJiJingDian(appInstance.analyzer,appInstance,jTabbedpane,tabNames
 					, appInstance.pos, appInstance.pose, appInstance.etc, appInstance.cte);
 			c9.start();
 			Thread.sleep(20);
-			MakeContainerZYFC c10= new MakeContainerZYFC(appInstance.analyzer,appInstance,jTabbedpane,tabNames
+			MakeContainerZhongYiFuChan c10= new MakeContainerZhongYiFuChan(appInstance.analyzer,appInstance,jTabbedpane,tabNames
 					, appInstance.pos, appInstance.pose, appInstance.etc, appInstance.cte);
 			c10.start();
 			Thread.sleep(20);
-			MakeContainerXXFC c11= new MakeContainerXXFC(appInstance.analyzer,appInstance,jTabbedpane,tabNames
+			MakeContainerXiYiFuChan c11= new MakeContainerXiYiFuChan(appInstance.analyzer,appInstance,jTabbedpane,tabNames
 					, appInstance.pos, appInstance.pose, appInstance.etc, appInstance.cte);
 			c11.start();
 			Thread.sleep(20);
-			MakeContainerXYJZ c12= new MakeContainerXYJZ(appInstance.analyzer,appInstance,jTabbedpane,tabNames
+			MakeContainerXiYiJiZhen c12= new MakeContainerXiYiJiZhen(appInstance.analyzer,appInstance,jTabbedpane,tabNames
 					, appInstance.pos, appInstance.pose, appInstance.etc, appInstance.cte);
 			c12.start();
 			Thread.sleep(20);
-			MakeContainerXYWK c13= new MakeContainerXYWK(appInstance.analyzer,appInstance,jTabbedpane,tabNames
+			MakeContainerXiYiWaiKe c13= new MakeContainerXiYiWaiKe(appInstance.analyzer,appInstance,jTabbedpane,tabNames
 					,appInstance.pos, appInstance.pose, appInstance.etc, appInstance.cte);
 			c13.start();
 			Thread.sleep(20);
-			MakeContainerZYWS c14= new MakeContainerZYWS(appInstance.analyzer,appInstance,jTabbedpane,tabNames
+			MakeContainerZhongYiWaiShang c14= new MakeContainerZhongYiWaiShang(appInstance.analyzer,appInstance,jTabbedpane,tabNames
 					, appInstance.pos, appInstance.pose, appInstance.etc, appInstance.cte);
 			c14.start();	
 			Thread.sleep(20);
-			MakeContainerXYCF c15= new MakeContainerXYCF(appInstance.analyzer,appInstance,jTabbedpane,tabNames
+			MakeContainerXiYiChuFang c15= new MakeContainerXiYiChuFang(appInstance.analyzer,appInstance,jTabbedpane,tabNames
 					, appInstance.pos, appInstance.pose, appInstance.etc, appInstance.cte);
 			c15.start();
 			Thread.sleep(20);
-			MakeContainerBJY c16= new MakeContainerBJY(appInstance.analyzer,appInstance,jTabbedpane,tabNames, appInstance.pos, appInstance.pose, appInstance.etc
+			MakeContainerBianJiYe c16= new MakeContainerBianJiYe(appInstance.analyzer,appInstance,jTabbedpane,tabNames, appInstance.pos, appInstance.pose, appInstance.etc
 					,appInstance.cte,appInstance.pinyin,appInstance.ctj,appInstance.ctt,appInstance.ctk, appInstance.ctr);
 			c16.start();	
 			Thread.sleep(20);
-			MakeContainerHLS c17= new MakeContainerHLS(appInstance.analyzer,appInstance,jTabbedpane,tabNames
+			MakeContainerHaLiSen c17= new MakeContainerHaLiSen(appInstance.analyzer,appInstance,jTabbedpane,tabNames
 					,   appInstance.pos, appInstance.pose, appInstance.etc, appInstance.cte, appInstance.posec, appInstance.posFullec);
 			c17.start();
 			appInstance.disableCursor= false;

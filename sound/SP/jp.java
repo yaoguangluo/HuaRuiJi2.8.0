@@ -33,7 +33,7 @@ import comp.jbutton.DetaButton;
 import movieProcessor.LYGFileIO;
 import soundProcessor.SoundPlay;
 import soundProcessor.SoundRecord;
-import thread.MakeContainerZNSZ;
+import thread.MakeContainerZhiNengShengZhen;
 import waveProcessor.DFT;
 @SuppressWarnings("unused")
 public class jp extends JPanel implements Runnable{
@@ -52,7 +52,7 @@ public class jp extends JPanel implements Runnable{
 	jpv jp3;
 	
 	//
-	public jp(Container jpanelFourth, DFT dFT, JTextPane text, BufferedImage imageForOutput, MakeContainerZNSZ makeContainerZNSZ){
+	public jp(Container jpanelFourth, DFT dFT, JTextPane text, BufferedImage imageForOutput, MakeContainerZhiNengShengZhen makeContainerZNSZ){
 		this.imageForOutput= imageForOutput;
 		this.dFT= dFT;
 		forOutput= new Vector<Double>();

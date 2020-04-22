@@ -12,7 +12,7 @@
 	<classpathentry kind="src" path="detaSrc"/>
 	<classpathentry kind="src" path="image"/>
 	<classpathentry kind="src" path="jVM"/>
-	<classpathentry kind="src" path="medcine"/>
+	<classpathentry kind="src" path="medicine"/>
 	<classpathentry kind="src" path="movie"/>
 	<classpathentry kind="src" path="neroMap"/>
 	<classpathentry kind="src" path="neroTheme"/>
