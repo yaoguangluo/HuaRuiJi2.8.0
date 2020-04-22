@@ -7,10 +7,10 @@ import javax.swing.JTextPane;
 
 import org.LYG.GUI.Flash.GUISample;
 import org.tinos.engine.analysis.Analyzer;
-import sample.App3;
+import sample.AppBoot;
 public class MakeContainerSJFX extends Thread implements Runnable{
 	public Container jpanelSecond;
-	public App3 u;
+	public AppBoot u;
 	public JTabbedPane jTabbedpane;
 	public String[] tabNames;
 	public Analyzer analyzer;
@@ -21,7 +21,7 @@ public class MakeContainerSJFX extends Thread implements Runnable{
 	public Object[][] tableData_old;
 	public JTextPane text;
 	public MakeContainerSJFX(Object[][] tableData_old, JTextPane text
-			, Analyzer analyzer,Container jpanelSecond, App3 u2
+			, Analyzer analyzer,Container jpanelSecond, AppBoot u2
 			, JTabbedPane jTabbedpane, String[] tabNames, Map<String, String> pos
 			, Map<String, String> pose, Map<String, String> etc, Map<String, String> cte) {
 		super();

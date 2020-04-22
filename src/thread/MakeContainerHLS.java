@@ -5,11 +5,11 @@ import java.util.Map;
 import javax.swing.ImageIcon;
 import javax.swing.JTabbedPane;
 import org.tinos.engine.analysis.Analyzer;
-import sample.App3;
+import sample.AppBoot;
 import sample.cecil.cecil;
 public class MakeContainerHLS extends Thread implements Runnable{
 	public Container jpanelSecond;
-	public App3 u;
+	public AppBoot u;
 	public JTabbedPane jTabbedpane;
 	public String[] tabNames;
 	public Analyzer analyzer;
@@ -19,7 +19,7 @@ public class MakeContainerHLS extends Thread implements Runnable{
 	public Map<String, String> cte;
 	public Map<String, String> posec;
 	public Map<String, String> posFullec;
-	public MakeContainerHLS(Analyzer analyzer,App3 u2, JTabbedPane jTabbedpane, String[] tabNames
+	public MakeContainerHLS(Analyzer analyzer,AppBoot u2, JTabbedPane jTabbedpane, String[] tabNames
 			, Map<String, String> pos, Map<String, String> pose, Map<String, String> etc
 			, Map<String, String> cte, Map<String, String> posec, Map<String, String> posFullec) {
 		super();

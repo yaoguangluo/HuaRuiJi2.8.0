@@ -4,7 +4,7 @@ import java.net.Socket;
 import org.deta.boot.rest.VPC;
 import org.plsql.stable.StableData;
 
-import sample.App3;
+import sample.AppBoot;
 
 public class ForwardVision {
 	public static void main(String[] args){
@@ -74,7 +74,7 @@ public class ForwardVision {
 		}	
 	}
 
-	public static void forwardToRestMap(App3 app, VPCSRequest vPCSRequest
+	public static void forwardToRestMap(AppBoot app, VPCSRequest vPCSRequest
 			, VPCSResponse vPCSResponse) throws Exception {
 		if(null == vPCSRequest || null == vPCSRequest.getRequestForwardType()){
 			vPCSResponse.return404();

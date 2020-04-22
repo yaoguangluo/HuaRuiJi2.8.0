@@ -34,7 +34,7 @@ import org.tinos.view.obj.WordFrequency;
 import org.tinos.view.stable.StableData;
 
 import comp.jbutton.DetaButton;
-import sample.App3;
+import sample.AppBoot;
 import sample.TableSorter;
 import sample.fckx.dictionary;
 import sort.Quick6DLYGWithStringSwap;
@@ -83,9 +83,9 @@ public class fckx extends Container implements MouseListener, KeyListener{
 			"治疗&治疗方案&原则", "教育&管理", "预后&影响", "预防", "影像与检查"};  
 	public JTextPane text;
 	public JTabbedPane jTabbedpane;
-	public App3 app;
+	public AppBoot app;
 	public fckx(JTextPane text,Analyzer analyzer, Map<String, String> pos, Map<String, String> pose
-			, Map<String, String> etc, Map<String, String> cte, JTabbedPane jTabbedpane, App3 app) throws IOException{
+			, Map<String, String> etc, Map<String, String> cte, JTabbedPane jTabbedpane, AppBoot app) throws IOException{
 		this.text = text;
 		this.app= app;
 		this.pose = pose;

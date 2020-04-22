@@ -25,12 +25,12 @@ import org.tinos.engine.analysis.Analyzer;
 import cap.Monitor;
 import comp.filenameFilter.TXTFilter;
 import comp.jbutton.DetaButton;
-import sample.App3;
+import sample.AppBoot;
 import vedio.PlayerControl;
 import vedio.PlayerShow;
 public class MakeContainerZNXZ extends Thread implements Runnable{
 	public Container jpanelThird;
-	public App3 u;
+	public AppBoot u;
 	public JTabbedPane jTabbedpane;
 	public String[] tabNames;
 	public Analyzer analyzer;
@@ -39,7 +39,7 @@ public class MakeContainerZNXZ extends Thread implements Runnable{
 	public Map<String, String> pose;
 	public Map<String, String> etc;
 	public Map<String, String> cte;
-	public MakeContainerZNXZ(Analyzer analyzer, Container jpanelThird, App3 u2
+	public MakeContainerZNXZ(Analyzer analyzer, Container jpanelThird, AppBoot u2
 			, JTabbedPane jTabbedpane, String[] tabNames, Map<String, String> pos
 			, Map<String, String> pose, Map<String, String> etc, Map<String, String> cte) {
 		super();

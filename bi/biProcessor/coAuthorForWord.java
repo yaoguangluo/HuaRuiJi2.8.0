@@ -24,7 +24,7 @@ import javax.media.opengl.*;
 import JOGLOBJ_YaoguangLuo.JOGLOBJShape;
 import comp.jbutton.DetaButton;
 import comp.jslider.DetaSlider;
-import sample.App3;
+import sample.AppBoot;
 import com.jogamp.opengl.util.FPSAnimator;
 import com.jogamp.opengl.util.GLBuffers;
 import com.jogamp.opengl.util.gl2.GLUT;
@@ -43,7 +43,7 @@ public class coAuthorForWord extends JPanel implements MouseMotionListener
 	public Map<String, Integer> findLeaf;
 	public Map<String, Integer> frequencyLeaf;
 	public Map<String, Integer> didLeaf;
-	public App3 u;
+	public AppBoot u;
 	public Map<String, Object> dic_li ;
 	public Map<String, Object> dic_yl;
 	public Analyzer analyzer;
@@ -102,7 +102,7 @@ public class coAuthorForWord extends JPanel implements MouseMotionListener
 	JOGLOBJShape shape= null;
 	public double t= 1.0d;
 	public String rootWord;  
-	public coAuthorForWord(App3 u, Analyzer analyzer
+	public coAuthorForWord(AppBoot u, Analyzer analyzer
 			, Map<String, String> pos) throws HeadlessException, InterruptedException  {  
 		Thread.sleep(100);
 		rootWord= "";

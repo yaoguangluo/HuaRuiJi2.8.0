@@ -103,9 +103,9 @@ public class TableSorterWithLYG4DQS4D extends AbstractTableModel {
 
     public TableSorterWithLYG4DQS4D() {
     	try {
-    	  	InputStream inputStreamc= new App3().getClass().getResourceAsStream("poscc.lyg");
+    	  	InputStream inputStreamc= new AppBoot().getClass().getResourceAsStream("poscc.lyg");
     		BufferedReader cReaderc= new BufferedReader(new InputStreamReader(inputStreamc, "UTF8"));	
-    		InputStream inputStreamp= new App3().getClass().getResourceAsStream("poscp.lyg");
+    		InputStream inputStreamp= new AppBoot().getClass().getResourceAsStream("poscp.lyg");
     		BufferedReader cReaderp= new BufferedReader(new InputStreamReader(inputStreamp, "UTF8"));
     		//index
     		String cInputStringc;

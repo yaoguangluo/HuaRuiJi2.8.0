@@ -2,12 +2,12 @@ package org.tinos.vpcs.restServer;
 
 import java.io.IOException;
 import org.deta.boot.vpc.controller.ServerInitController;
-import sample.App3;
+import sample.AppBoot;
 
 public class restServer extends Thread implements Runnable{
-	private App3 app;
+	private AppBoot app;
 	public boolean ready= false;
-	public restServer(App3 app) {
+	public restServer(AppBoot app) {
 		//balabala here;
 		this.app= app;
 	}

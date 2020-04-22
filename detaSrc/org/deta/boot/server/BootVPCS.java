@@ -3,9 +3,9 @@ import java.io.IOException;
 
 import org.deta.boot.vpc.controller.ServerInitController;
 
-import sample.App3;
+import sample.AppBoot;
 public class BootVPCS {
-	public static void main(App3 app, String[] args) throws IOException {
+	public static void main(AppBoot app, String[] args) throws IOException {
 		ServerInitController.initServer(app);
 	}
 }

@@ -5,13 +5,13 @@ import java.net.Socket;
 import org.deta.boot.vpc.vision.VPCSRequest;
 import org.deta.boot.vpc.vision.VPCSResponse;
 
-import sample.App3;
+import sample.AppBoot;
 
 public class Sleeper extends Thread implements Runnable{
 	private VPCSRequest vPCSRequest;
 	private VPCSResponse vPCSResponse;
-	private App3 app;
-	public Sleeper(App3 app){
+	private AppBoot app;
+	public Sleeper(AppBoot app){
 		this.app= app;
 		vPCSRequest = new VPCSRequest();
 		vPCSResponse = new VPCSResponse();

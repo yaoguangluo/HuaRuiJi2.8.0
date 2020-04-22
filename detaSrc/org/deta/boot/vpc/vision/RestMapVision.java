@@ -20,7 +20,7 @@ import org.deta.boot.rest.VPC;
 import org.plsql.cache.DetaCacheManager;
 import org.plsql.stable.StableData;
 
-import sample.App3;
+import sample.AppBoot;
 import zipProcessor.GzipUtil;
 
 public class RestMapVision {
@@ -44,7 +44,7 @@ public class RestMapVision {
 		vPCSResponse.getSleeperHall().removeThreadById(vPCSResponse.getHashCode());
 	}
 
-	public static void processRest(App3 app, VPCSRequest vPCSRequest
+	public static void processRest(AppBoot app, VPCSRequest vPCSRequest
 			, VPCSResponse vPCSResponse) throws Exception {
 		String output = VPC.forward(app, vPCSRequest.getRequestLink()
 				, vPCSRequest.getRequestValue());

@@ -11,7 +11,7 @@ import org.plsql.cache.DetaDBBufferCacheManager;
 import org.plsql.common.utils.DetaUtil;
 import org.plsql.stable.StableData;
 
-import sample.App3;
+import sample.AppBoot;
 public class ServerInitController {
 	private static ServerSocket server;
 	//private static Properties properties;
@@ -54,7 +54,7 @@ public class ServerInitController {
 		sleeperHall.callSkivvy(); 
 	}
 
-	public static void initServer(App3 app) throws IOException {
+	public static void initServer(AppBoot app) throws IOException {
 		System.out.println("----DETA VPCS--1.8");
 		System.out.println("----Author: 罗瑶光");
 		System.out.println("----浏阳德塔软件开发有限公司开源项目");

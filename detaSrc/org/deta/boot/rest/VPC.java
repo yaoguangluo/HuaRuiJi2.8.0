@@ -14,9 +14,9 @@ import org.plsql.vpc.process.portImpl.RestDBPLSQLImpl;
 import org.plsql.vpc.process.portImpl.RestLoginPortImpl;
 import org.tinos.rest.medicine.RestMedicinePortImpl;
 import mapProcessor.VtoV;
-import sample.App3;
+import sample.AppBoot;
 public class VPC {
-	public static String forward(App3 app, String string, Map<String, String> data)
+	public static String forward(AppBoot app, String string, Map<String, String> data)
 			throws Exception {
 		//controller
 		if(string.contains(StableData.REST_PATH_SELECT)){

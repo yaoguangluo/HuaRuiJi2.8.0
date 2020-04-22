@@ -14,11 +14,11 @@ import org.tinos.engine.base.translator.imp.TranslatorImp;
 import org.tinos.view.obj.Verbal;
 import org.tinos.view.obj.WordFrequency;
 
-import sample.App3;
+import sample.AppBoot;
 import sort.Quick6DLYGWithStringSwap;
 
 public class RestMedicinePortImpl {	
-	public static App3 kernel(App3 app, String string) {
+	public static AppBoot kernel(AppBoot app, String string) {
 		//Analyst
 				String zhongyao="";
 				String key= string;
@@ -309,7 +309,7 @@ public class RestMedicinePortImpl {
 					return app;
 	}
 	
-	public static Map<String, Object> getMedicineBookFeedbackZY(App3 app,String string) {
+	public static Map<String, Object> getMedicineBookFeedbackZY(AppBoot app,String string) {
 		app= RestMedicinePortImpl.kernel(app, string);
 		if(null==app) {
 			return null;
@@ -358,7 +358,7 @@ public class RestMedicinePortImpl {
 		return output;
 	}
 	
-	public static Map<String, Object> getMedicineBookFeedbackXY(App3 app,String string) {
+	public static Map<String, Object> getMedicineBookFeedbackXY(AppBoot app,String string) {
 		app= RestMedicinePortImpl.kernel(app, string);
 		if(null== app) {
 			return null;
@@ -411,7 +411,7 @@ public class RestMedicinePortImpl {
 		return output;
 	}
 	
-	public static Map<String, Object> getMedicineBookFeedbackZT(App3 app, String string) {
+	public static Map<String, Object> getMedicineBookFeedbackZT(AppBoot app, String string) {
 		app= RestMedicinePortImpl.kernel(app, string);
 		//feedback
 		String preAdd= "仅作病症预测推荐，不做行医诊治分析，请拥有医师资格证人员慎重分析病情，来做证候分析。谢谢!";
@@ -484,7 +484,7 @@ public class RestMedicinePortImpl {
 		return output;
 	}
 	
-	public static Map<String, Object> getMedicineBookFeedbackXT(App3 app, String string) {
+	public static Map<String, Object> getMedicineBookFeedbackXT(AppBoot app, String string) {
 		app= RestMedicinePortImpl.kernel(app, string);
 		//feedback
 		String preAdd= "仅作病症预测推荐，不做行医诊治分析，请拥有医师资格证人员慎重分析病情，来做证候分析。谢谢!";
@@ -508,7 +508,7 @@ public class RestMedicinePortImpl {
 		return output;
 	}
 	
-	public static Map<String, Object> getMedicineBookFeedbackYT(App3 app, String string) {
+	public static Map<String, Object> getMedicineBookFeedbackYT(AppBoot app, String string) {
 		app= RestMedicinePortImpl.kernel(app, string);
 		//feedback
 		String preAdd= "仅作病症预测推荐，不做行医诊治分析，请拥有医师资格证人员慎重分析病情，来做证候分析。谢谢!";
@@ -581,7 +581,7 @@ public class RestMedicinePortImpl {
 		return output;
 	}
 	
-	public static Map<String, Object> getMedicineBookFeedback(App3 app, String string) {
+	public static Map<String, Object> getMedicineBookFeedback(AppBoot app, String string) {
 		app= RestMedicinePortImpl.kernel(app, string);
 		//feedback
 		String preAdd= "仅作病症预测推荐，不做行医诊治分析，请拥有医师资格证人员慎重分析病情，来做证候分析。谢谢!";
@@ -708,7 +708,7 @@ public class RestMedicinePortImpl {
 		return output;
 	}
 
-	public static Object doSearch(App3 app, String string) {
+	public static Object doSearch(AppBoot app, String string) {
 		System.out.println(app.name.getText());
 		if(!app.name.getText().contains(string)) {
 			app.name.setText(app.name.getText()+string);

@@ -27,7 +27,7 @@ public class Frame{
 		return outPut;
 	}
 	
-	public static App3 NE;
+	public static AppBoot NE;
 	@SuppressWarnings({"deprecation"})
 	public static void main(String args[]) throws Exception{
 		//if(!new GetDisk().getKey().replaceAll(" ", "").contains("580307240")) {
@@ -38,7 +38,7 @@ public class Frame{
 		//		if(!new Frame().checkKey()) {
 		//			return;
 		//		}
-		NE= new App3();
+		NE= new AppBoot();
 		JFrame frame= new JFrame("养疗经 V2.1.0/ 华瑞集 V2.8.0+");
 		frame.setIconImage(NE.logo.getImage());
 		frame.setLayout(null);

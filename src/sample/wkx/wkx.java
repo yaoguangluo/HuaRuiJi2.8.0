@@ -35,7 +35,7 @@ import org.tinos.tcp.http.RestCall;
 import org.tinos.view.obj.WordFrequency;
 import org.tinos.view.stable.StableData;
 
-import sample.App3;
+import sample.AppBoot;
 import sample.TableSorter;
 import sample.wkx.dictionary;
 import sort.Quick6DLYGWithStringSwap;
@@ -83,10 +83,10 @@ public class wkx extends Container implements MouseListener, KeyListener{
 	public Map<String, String> cte;
 	public Object[] columnTitle = {"ID", "打分", "外科症治科目", "章节重点笔记"};  
 	public JTextPane text ;
-	private App3 u;
+	private AppBoot u;
 	private JTabbedPane jTabbedpane;
 	public wkx(JTextPane text,Analyzer analyzer, Map<String, String> pos, Map<String, String> pose
-			, Map<String, String> etc, Map<String, String> cte, App3 u, JTabbedPane jTabbedpane) throws IOException{
+			, Map<String, String> etc, Map<String, String> cte, AppBoot u, JTabbedPane jTabbedpane) throws IOException{
 		this.text = text;	this.pose = pose;
 		this.etc = etc;
 		this.cte = cte;

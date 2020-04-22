@@ -4,11 +4,11 @@ import java.util.Map;
 import javax.swing.ImageIcon;
 import javax.swing.JTabbedPane;
 import org.tinos.engine.analysis.Analyzer;
-import sample.App3;
+import sample.AppBoot;
 import sample.editPane.editPane;
 public class MakeContainerBJY extends Thread implements  Runnable{
 	public Container jpanelSecond;
-	public App3 u;
+	public AppBoot u;
     public JTabbedPane jTabbedpane;
     public String[] tabNames;
     public Analyzer analyzer;
@@ -21,7 +21,7 @@ public class MakeContainerBJY extends Thread implements  Runnable{
 	private Map<String, String> ctk;
 	private Map<String, String> ctt;
 	private Map<String, String> ctr;
-	public MakeContainerBJY(Analyzer analyzer, App3 u2, JTabbedPane jTabbedpane
+	public MakeContainerBJY(Analyzer analyzer, AppBoot u2, JTabbedPane jTabbedpane
 			, String[] tabNames, Map<String, String> pos, Map<String, String> pose
 			, Map<String, String> etc, Map<String, String> cte, Map<String, String> pinyin
 			, Map<String, String> ctj, Map<String, String> ctt, Map<String, String> ctk, Map<String, String> ctr) {

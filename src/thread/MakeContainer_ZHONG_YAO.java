@@ -9,18 +9,18 @@ import javax.swing.Box;
 import javax.swing.JScrollPane;
 import javax.swing.JTabbedPane;
 import org.tinos.engine.analysis.Analyzer;
-import sample.App3;
+import sample.AppBoot;
 import semaphone.TaskMakeCoWorker;
 public class MakeContainer_ZHONG_YAO extends Thread implements Runnable{
 	public Container jpanelFirst;
-	public App3 u;
+	public AppBoot u;
 	public JTabbedPane jTabbedpane;
 	public String[] tabNames;
 	public Box buttonBox;
 	public Analyzer analyzer;
 	public Map<String, String> pos;
 	public TaskMakeCoWorker taskMakeCoWorker;
-	public MakeContainer_ZHONG_YAO(Analyzer analyzer,Container jpanelFirst, App3 u2, String[] tabNames
+	public MakeContainer_ZHONG_YAO(Analyzer analyzer,Container jpanelFirst, AppBoot u2, String[] tabNames
 			, Map<String, String> pos) throws IOException {
 		super();
 		this.jpanelFirst= jpanelFirst;

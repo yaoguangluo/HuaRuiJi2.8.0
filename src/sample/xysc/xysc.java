@@ -36,7 +36,7 @@ import org.tinos.tcp.http.RestCall;
 import org.tinos.view.obj.WordFrequency;
 import org.tinos.view.stable.StableData;
 
-import sample.App3;
+import sample.AppBoot;
 import sample.TableSorter;
 //import sample.xysc.dictionary;
 import sort.Quick6DLYGWithStringSwap;
@@ -56,7 +56,7 @@ public class xysc extends Container implements MouseListener, KeyListener{
 	public Object[][] tableData_old;
 	public DefaultTableModel newTableModel = null;
 	public List<String> copy;
-	public App3 app;
+	public AppBoot app;
 	public Map<String,Object> dic_yao_ming;
 	public Map<String,Object> dic_chengfen_danwei;
 	public Map<String,Object> dic_yong_fa;
@@ -82,7 +82,7 @@ public class xysc extends Container implements MouseListener, KeyListener{
 	public JTextPane text ;
 	public xysc(JTextPane text, Analyzer analyzer, Map<String, String> pos
 			, Map<String, String> pose, Map<String, String> etc
-			, Map<String, String> cte, App3 app, JTabbedPane jTabbedpane) throws IOException{
+			, Map<String, String> cte, AppBoot app, JTabbedPane jTabbedpane) throws IOException{
 		this.app= app;
 		this.text = text;	this.pose = pose;
 		this.etc = etc;

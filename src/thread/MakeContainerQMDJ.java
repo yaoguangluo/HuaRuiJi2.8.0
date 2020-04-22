@@ -15,16 +15,16 @@ import javax.swing.JScrollPane;
 import javax.swing.JTabbedPane;
 
 import org.tinos.engine.analysis.Analyzer;
-import sample.App3;
+import sample.AppBoot;
 public class MakeContainerQMDJ extends Thread implements Runnable{
 	public Container jpanel5;
-	public App3 u;
+	public AppBoot u;
 	public JTabbedPane jTabbedpane;
 	public String[] tabNames;
 	public Analyzer analyzer;
 	public JPanel panel_bg;
 	public Map<String, String> pos;
-	public MakeContainerQMDJ(Analyzer analyzer,Container jpanel5, App3 u2, JTabbedPane jTabbedpane
+	public MakeContainerQMDJ(Analyzer analyzer,Container jpanel5, AppBoot u2, JTabbedPane jTabbedpane
 			, String[] tabNames,  Map<String, String> pos, Map<String, String> pose, Map<String, String> etc
 			, Map<String, String> cte) {
 		super();

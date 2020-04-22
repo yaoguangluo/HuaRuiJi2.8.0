@@ -35,7 +35,7 @@ import org.tinos.tcp.http.RestCall;
 import org.tinos.view.obj.WordFrequency;
 import org.tinos.view.stable.StableData;
 
-import sample.App3;
+import sample.AppBoot;
 import sample.TableSorter;
 import sample.jzkx.dictionary;
 import sort.Quick6DLYGWithStringSwap;
@@ -85,10 +85,10 @@ public class jzkx extends Container implements MouseListener, KeyListener{
 			"病因&发病机制", "危险因素", "病理分类", "临床表现&类型&分型", "实验室和其他检查", "诊断&鉴别诊断", "并发症",
 			"治疗&治疗方案&原则", "教育&管理&处置", "预后", "预防", "影像与检查"};  
 	public JTextPane text ;
-	private App3 u;
+	private AppBoot u;
 	private JTabbedPane jTabbedpane;
 	public jzkx(JTextPane text,Analyzer analyzer, Map<String, String> pos, Map<String, String> pose
-			, Map<String, String> etc, Map<String, String> cte, App3 u, JTabbedPane jTabbedpane) throws IOException{
+			, Map<String, String> etc, Map<String, String> cte, AppBoot u, JTabbedPane jTabbedpane) throws IOException{
 		this.text = text;	this.pose = pose;
 		this.etc = etc;
 		this.cte = cte;

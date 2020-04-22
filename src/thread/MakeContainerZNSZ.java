@@ -22,11 +22,11 @@ import javax.swing.event.ChangeListener;
 import org.tinos.engine.analysis.Analyzer;
 
 import SP.jp;
-import sample.App3;
+import sample.AppBoot;
 import waveProcessor.DFT;
 public class MakeContainerZNSZ extends Thread implements Runnable{
 	public Container jpanelFourth;
-	public App3 u;
+	public AppBoot u;
 	public JTabbedPane jTabbedpane;
 	public String[] tabNames;
 	public Analyzer analyzer;
@@ -62,7 +62,7 @@ public class MakeContainerZNSZ extends Thread implements Runnable{
 	public int source256= 0;
 	public int source512= 0;
 	
-	public MakeContainerZNSZ(Analyzer analyzer, Container jpanelFourth, App3 u2, JTabbedPane jTabbedpane
+	public MakeContainerZNSZ(Analyzer analyzer, Container jpanelFourth, AppBoot u2, JTabbedPane jTabbedpane
 			, String[] tabNames, Map<String, String> pos, Map<String, String> pose, Map<String, String> etc
 			, Map<String, String> cte) {
 		super();

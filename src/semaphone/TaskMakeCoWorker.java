@@ -6,13 +6,13 @@ import java.util.Map;
 import javax.swing.JScrollPane;
 import org.tinos.engine.analysis.Analyzer;
 import biProcessor.coAuthorForWord;
-import sample.App3;
+import sample.AppBoot;
 public class TaskMakeCoWorker extends Thread implements Runnable{
-	public App3 u;
+	public AppBoot u;
 	public Analyzer analyzer;
 	public Container jpanelFirstu;
 	public Map<String, String> pos;
-	public TaskMakeCoWorker(App3 u, Container jpanelFirstu, Analyzer analyzer, Map<String, String> pos) {
+	public TaskMakeCoWorker(AppBoot u, Container jpanelFirstu, Analyzer analyzer, Map<String, String> pos) {
 		this.u= u;
 		this.jpanelFirstu = jpanelFirstu;
 		this.analyzer = analyzer;

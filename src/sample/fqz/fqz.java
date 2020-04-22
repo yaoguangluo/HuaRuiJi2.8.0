@@ -36,7 +36,7 @@ import org.tinos.view.obj.WordFrequency;
 import org.tinos.view.stable.StableData;
 
 import comp.jbutton.DetaButton;
-import sample.App3;
+import sample.AppBoot;
 import sample.TableSorter;
 import sort.Quick6DLYGWithStringSwap;
 public class fqz extends Container implements MouseListener, KeyListener{
@@ -68,9 +68,9 @@ public class fqz extends Container implements MouseListener, KeyListener{
 	public Map<String, String> cte;
 	public JTextPane text ;
 	public JTabbedPane jTabbedpane;
-	private App3 u;
+	private AppBoot u;
 	public fqz(JTextPane text,Analyzer analyzer, Map<String, String> pos, Map<String, String> pose
-			, Map<String, String> etc, Map<String, String> cte, JTabbedPane jTabbedpane, App3 u) throws IOException{
+			, Map<String, String> etc, Map<String, String> cte, JTabbedPane jTabbedpane, AppBoot u) throws IOException{
 		this.text = text;	this.pose = pose;
 		this.etc = etc;
 		this.cte = cte;

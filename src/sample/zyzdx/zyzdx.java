@@ -35,7 +35,7 @@ import org.tinos.tcp.http.RestCall;
 import org.tinos.view.obj.WordFrequency;
 import org.tinos.view.stable.StableData;
 
-import sample.App3;
+import sample.AppBoot;
 import sample.TableSorter;
 import sample.zyzdx.dictionary;
 import sort.Quick6DLYGWithStringSwap;
@@ -72,10 +72,10 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 	public Object[] columnTitle = {"ID","打分","病症", "笔记","概念","临床表现", "症侯分析", "临床意义", "症侯鉴别"};
 	public Analyzer analyzer;  	
 	public Map<String, String> pos;
-	private App3 u;
+	private AppBoot u;
 	private JTabbedPane jTabbedpane;
 	public zyzdx(JTextPane text,Analyzer analyzer, Map<String, String> pos, Map<String, String> pose
-			, Map<String, String> etc, Map<String, String> cte, App3 u, JTabbedPane jTabbedpane) throws IOException{
+			, Map<String, String> etc, Map<String, String> cte, AppBoot u, JTabbedPane jTabbedpane) throws IOException{
 		this.text = text;
 		this.pose = pose;
 		this.etc = etc;
