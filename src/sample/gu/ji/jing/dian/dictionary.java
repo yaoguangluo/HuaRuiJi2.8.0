@@ -1,4 +1,4 @@
-package sample.fyyd;
+package sample.gu.ji.jing.dian;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;

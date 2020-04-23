@@ -1,4 +1,4 @@
-package sample.fqz;
+package sample.gu.ji.jing.dian;
 import java.awt.Color;
 import java.awt.Component;
 import java.awt.Container;
@@ -18,10 +18,9 @@ import java.util.concurrent.ConcurrentHashMap;
 
 import javax.swing.Box;
 import javax.swing.BoxLayout;
-
+import comp.jbutton.DetaButton;
 import javax.swing.JLabel;
 import javax.swing.JScrollPane;
-import javax.swing.JTabbedPane;
 import javax.swing.JTable;
 import javax.swing.JTextField;
 import javax.swing.JTextPane;
@@ -35,11 +34,10 @@ import org.tinos.tcp.http.RestCall;
 import org.tinos.view.obj.WordFrequency;
 import org.tinos.view.stable.StableData;
 
-import comp.jbutton.DetaButton;
 import sample.AppBoot;
 import sample.TableSorter;
 import sort.Quick6DLYGWithStringSwap;
-public class ZhongYiShengZhi extends Container implements MouseListener, KeyListener{
+public class GuJiJingDian extends Container implements MouseListener, KeyListener{
 	private static final long serialVersionUID = 1L;
 	public String key;
 	public JTextPane data ;
@@ -57,8 +55,8 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 	public List<String> copy;
 	public List<String> dic_list;
 	public Map<String, String> dic_map;
-	public Object[] columnTitle = {"ID", "打分", "病名", "内容用药"};
-	public Analyzer analyzer;  	
+	public Object[] columnTitle = {"ID", "打分", "书名", "段落"};
+	public Analyzer analyzer; 
 	public Map<String, String> pos;
 	public DetaButton buttonCTE;
 	public DetaButton buttonFRS;
@@ -67,16 +65,14 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 	public Map<String, String> etc;
 	public Map<String, String> cte;
 	public JTextPane text ;
-	public JTabbedPane jTabbedpane;
 	private AppBoot u;
-	public ZhongYiShengZhi(JTextPane text,Analyzer analyzer, Map<String, String> pos, Map<String, String> pose
-			, Map<String, String> etc, Map<String, String> cte, JTabbedPane jTabbedpane, AppBoot u) throws IOException{
+	public GuJiJingDian(JTextPane text,Analyzer analyzer, Map<String, String> pos, Map<String, String> pose
+			, Map<String, String> etc, Map<String, String> cte, AppBoot u) throws IOException{
 		this.text = text;	this.pose = pose;
 		this.etc = etc;
 		this.cte = cte;
 		this.analyzer = analyzer;
 		this.pos = pos;
-		this.jTabbedpane= jTabbedpane;
 		this.u= u;
 		this.setLayout(null);
 		this.setBounds(0, 0, 1490, 980);	
@@ -84,26 +80,28 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 		jsp_name.setBounds(100, 15, 680, 50);
 		JScrollPane jsp_data = new JScrollPane(this.data());
 		JScrollPane jsp_statistic = new JScrollPane(this.statistic());
+		
 		jsp_statistic.setBounds(5, 290 + 100 - 80 + 200-260, 1440 - 650 - 645, 500-166+90);
 		jsp_data.setBounds(5 + 800-650, 290 + 100 - 80 + 200-260, 1440-800+650-130, 500-166+90);
 		JLabel jlabel = new JLabel("信息搜索:");  
 		jlabel.setBounds(5, 15, 100, 50);
 		JScrollPane jsp = new JScrollPane(this.jTable());
 		jsp.setBounds(5, 80-80, 1440-130, 200+100+200-260);
+		
 		this.add(jsp);  
 		this.add(jsp_data); 
 		this.add(jsp_statistic);  
 	}
-
+	
 	public JTextPane data() throws IOException {
 		data = new JTextPane();  
 		data.setBounds(850, 150, 1440-600, 800);
-
+		
 		buttonSum = new DetaButton("共有 " + (sets==null?0:(1 + sets.size() / 2001))+ " 页");
 		buttonSum.setBounds(0, 0, 100, 30);
 		buttonCrt = new DetaButton("当前页面：" + (currentPage + 1));
 		buttonCrt.setBounds(120, 0, 150, 30);
-
+				
 		buttonPrev= new DetaButton("<-向前翻页");
 		buttonPrev.setBounds(290, 0, 100, 30);
 		buttonPrev.addActionListener(new ActionListener() {
@@ -113,7 +111,6 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 					currentPage-=1;
 					currentPage = (currentPage< 0 ? 0 : currentPage );
 					StringBuilder page = new StringBuilder().append("<br/><br/>");
-					currentPage=0;
 					List<String> setsForGet = sets.subList(currentPage*2000, (currentPage + 1)*2000<sets.size()? (currentPage + 1)*2000 : sets.size());
 					Iterator<String> iterator = setsForGet.iterator();
 					Here:
@@ -166,7 +163,6 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 					data.validate();
 				}catch(Exception e1){	
 					data.validate();
-					jTabbedpane.invalidate();
 				}   
 				try {
 					statistic.setSize(500, 800);
@@ -199,7 +195,6 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 					statistic.validate();
 				}catch(Exception e1){	
 					statistic.validate();
-					jTabbedpane.invalidate();
 				}          
 			}
 		});
@@ -207,99 +202,97 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 		buttonNext.setBounds(410, 0, 100, 30);
 		buttonNext.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				Map<String, WordFrequency> map = new ConcurrentHashMap<>();
-				try {
-					currentPage+=1;
-					currentPage = (currentPage > (sets == null ? 0 : sets.size()) / 2001 ? currentPage - 1 : currentPage );
-					StringBuilder page = new StringBuilder().append("<br/><br/>");
-					List<String> setsForGet = sets.subList(currentPage*2000, (currentPage + 1)*2000<sets.size()? (currentPage + 1)*2000 : sets.size());
-					Iterator<String> iterator = setsForGet.iterator();
-					Here:
-						while(iterator.hasNext()) {
-							String setOfi = iterator.next();
-							if(pos.get(setOfi) == null) {
-								page.append("<span style=\"background:#F1F1F1\"><font color=\"black\" size=\"5\">" + setOfi + "</font></span>");
-								continue Here;
-							}
-							if(pos.get(setOfi).contains("名")||pos.get(setOfi).contains("动")||pos.get(setOfi).contains("形")) {
-								if (map.containsKey(setOfi)) {
-									WordFrequency wordFrequency = map.get(setOfi);
-									wordFrequency.setFrequency(wordFrequency.getFrequency() + StableData.INT_ONE);
-									map.put(setOfi, wordFrequency);
-								} else {
-									WordFrequency wordFrequency = new WordFrequency();
-									wordFrequency.setFrequency(StableData.INT_ONE);
-									wordFrequency.setWord(setOfi);
-									map.put(setOfi, wordFrequency);
-								}
-							}
-							if (!setOfi.equals("")) {
-								if(key.contains(setOfi)&&(pos.get(setOfi).contains("名")||pos.get(setOfi).contains("动")||pos.get(setOfi).contains("形"))) {
-									page.append("<span style=\"background:red\"><font color=\"white\">"+setOfi+"</font></span>");
-				    				continue Here;
-				    			}
-								if(pos.get(setOfi).contains("名")) {
-									page.append("<span style=\"background:"+new imageProcessor.ColorProcessor().Processor(255, 245, 255)+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
+					Map<String, WordFrequency> map = new ConcurrentHashMap<>();
+					try {
+						currentPage+=1;
+						currentPage = (currentPage > (sets == null ? 0 : sets.size()) / 2001 ? currentPage - 1 : currentPage );
+						StringBuilder page = new StringBuilder().append("<br/><br/>");
+						List<String> setsForGet = sets.subList(currentPage*2000, (currentPage + 1)*2000<sets.size()? (currentPage + 1)*2000 : sets.size());
+						Iterator<String> iterator = setsForGet.iterator();
+						Here:
+							while(iterator.hasNext()) {
+								String setOfi = iterator.next();
+								if(pos.get(setOfi) == null) {
+									page.append("<span style=\"background:#F1F1F1\"><font color=\"black\" size=\"5\">" + setOfi + "</font></span>");
 									continue Here;
 								}
-								if(pos.get(setOfi).contains("动")) {
-									page.append("<span style=\"background:"+new imageProcessor.ColorProcessor().Processor(245, 255, 245)+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
-									continue Here;
+								if(pos.get(setOfi).contains("名")||pos.get(setOfi).contains("动")||pos.get(setOfi).contains("形")) {
+									if (map.containsKey(setOfi)) {
+										WordFrequency wordFrequency = map.get(setOfi);
+										wordFrequency.setFrequency(wordFrequency.getFrequency() + StableData.INT_ONE);
+										map.put(setOfi, wordFrequency);
+									} else {
+										WordFrequency wordFrequency = new WordFrequency();
+										wordFrequency.setFrequency(StableData.INT_ONE);
+										wordFrequency.setWord(setOfi);
+										map.put(setOfi, wordFrequency);
+									}
 								}
-								if(pos.get(setOfi).contains("形")) {
-									page.append("<span style=\"background:"+new imageProcessor.ColorProcessor().Processor(255, 255, 245)+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
-									continue Here;
-								}
-								if(pos.get(setOfi).contains("副")) {
-									page.append("<span style=\"background:#F1FFFF\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
-									continue Here;
-								} 
-								page.append("<span style=\"background:white\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");			 
-							}
-						}
-					buttonCrt.setText("当前页面：" + (currentPage + 1));
-					data.setText(page.toString());
-					data.setSelectionStart(0);
-					data.setSelectionEnd(0);
-					data.validate();
-				}catch(Exception e1){	
-					data.validate();
-					jTabbedpane.invalidate();
-				}   
-				try {
-					statistic.setSize(500, 800);
-					Map<Integer, WordFrequency> fwa = analyzer.sortWordFrequencyMapToSortMap(map);
-					statistic.setContentType("text/html");
-					StringBuilder page = new StringBuilder();
-					Here:
-						for (int i = fwa.size()-1; i >= 0; i--) {
-							if (fwa.get(i) != null) {
-								if(pos.get(fwa.get(i).getWord()) == null) {
-									page.append("<div style=\"background:black\"><font color=\"white\">" + fwa.get(i).getWord()+""+fwa.get(i).getFrequency() + "</font></div>");
-									continue Here;
-								}
-								if(pos.get(fwa.get(i).getWord()).contains("名")) {
-									page.append( "<div style=\"background:#FF44FF\"><font color=\"white\">" + fwa.get(i).getWord()+""+fwa.get(i).getFrequency() +"</font></div>");
-									continue Here;
-								}
-								if(pos.get(fwa.get(i).getWord()).contains("动")) {
-									page.append("<div style=\"background:#8CEA00\"><font color=\"black\" size=\"5\">" + fwa.get(i).getWord()+""+fwa.get(i).getFrequency() +"</font></div>");
-									continue Here;
-								}
-								if(pos.get(fwa.get(i).getWord()).contains("形")) {
-									page.append("<div style=\"background:#FF9224\"><font color=\"black\" size=\"5\">" + fwa.get(i).getWord()+""+fwa.get(i).getFrequency() +"</font></div>");
+								if (!setOfi.equals("")) {
+									if(key.contains(setOfi)&&(pos.get(setOfi).contains("名")||pos.get(setOfi).contains("动")||pos.get(setOfi).contains("形"))) {
+										page.append("<span style=\"background:red\"><font color=\"white\">"+setOfi+"</font></span>");
+					    				continue Here;
+					    			}
+									if(pos.get(setOfi).contains("名")) {
+										page.append("<span style=\"background:"+new imageProcessor.ColorProcessor().Processor(255, 245, 255)+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
+										continue Here;
+									}
+									if(pos.get(setOfi).contains("动")) {
+										page.append("<span style=\"background:"+new imageProcessor.ColorProcessor().Processor(245, 255, 245)+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
+										continue Here;
+									}
+									if(pos.get(setOfi).contains("形")) {
+										page.append("<span style=\"background:"+new imageProcessor.ColorProcessor().Processor(255, 255, 245)+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
+										continue Here;
+									}
+									if(pos.get(setOfi).contains("副")) {
+										page.append("<span style=\"background:#F1FFFF\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
+										continue Here;
+									} 
+									page.append("<span style=\"background:white\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");			 
 								}
 							}
-						}	
-					statistic.setText(page.toString());
-					statistic.setSelectionStart(0);
-					statistic.setSelectionEnd(0);
-					statistic.validate();
-				}catch(Exception e1){	
-					statistic.validate();
-					jTabbedpane.invalidate();
-				}  
-			}
+						buttonCrt.setText("当前页面：" + (currentPage + 1));
+						data.setText(page.toString());
+						data.setSelectionStart(0);
+						data.setSelectionEnd(0);
+						data.validate();
+					}catch(Exception e1){	
+						data.validate();
+					}   
+					try {
+						statistic.setSize(500, 800);
+						Map<Integer, WordFrequency> fwa = analyzer.sortWordFrequencyMapToSortMap(map);
+						statistic.setContentType("text/html");
+						StringBuilder page = new StringBuilder();
+						Here:
+							for (int i = fwa.size()-1; i >= 0; i--) {
+								if (fwa.get(i) != null) {
+									if(pos.get(fwa.get(i).getWord()) == null) {
+										page.append("<div style=\"background:black\"><font color=\"white\">" + fwa.get(i).getWord()+""+fwa.get(i).getFrequency() + "</font></div>");
+										continue Here;
+									}
+									if(pos.get(fwa.get(i).getWord()).contains("名")) {
+										page.append( "<div style=\"background:#FF44FF\"><font color=\"white\">" + fwa.get(i).getWord()+""+fwa.get(i).getFrequency() +"</font></div>");
+										continue Here;
+									}
+									if(pos.get(fwa.get(i).getWord()).contains("动")) {
+										page.append("<div style=\"background:#8CEA00\"><font color=\"black\" size=\"5\">" + fwa.get(i).getWord()+""+fwa.get(i).getFrequency() +"</font></div>");
+										continue Here;
+									}
+									if(pos.get(fwa.get(i).getWord()).contains("形")) {
+										page.append("<div style=\"background:#FF9224\"><font color=\"black\" size=\"5\">" + fwa.get(i).getWord()+""+fwa.get(i).getFrequency() +"</font></div>");
+									}
+								}
+							}	
+						statistic.setText(page.toString());
+						statistic.setSelectionStart(0);
+						statistic.setSelectionEnd(0);
+						statistic.validate();
+					}catch(Exception e1){	
+						statistic.validate();
+					}  
+				}
 		});
 		buttonCTE = new DetaButton("英文注释");
 		buttonCTE.setBounds(630, 0, 100, 30);
@@ -468,7 +461,7 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 				}
 				text.validate();
 			}
-		});	
+		});
 		DetaButton buttonKSLJ= new DetaButton("德塔DNN");
 		buttonKSLJ.setBounds(990, 0, 115, 30);
 		buttonKSLJ.addActionListener(new ActionListener() {
@@ -498,7 +491,6 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 				} catch (IOException e1) {
 					// TODO Auto-generated catch block
 					e1.printStackTrace();
-					jTabbedpane.invalidate();
 				}
 				
 //				Iterator<String> iterator = setsForGet.iterator();
@@ -525,7 +517,7 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 		buttonBox.add(buttonKSLJ);
 		buttonBox.setBounds(0, 0, 950, 20);
 		data.add(buttonBox);
-		return data;  	
+		return data;
 	}
 
 	public JTextPane statistic() throws IOException {
@@ -533,14 +525,14 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 		statistic.setBounds(850, 150, 1440-840, 800);
 		return statistic;  
 	}
-
+	
 	public JTextField name() throws IOException {
 		name = new JTextField();  
 		name.setBounds(180, 50, 380, 80);
 		name.addKeyListener(this);
 		return name;
 	}	
-
+	
 	@SuppressWarnings({"serial" })
 	public javax.swing.JTable jTable() throws IOException {  
 		dictionary d = new dictionary();
@@ -548,7 +540,7 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 		dic_map = d.listNameToMap(dic_list);//.listNameToMap(dic_list);
 		tableData_old = new Object[dic_map.size()][4];
 		Iterator<String> iter = dic_map.keySet().iterator();
-		copy = new ArrayList<String>();
+	    copy = new ArrayList<String>();
 		while (iter.hasNext())
 			copy.add(iter.next());
 		for(int i=0; i<copy.size(); i++) {
@@ -578,7 +570,7 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 		table.setDefaultRenderer(Object.class, tcr);	
 		return table;
 	}
-
+	
 	@Override
 	public void mouseClicked(MouseEvent arg0) {
 		if(key == null) {
@@ -594,6 +586,7 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 			sets = analyzer.parserMixedString(value);//词性分析		
 			data.setContentType("text/html");
 			StringBuilder page = new StringBuilder().append("<br/><br/>");
+			currentPage=0;
 			List<String> setsForGet = sets.subList(currentPage*2000, (currentPage + 1)*2000<sets.size()? (currentPage + 1)*2000 : sets.size());
 			Iterator<String> iterator = setsForGet.iterator();
 			Here:
@@ -636,7 +629,7 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 							page.append("<span style=\"background:#F1FFFF\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
 							continue Here;
 						} 
-						page.append("<span style=\"background:white\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");		 
+						page.append("<span style=\"background:white\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");			 
 					}
 				}	
 			buttonSum.setText("共有 " + (sets == null ? 0 : (1 + sets.size() / 2001)) + " 页");
@@ -647,7 +640,6 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 			data.validate();
 		}catch(Exception e){	
 			data.validate();
-			jTabbedpane.validate();
 		}   
 		try {
 			statistic.setSize(500, 800);
@@ -680,10 +672,9 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 			statistic.validate();
 		}catch(Exception e){	
 			statistic.validate();
-			jTabbedpane.invalidate();
 		}          
 	}
-
+	
 	@Override
 	public void mouseEntered(MouseEvent arg0) {
 	}
@@ -771,7 +762,7 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 		}
 		LABEL2:
 			new Quick6DLYGWithStringSwap().sort(score_code, score);
-		int max = score_code[0];
+		int max= score_code[0];
 		Object[][] tableData = new Object[count][13];
 		int new_count=0;
 		newTableModel.getDataVector().clear();
@@ -801,7 +792,7 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 				};   
 				newTableModel.insertRow(new_count, tableData[new_count]);
 				new_count+=1;
-			}	
+			}
 		newTableModel.fireTableDataChanged();	
 	}
 
@@ -835,4 +826,5 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 	public void keyTyped(KeyEvent arg0) {
 		// TODO Auto-generated method stub
 	}
+
 }

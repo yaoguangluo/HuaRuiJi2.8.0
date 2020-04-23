@@ -9,7 +9,7 @@ import javax.swing.JTabbedPane;
 import org.tinos.engine.analysis.Analyzer;
 
 import sample.AppBoot;
-import sample.fyyd.GuJiJingDian;;
+import sample.gu.ji.jing.dian.GuJiJingDian;;
 public class MakeContainerGuJiJingDian extends Thread implements Runnable{
 	public Container jpanelSecond;
 	public AppBoot u;

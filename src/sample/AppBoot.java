@@ -59,15 +59,15 @@ import disk.GetDisk;
 import mapProcessor.VtoV;
 import sample.cecil.cecil;
 import sample.editPane.editPane;
-import sample.fqz.ZhongYiShengZhi;
 import sample.fu.chan.ke.xue.FuChanKeXue;
-import sample.fyyd.GuJiJingDian;
+import sample.gu.ji.jing.dian.GuJiJingDian;
 import sample.ji.zhen.ke.xue.JiZhenKeXue;
 import sample.wai.shang.ke.xue.WaiShangKeXue;
 import sample.wkx.WaiKeXue;
 import sample.xi.yi.nei.ke.xue.XiYiNeiKe;
 import sample.xi.yi.yao.xue.XiYiYaoXue;
 import sample.zhong.yi.nei.ke.xue.ZhongYiNeiKeXue;
+import sample.zhong.yi.sheng.zhi.ZhongYiShengZhi;
 import sample.zhong.yi.zhen.duan.xue.ZhongYiZhenDuanXue;
 import sort.Quick6DLYGWithStringSwap;
 public class AppBoot extends JApplet implements MouseListener, KeyListener, ActionListener, ChangeListener{	

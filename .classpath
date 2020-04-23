@@ -27,6 +27,7 @@
 	<classpathentry kind="src" path="ui"/>
 	<classpathentry kind="src" path="wavelet"/>
 	<classpathentry kind="src" path="wordSegment"/>
+	<classpathentry kind="src" path="cryptCode"/>
 	<classpathentry kind="lib" path="lib/artoolkitplus-2.3.1-1.3.jar"/>
 	<classpathentry kind="lib" path="lib/bssm.jar"/>
 	<classpathentry kind="lib" path="lib/cmu_time_awb.jar"/>

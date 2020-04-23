@@ -9,7 +9,7 @@ import javax.swing.JTabbedPane;
 import org.tinos.engine.analysis.Analyzer;
 
 import sample.AppBoot;
-import sample.fqz.ZhongYiShengZhi;
+import sample.zhong.yi.sheng.zhi.ZhongYiShengZhi;
 public class MakeContainerZhongYiFuChan extends Thread implements Runnable{
 	public Container jpanelSecond;
 	public AppBoot u;
