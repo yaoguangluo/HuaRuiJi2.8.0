@@ -33,7 +33,8 @@ public class dictionary{
 			String name = dic_list.get(i).toString();
 			InputStream in = getClass().getResourceAsStream(name);
 			BufferedReader cReader;
-			if(name.equalsIgnoreCase("保婴撮要-明-薛铠.txt") || name.equalsIgnoreCase("慈幼便览-清-佚名.txt")|| name.equalsIgnoreCase("傅青主女科歌括-清-傅山.txt")) {
+			if(name.equalsIgnoreCase("保婴撮要-明-薛铠.txt") || name.equalsIgnoreCase("慈幼便览-清-佚名.txt")
+					|| name.equalsIgnoreCase("傅青主女科歌括-清-傅山.txt")) {
 				 cReader= new BufferedReader(new InputStreamReader(in, "UTF-16"));  
 			}else {
 				 cReader= new BufferedReader(new InputStreamReader(in, "GBK"));  

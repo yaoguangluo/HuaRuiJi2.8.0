@@ -66,7 +66,8 @@ public class ZhongYiNeiKeXue extends Container implements MouseListener, KeyList
 	public Map<String, Object> dic_sy;
 	public Map<String, Object> dic_tl;
 	
-	public Object[] columnTitle = {"ID", "打分", "病症&药名", "用药参考", "正常成人标准处方", "脉症", "制法", "应用", "使用", "讨论", "附方", "方歌"};
+	public Object[] columnTitle = {"ID", "打分", "病症&药名", "用药参考", "正常成人标准处方", "脉症"
+			, "制法", "应用", "使用", "讨论", "附方", "方歌"};
 	public Analyzer analyzer;  
 	public Map<String, String> pos;
 	public DetaButton buttonCTE;
@@ -125,13 +126,15 @@ public class ZhongYiNeiKeXue extends Container implements MouseListener, KeyList
 					currentPage-=1;
 					currentPage = (currentPage< 0 ? 0 : currentPage );
 					StringBuilder page = new StringBuilder().append("<br/><br/>");
-					List<String> setsForGet = sets.subList(currentPage*2000, (currentPage + 1)*2000<sets.size()? (currentPage + 1)*2000 : sets.size());
+					List<String> setsForGet = sets.subList(currentPage*2000, (currentPage + 1)*2000<sets.size()
+							? (currentPage + 1)*2000 : sets.size());
 					Iterator<String> iterator = setsForGet.iterator();
 					Here:
 						while(iterator.hasNext()) {
 							String setOfi = iterator.next();
 							if(pos.get(setOfi) == null) {
-								page.append("<span style=\"background:#F1F1F1\"><font color=\"black\" size=\"5\">" + setOfi + "</font></span>");
+								page.append("<span style=\"background:#F1F1F1\"><font color=\"black\" size=\"5\">" 
+							+ setOfi + "</font></span>");
 								continue Here;
 							}
 							if(pos.get(setOfi).contains("名")||pos.get(setOfi).contains("动")||pos.get(setOfi).contains("形")) {
@@ -147,27 +150,33 @@ public class ZhongYiNeiKeXue extends Container implements MouseListener, KeyList
 								}
 							}
 							if (!setOfi.equals("")) {
-								if(key.contains(setOfi)&&(pos.get(setOfi).contains("名")||pos.get(setOfi).contains("动")||pos.get(setOfi).contains("形"))) {
+								if(key.contains(setOfi)&&(pos.get(setOfi).contains("名")||pos.get(setOfi).contains("动")
+										||pos.get(setOfi).contains("形"))) {
 									page.append("<span style=\"background:red\"><font color=\"white\">"+setOfi+"</font></span>");
 				    				continue Here;
 				    			}
 								if(pos.get(setOfi).contains("名")) {
-									page.append("<span style=\"background:"+new imageProcessor.ColorProcessor().Processor(255, 245, 255)+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
+									page.append("<span style=\"background:"+new imageProcessor.ColorProcessor()
+											.Processor(255, 245, 255)+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
 									continue Here;
 								}
 								if(pos.get(setOfi).contains("动")) {
-									page.append("<span style=\"background:"+new imageProcessor.ColorProcessor().Processor(245, 255, 245)+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
+									page.append("<span style=\"background:"+new imageProcessor.ColorProcessor()
+											.Processor(245, 255, 245)+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
 									continue Here;
 								}
 								if(pos.get(setOfi).contains("形")) {
-									page.append("<span style=\"background:"+new imageProcessor.ColorProcessor().Processor(255, 255, 245)+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
+									page.append("<span style=\"background:"+new imageProcessor.ColorProcessor()
+											.Processor(255, 255, 245)+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
 									continue Here;
 								}
 								if(pos.get(setOfi).contains("副")) {
-									page.append("<span style=\"background:#F1FFFF\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
+									page.append("<span style=\"background:#F1FFFF\"><font color=\"black\" size=\"5\">"
+								+setOfi+"</font></span>");
 									continue Here;
 								} 
-								page.append("<span style=\"background:white\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");		 
+								page.append("<span style=\"background:white\"><font color=\"black\" size=\"5\">"
+								+setOfi+"</font></span>");		 
 							}
 						}	
 					buttonCrt.setText("当前页面：" + (currentPage + 1));
@@ -188,19 +197,23 @@ public class ZhongYiNeiKeXue extends Container implements MouseListener, KeyList
 						for (int i = fwa.size()-1; i >= 0; i--) {
 							if (fwa.get(i) != null) {
 								if(pos.get(fwa.get(i).getWord()) == null) {
-									page.append("<div style=\"background:black\"><font color=\"white\">" + fwa.get(i).getWord()+""+fwa.get(i).getFrequency() + "</font></div>");
+									page.append("<div style=\"background:black\"><font color=\"white\">"
+								+ fwa.get(i).getWord()+""+fwa.get(i).getFrequency() + "</font></div>");
 									continue Here;
 								}
 								if(pos.get(fwa.get(i).getWord()).contains("名")) {
-									page.append( "<div style=\"background:#FF44FF\"><font color=\"white\">" + fwa.get(i).getWord()+""+fwa.get(i).getFrequency() +"</font></div>");
+									page.append( "<div style=\"background:#FF44FF\"><font color=\"white\">" 
+								+ fwa.get(i).getWord()+""+fwa.get(i).getFrequency() +"</font></div>");
 									continue Here;
 								}
 								if(pos.get(fwa.get(i).getWord()).contains("动")) {
-									page.append("<div style=\"background:#8CEA00\"><font color=\"black\" size=\"5\">" + fwa.get(i).getWord()+""+fwa.get(i).getFrequency() +"</font></div>");
+									page.append("<div style=\"background:#8CEA00\"><font color=\"black\" size=\"5\">"
+								+ fwa.get(i).getWord()+""+fwa.get(i).getFrequency() +"</font></div>");
 									continue Here;
 								}
 								if(pos.get(fwa.get(i).getWord()).contains("形")) {
-									page.append("<div style=\"background:#FF9224\"><font color=\"black\" size=\"5\">" + fwa.get(i).getWord()+""+fwa.get(i).getFrequency() +"</font></div>");
+									page.append("<div style=\"background:#FF9224\"><font color=\"black\" size=\"5\">"
+								+ fwa.get(i).getWord()+""+fwa.get(i).getFrequency() +"</font></div>");
 								}
 							}
 						}	
@@ -229,7 +242,8 @@ public class ZhongYiNeiKeXue extends Container implements MouseListener, KeyList
 						while(iterator.hasNext()) {
 							String setOfi = iterator.next();
 							if(pos.get(setOfi) == null) {
-								page.append("<span style=\"background:#F1F1F1\"><font color=\"black\" size=\"5\">" + setOfi + "</font></span>");
+								page.append("<span style=\"background:#F1F1F1\"><font color=\"black\" size=\"5\">" 
+							+ setOfi + "</font></span>");
 								continue Here;
 							}
 							if(pos.get(setOfi).contains("名")||pos.get(setOfi).contains("动")||pos.get(setOfi).contains("形")) {
@@ -250,22 +264,27 @@ public class ZhongYiNeiKeXue extends Container implements MouseListener, KeyList
 				    				continue Here;
 				    			}
 								if(pos.get(setOfi).contains("名")) {
-									page.append("<span style=\"background:"+new imageProcessor.ColorProcessor().Processor(255, 245, 255)+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
+									page.append("<span style=\"background:"+new imageProcessor.ColorProcessor().Processor(255, 245, 255)
+											+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
 									continue Here;
 								}
 								if(pos.get(setOfi).contains("动")) {
-									page.append("<span style=\"background:"+new imageProcessor.ColorProcessor().Processor(245, 255, 245)+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
+									page.append("<span style=\"background:"+new imageProcessor.ColorProcessor().Processor(245, 255, 245)
+											+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
 									continue Here;
 								}
 								if(pos.get(setOfi).contains("形")) {
-									page.append("<span style=\"background:"+new imageProcessor.ColorProcessor().Processor(255, 255, 245)+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
+									page.append("<span style=\"background:"+new imageProcessor.ColorProcessor().Processor(255, 255, 245)
+											+"\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
 									continue Here;
 								}
 								if(pos.get(setOfi).contains("副")) {
-									page.append("<span style=\"background:#F1FFFF\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
+									page.append("<span style=\"background:#F1FFFF\"><font color=\"black\" size=\"5\">"
+								+setOfi+"</font></span>");
 									continue Here;
 								} 
-								page.append("<span style=\"background:white\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");			 
+								page.append("<span style=\"background:white\"><font color=\"black\" size=\"5\">"
+								+setOfi+"</font></span>");			 
 							}
 						}
 					buttonCrt.setText("当前页面：" + (currentPage + 1));

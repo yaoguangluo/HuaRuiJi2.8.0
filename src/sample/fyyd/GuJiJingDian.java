@@ -37,7 +37,7 @@ import org.tinos.view.stable.StableData;
 import sample.AppBoot;
 import sample.TableSorter;
 import sort.Quick6DLYGWithStringSwap;
-public class fyyd extends Container implements MouseListener, KeyListener{
+public class GuJiJingDian extends Container implements MouseListener, KeyListener{
 	private static final long serialVersionUID = 1L;
 	public String key;
 	public JTextPane data ;
@@ -66,7 +66,7 @@ public class fyyd extends Container implements MouseListener, KeyListener{
 	public Map<String, String> cte;
 	public JTextPane text ;
 	private AppBoot u;
-	public fyyd(JTextPane text,Analyzer analyzer, Map<String, String> pos, Map<String, String> pose
+	public GuJiJingDian(JTextPane text,Analyzer analyzer, Map<String, String> pos, Map<String, String> pose
 			, Map<String, String> etc, Map<String, String> cte, AppBoot u) throws IOException{
 		this.text = text;	this.pose = pose;
 		this.etc = etc;

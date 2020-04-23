@@ -9,7 +9,7 @@ import javax.swing.JTabbedPane;
 import org.tinos.engine.analysis.Analyzer;
 
 import sample.AppBoot;
-import sample.fyyd.fyyd;;
+import sample.fyyd.GuJiJingDian;;
 public class MakeContainerGuJiJingDian extends Thread implements Runnable{
 	public Container jpanelSecond;
 	public AppBoot u;
@@ -37,7 +37,7 @@ public class MakeContainerGuJiJingDian extends Thread implements Runnable{
 		try {
 			jTabbedpane.validate();
 			Thread.sleep(1000*19);
-			u.jpanel9 = new fyyd(u.text, this.analyzer, pos, pose, etc, cte, u);
+			u.jpanel9 = new GuJiJingDian(u.text, this.analyzer, pos, pose, etc, cte, u);
 			jTabbedpane.addTab(tabNames[8],new ImageIcon() , u.jpanel9, "古籍经典");// 加入第一个页面  
 			jTabbedpane.validate();
 		} catch (IOException e) {

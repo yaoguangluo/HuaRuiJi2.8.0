@@ -89,7 +89,8 @@ public class dictionary{
 			}else if(m3.find()) {
 				temp=m3.group(0);	
 			}
-			dic_zl.put(med_name.replaceAll("\\s*", "").replace("¡²","").replace("¡³",":"), temp.replaceAll("\\s*", "").replace("¡²","").replace("¡³",":"));		
+			dic_zl.put(med_name.replaceAll("\\s*", "").replace("¡²","").replace("¡³",":")
+					, temp.replaceAll("\\s*", "").replace("¡²","").replace("¡³",":"));		
 		}
 		return dic_zl;
 	}

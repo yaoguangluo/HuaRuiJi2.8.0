@@ -39,7 +39,7 @@ import comp.jbutton.DetaButton;
 import sample.AppBoot;
 import sample.TableSorter;
 import sort.Quick6DLYGWithStringSwap;
-public class fqz extends Container implements MouseListener, KeyListener{
+public class ZhongYiShengZhi extends Container implements MouseListener, KeyListener{
 	private static final long serialVersionUID = 1L;
 	public String key;
 	public JTextPane data ;
@@ -69,7 +69,7 @@ public class fqz extends Container implements MouseListener, KeyListener{
 	public JTextPane text ;
 	public JTabbedPane jTabbedpane;
 	private AppBoot u;
-	public fqz(JTextPane text,Analyzer analyzer, Map<String, String> pos, Map<String, String> pose
+	public ZhongYiShengZhi(JTextPane text,Analyzer analyzer, Map<String, String> pos, Map<String, String> pose
 			, Map<String, String> etc, Map<String, String> cte, JTabbedPane jTabbedpane, AppBoot u) throws IOException{
 		this.text = text;	this.pose = pose;
 		this.etc = etc;
