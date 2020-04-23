@@ -9,7 +9,7 @@ import javax.swing.JTabbedPane;
 import org.tinos.engine.analysis.Analyzer;
 
 import sample.AppBoot;
-import sample.fu.chan.ke.xue.fckx;
+import sample.fu.chan.ke.xue.FuChanKeXue;
 public class MakeContainerXiYiFuChan extends Thread implements Runnable{
 	public Container jpanelSecond;
 	public AppBoot u;
@@ -37,7 +37,7 @@ public class MakeContainerXiYiFuChan extends Thread implements Runnable{
 		try {
 			jTabbedpane.validate();
 			Thread.sleep(1000*30);
-			u.jpanel11 = new fckx(u.text, this.analyzer, pos, pose, etc, cte, jTabbedpane, u);
+			u.jpanel11 = new FuChanKeXue(u.text, this.analyzer, pos, pose, etc, cte, jTabbedpane, u);
 			jTabbedpane.addTab(tabNames[10],new ImageIcon() , u.jpanel11, "西医妇产科学");// 加入第一个页面  
 			jTabbedpane.validate();
 		} catch (InterruptedException e) {

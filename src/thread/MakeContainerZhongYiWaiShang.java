@@ -9,7 +9,7 @@ import javax.swing.JTabbedPane;
 import org.tinos.engine.analysis.Analyzer;
 
 import sample.AppBoot;
-import sample.wai.shang.ke.xue.wskx;
+import sample.wai.shang.ke.xue.WaiShangKeXue;
 public class MakeContainerZhongYiWaiShang extends Thread implements Runnable{
 	public Container jpanelSecond;
 	public AppBoot u;
@@ -37,7 +37,7 @@ public class MakeContainerZhongYiWaiShang extends Thread implements Runnable{
 		try {
 			jTabbedpane.validate();
 			Thread.sleep(1000*15);
-			u.jpanel14 = new wskx(u.text, this.analyzer,pos, pose, etc, cte, u, jTabbedpane);
+			u.jpanel14 = new WaiShangKeXue(u.text, this.analyzer,pos, pose, etc, cte, u, jTabbedpane);
 			jTabbedpane.addTab(tabNames[13],new ImageIcon() , u.jpanel14, "中医外伤科学");// 加入第一个页面  
 			jTabbedpane.validate();
 		} catch (IOException e) {

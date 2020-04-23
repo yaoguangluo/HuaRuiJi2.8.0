@@ -1,4 +1,4 @@
-package sample.zhong.yi.zhen.duan.xue;
+package sample.ji.zhen.ke.xue;
 import java.awt.Color;
 import java.awt.Component;
 import java.awt.Container;
@@ -37,52 +37,64 @@ import org.tinos.view.stable.StableData;
 
 import sample.AppBoot;
 import sample.TableSorter;
-import sample.zhong.yi.zhen.duan.xue.dictionary;
+import sample.ji.zhen.ke.xue.dictionary;
 import sort.Quick6DLYGWithStringSwap;
-public class zyzdx extends Container implements MouseListener, KeyListener{
+public class JiZhenKeXue extends Container implements MouseListener, KeyListener{
 	private static final long serialVersionUID = 1L;
 	public String key;
-	public JTextPane data ;
-	public JTextPane text ;
-	public JTextPane statistic;
+	public JTextField name;
 	public DetaButton buttonPrev;
 	public DetaButton buttonNext;
 	public DetaButton buttonSum;
 	public DetaButton buttonCrt;
+	public int currentPage;
+	public List<String> sets;
+
+	public JTextPane data ;
+	public JTextPane statistic ;
+
+	public javax.swing.JTable table;  
+	public Object[][] tableData_old;
+	public DefaultTableModel newTableModel = null;
+	public List<String> copy;
+	public List<String> dic_list;
+	public Map<String, String> pos;
+	public Map<String,Object> dic_map;
+	public Map<String,Object> dic_gn;
+	public Map<String,Object> dic_lx;
+	public Map<String,Object> dic_by;
+	public Map<String,Object> dic_wx;
+	public Map<String,Object> dic_bl;
+	public Map<String,Object> dic_lc;
+	public Map<String,Object> dic_sy;
+	public Map<String,Object> dic_zd;
+	public Map<String,Object> dic_bf;
+	public Map<String,Object> dic_zl;
+	public Map<String,Object> dic_jy;
+	public Map<String,Object> dic_yh;
+	public Map<String,Object> dic_yf;
+	public Map<String,Object> dic_yx;
+	public Analyzer analyzer;
 	public DetaButton buttonCTE;
 	public DetaButton buttonFRS;
 	public DetaButton buttonETC;
 	public Map<String, String> pose;
 	public Map<String, String> etc;
 	public Map<String, String> cte;
-	public int currentPage;
-	public List<String> sets;
-	public JTextField name;
-	public javax.swing.JTable table;  
-	public Object[][] tableData_old;
-	public DefaultTableModel newTableModel = null;
-	public List<String> copy;
-	public List<String> dic_list;
-	public Map<String,Object> dic_map ;
-	public Map<String,Object> dic_gn ;
-	public Map<String,Object> dic_lcbx;
-	public Map<String,Object> dic_lcyy; 
-	public Map<String,Object> dic_zhfx;
-	public Map<String,Object> dic_zhjb; 
-	public Object[] columnTitle = {"ID","打分","病症", "笔记","概念","临床表现", "症侯分析", "临床意义", "症侯鉴别"};
-	public Analyzer analyzer;  	
-	public Map<String, String> pos;
+	public Object[] columnTitle = {"ID", "打分", "病症名", "原书笔记", "概念", "流行病学",
+			"病因&发病机制", "危险因素", "病理分类", "临床表现&类型&分型", "实验室和其他检查", "诊断&鉴别诊断", "并发症",
+			"治疗&治疗方案&原则", "教育&管理&处置", "预后", "预防", "影像与检查"};  
+	public JTextPane text ;
 	private AppBoot u;
 	private JTabbedPane jTabbedpane;
-	public zyzdx(JTextPane text,Analyzer analyzer, Map<String, String> pos, Map<String, String> pose
+	public JiZhenKeXue(JTextPane text,Analyzer analyzer, Map<String, String> pos, Map<String, String> pose
 			, Map<String, String> etc, Map<String, String> cte, AppBoot u, JTabbedPane jTabbedpane) throws IOException{
-		this.text = text;
-		this.pose = pose;
+		this.text = text;	this.pose = pose;
 		this.etc = etc;
 		this.cte = cte;
-		this.u= u;
 		this.analyzer = analyzer;
 		this.pos = pos;
+		this.u= u;
 		this.jTabbedpane= jTabbedpane;
 		this.setLayout(null);
 		this.setBounds(0, 0, 1490, 980);	
@@ -100,7 +112,7 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 
 		this.add(jsp);  
 		this.add(jsp_data); 
-		this.add(jsp_statistic);
+		this.add(jsp_statistic);  
 	}
 
 	public JTextPane data() throws IOException {
@@ -118,7 +130,7 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 			public void actionPerformed(ActionEvent e) {
 				Map<String, WordFrequency> map = new ConcurrentHashMap<>();
 				try {
-					currentPage-= 1;
+					currentPage-=1;
 					currentPage = (currentPage< 0 ? 0 : currentPage );
 					StringBuilder page = new StringBuilder().append("<br/><br/>");
 					List<String> setsForGet = sets.subList(currentPage*2000, (currentPage + 1)*2000<sets.size()? (currentPage + 1)*2000 : sets.size());
@@ -177,7 +189,7 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 				}   
 				try {
 					statistic.setSize(500, 800);
-					Map<Integer, WordFrequency> fwa = analyzer.sortWordFrequencyMapToUnsortMap(map);
+					Map<Integer, WordFrequency> fwa = analyzer.sortWordFrequencyMapToSortMap(map);
 					statistic.setContentType("text/html");
 					StringBuilder page = new StringBuilder();
 					Here:
@@ -206,7 +218,6 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 					statistic.validate();
 				}catch(Exception e1){	
 					statistic.validate();
-					jTabbedpane.validate();
 				}          
 			}
 		});
@@ -216,7 +227,7 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 			public void actionPerformed(ActionEvent e) {
 				Map<String, WordFrequency> map = new ConcurrentHashMap<>();
 				try {
-					currentPage += 1;
+					currentPage+=1;
 					currentPage = (currentPage > (sets == null ? 0 : sets.size()) / 2001 ? currentPage - 1 : currentPage );
 					StringBuilder page = new StringBuilder().append("<br/><br/>");
 					List<String> setsForGet = sets.subList(currentPage*2000, (currentPage + 1)*2000<sets.size()? (currentPage + 1)*2000 : sets.size());
@@ -275,7 +286,7 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 				}   
 				try {
 					statistic.setSize(500, 800);
-					Map<Integer, WordFrequency> fwa = analyzer.sortWordFrequencyMapToUnsortMap(map);
+					Map<Integer, WordFrequency> fwa = analyzer.sortWordFrequencyMapToSortMap(map);
 					statistic.setContentType("text/html");
 					StringBuilder page = new StringBuilder();
 					Here:
@@ -308,7 +319,6 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 				}  
 			}
 		});
-		
 		buttonCTE = new DetaButton("英文注释");
 		buttonCTE.setBounds(630, 0, 100, 30);
 		buttonCTE.addActionListener(new ActionListener() {
@@ -452,15 +462,14 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 				data.validate();
 			}
 		});
-		
 		DetaButton buttonADD = new DetaButton("添加到编辑页");
 		buttonADD.setBounds(868, 0, 115, 30);
-		buttonADD.addActionListener(new ActionListener() {
+		buttonADD.addActionListener(new ActionListener(){
 			public void actionPerformed(ActionEvent e) {
-				if(sets==null) {
+				if(sets == null) {
 					return;
 				}
-				if(text.getText().length()>5000) {
+				if(text.getText().length() > 5000){
 					return;
 				}
 				StringBuilder page = new StringBuilder();
@@ -534,7 +543,7 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 		buttonBox.add(buttonKSLJ);
 		buttonBox.setBounds(0, 0, 950, 20);
 		data.add(buttonBox);
-		return data;   
+		return data;  
 	}
 
 	public JTextPane statistic() throws IOException {
@@ -548,7 +557,7 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 		name.setBounds(180, 50, 380, 80);
 		name.addKeyListener(this);
 		return name;
-	}	
+	}
 
 	@SuppressWarnings({ "serial" })
 	public javax.swing.JTable jTable() throws IOException {  
@@ -556,23 +565,42 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 		dic_list=d.txtToList();
 		dic_map = d.listToMap(dic_list);
 		dic_gn = d.mapToMap_gn(dic_map);
-		dic_lcbx =d.mapToMap_lcbx(dic_map);
-		dic_lcyy =d.mapToMap_lcyy(dic_map);
-		dic_zhfx =d.mapToMap_zhfx(dic_map);
-		dic_zhjb =d.mapToMap_zhjb(dic_map);
-		tableData_old = new Object[dic_map.size()][9];
+		dic_lx = d.mapToMap_lx(dic_map);
+		dic_by = d.mapToMap_by(dic_map);
+		dic_wx = d.mapToMap_wx(dic_map);
+		dic_bl = d.mapToMap_bl(dic_map);
+		dic_lc = d.mapToMap_lc(dic_map);
+		dic_sy = d.mapToMap_sy(dic_map);
+		dic_zd = d.mapToMap_zd(dic_map);
+		dic_bf = d.mapToMap_bf(dic_map);
+		dic_zl = d.mapToMap_zl(dic_map);
+		dic_jy = d.mapToMap_jy(dic_map);
+		dic_yh = d.mapToMap_yh(dic_map);
+		dic_yf = d.mapToMap_yf(dic_map);
+		dic_yx = d.mapToMap_yx(dic_map);
+		tableData_old = new Object[dic_map.size()][18];
 		Iterator<String> iter = dic_map.keySet().iterator();
 		copy = new ArrayList<String>();
 		while (iter.hasNext())
 			copy.add(iter.next());
 		for(int i=0;i<copy.size();i++) {
-			tableData_old[i]= new Object[]{""+(i+1),""+0,copy.get(i).trim().replace("〔","").replace("〕",":"),
-					dic_map.get(copy.get(i)).toString().replaceAll("\\s*", "").replace("〔","").replace("〕",":") , 
-					dic_gn.get(copy.get(i)).toString(),
-					dic_lcbx.get(copy.get(i)).toString(),
-					dic_zhfx.get(copy.get(i)).toString(), 
-					dic_lcyy.get(copy.get(i)).toString(), 
-					dic_zhjb.get(copy.get(i)).toString()};
+			tableData_old[i]= new Object[]{""+(i+1),""+0,copy.get(i).replace("〔〔〔", "〔").trim(),
+					dic_map.get(copy.get(i)).toString().replaceAll("\\s*", "").replace("〔〔〔", "〔"),
+					dic_gn.get(copy.get(i)).toString().replaceAll("\\s*", ""),
+					dic_lx.get(copy.get(i)).toString().replaceAll("\\s*", ""),
+					dic_by.get(copy.get(i)).toString().replaceAll("\\s*", ""),
+					dic_wx.get(copy.get(i)).toString().replaceAll("\\s*", ""),
+					dic_bl.get(copy.get(i)).toString().replaceAll("\\s*", ""),
+					dic_lc.get(copy.get(i)).toString().replaceAll("\\s*", ""),
+					dic_sy.get(copy.get(i)).toString().replaceAll("\\s*", ""),
+					dic_zd.get(copy.get(i)).toString().replaceAll("\\s*", ""),
+					dic_bf.get(copy.get(i)).toString().replaceAll("\\s*", ""),
+					dic_zl.get(copy.get(i)).toString().replaceAll("\\s*", ""),
+					dic_jy.get(copy.get(i)).toString().replaceAll("\\s*", ""),
+					dic_yh.get(copy.get(i)).toString().replaceAll("\\s*", ""),
+					dic_yf.get(copy.get(i)).toString().replaceAll("\\s*", ""),
+					dic_yx.get(copy.get(i)).toString().replaceAll("\\s*", "")
+			};
 		}	
 		table = new javax.swing.JTable();  
 		newTableModel = new DefaultTableModel(tableData_old,columnTitle){  
@@ -590,12 +618,19 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 		table.getColumnModel().getColumn(0).setPreferredWidth(80+30);
 		table.getColumnModel().getColumn(1).setPreferredWidth(80+30);
 		table.getColumnModel().getColumn(2).setPreferredWidth(80+130);
-		table.getColumnModel().getColumn(3).setPreferredWidth(80+130);
+		table.getColumnModel().getColumn(3).setPreferredWidth(80+30);
 		table.getColumnModel().getColumn(4).setPreferredWidth(80+30);
-		table.getColumnModel().getColumn(5).setPreferredWidth(80+130);
-		table.getColumnModel().getColumn(6).setPreferredWidth(80+130);
-		table.getColumnModel().getColumn(7).setPreferredWidth(80+130);
-		table.getColumnModel().getColumn(8).setPreferredWidth(80+130);
+		table.getColumnModel().getColumn(5).setPreferredWidth(80+30);
+		table.getColumnModel().getColumn(6).setPreferredWidth(80+60);
+		table.getColumnModel().getColumn(7).setPreferredWidth(80+30);
+		table.getColumnModel().getColumn(8).setPreferredWidth(80+30);
+		table.getColumnModel().getColumn(9).setPreferredWidth(80+110);
+		table.getColumnModel().getColumn(10).setPreferredWidth(80+110);
+		table.getColumnModel().getColumn(11).setPreferredWidth(80+60);
+		table.getColumnModel().getColumn(12).setPreferredWidth(80+30);
+		table.getColumnModel().getColumn(13).setPreferredWidth(80+110);
+		table.getColumnModel().getColumn(14).setPreferredWidth(80+110);
+		table.getColumnModel().getColumn(17).setPreferredWidth(80+110);
 		table.setAutoResizeMode(JTable.AUTO_RESIZE_OFF);
 		table.addMouseListener(this);
 		colorTableRender tcr = new colorTableRender();  
@@ -661,7 +696,7 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 							page.append("<span style=\"background:#F1FFFF\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");
 							continue Here;
 						} 
-						page.append("<span style=\"background:white\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");			 
+						page.append("<span style=\"background:white\"><font color=\"black\" size=\"5\">"+setOfi+"</font></span>");		 
 					}
 				}	
 			buttonSum.setText("共有 " + (sets == null ? 0 : (1 + sets.size() / 2001)) + " 页");
@@ -676,7 +711,7 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 		}   
 		try {
 			statistic.setSize(500, 800);
-			Map<Integer, WordFrequency> fwa = analyzer.sortWordFrequencyMapToUnsortMap(map);
+			Map<Integer, WordFrequency> fwa = analyzer.sortWordFrequencyMapToSortMap(map);
 			statistic.setContentType("text/html");
 			StringBuilder page = new StringBuilder();
 			Here:
@@ -718,7 +753,7 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 	}
 
 	@Override
-	public void mousePressed(MouseEvent arg0) {	
+	public void mousePressed(MouseEvent arg0) {
 	}
 
 	@Override
@@ -729,12 +764,14 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 	public void keyPressed(KeyEvent arg0) {
 	}
 
+	@SuppressWarnings("unused")
 	@Override
 	public void keyReleased(KeyEvent arg0) {
+		//String key= name.getText();
 		String[] score=new String[copy.size()];
 		int[] score_code=new int[copy.size()];
-		int []reg = new int[copy.size()];
-		int count = 0;
+		int []reg= new int[copy.size()];
+		int count=0;
 		Map<String, WordFrequency> mapSearchWithoutSort = null;
 		mapSearchWithoutSort = analyzer.parserMixStringByReturnFrequencyMap(key);
 		Iterator<String> iteratorForCopy = copy.iterator();	
@@ -793,8 +830,10 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 			score_code[copyCount] = score_code[copyCount] * reg[copyCount];
 			copyCount++;
 		}
-		new Quick6DLYGWithStringSwap().sort(score_code, score);
-		Object[][] tableData = new Object[count][13];
+		LABEL2:
+			new Quick6DLYGWithStringSwap().sort(score_code, score);
+		int max= score_code[0];
+		Object[][] tableData = new Object[count][18];
 		int new_count=0;
 		newTableModel.getDataVector().clear();
 		if(null == key || key.equals("")) {
@@ -818,13 +857,23 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 						}	
 					}
 				}
-				tableData[new_count]= new Object[]{new_count+1,score_code[i],score[i].replace("〔","").replace("〕",":"),
-						dic_map.get(score[i]).toString().replace("〔","").replace("〕",":"),
-						dic_gn.get(score[i]).toString().replaceAll("\\s*", "") ,
-						dic_lcbx.get(score[i]).toString().replaceAll("\\s*", "") ,
-						dic_zhfx.get(score[i]).toString().replaceAll("\\s*", "") , 
-						dic_lcyy.get(score[i]).toString().replaceAll("\\s*", ""), 
-						dic_zhjb.get(score[i]).toString().replaceAll("\\s*", "")};   
+				tableData[new_count] = new Object[]{new_count + 1, score_code[i], score[i].replace("〔〔〔", "〔"),
+						dic_map.get(score[i]).toString().replace("〔〔〔", "〔"),
+						dic_gn.get(score[i]).toString(),
+						dic_lx.get(score[i]).toString(),
+						dic_by.get(score[i]).toString(),
+						dic_wx.get(score[i]).toString(),
+						dic_bl.get(score[i]).toString(),
+						dic_lc.get(score[i]).toString(),
+						dic_sy.get(score[i]).toString(),
+						dic_zd.get(score[i]).toString(),
+						dic_bf.get(score[i]).toString(),
+						dic_zl.get(score[i]).toString(),
+						dic_jy.get(score[i]).toString(),
+						dic_yh.get(score[i]).toString(),
+						dic_yf.get(score[i]).toString(),
+						dic_yx.get(score[i]).toString()
+				};   
 				newTableModel.insertRow(new_count, tableData[new_count]);
 				new_count+=1;
 			}	
@@ -837,16 +886,18 @@ public class zyzdx extends Container implements MouseListener, KeyListener{
 		public Component getTableCellRendererComponent(JTable table,Object value, boolean isSelected, boolean hasFocus, int row,
 				int column) {
 			if (isSelected && hasFocus && row == table.getSelectedRow() && column == table.getSelectedColumn()) {
+				//2.设置当前Cell的颜色
 				Component c = super.getTableCellRendererComponent(table, value, isSelected, hasFocus, row, column);
-				c.setBackground(Color.CYAN);
-				c.setForeground(Color.gray);
+				c.setBackground(Color.CYAN);//设置背景色
+				c.setForeground(Color.gray);//设置前景色
 				return c;
 			} else {
-				if (row % 3 == 0) {
+				//3.设置单数行，偶数行的颜色
+				if (row % 3 == 0) {//偶数行时的颜色
 					setBackground(new Color(253,233,254));
-				}else if (row % 3 == 1) {
+				}else if (row % 3 == 1) {//设置单数行的颜色
 					setBackground(new Color(233,254,234));
-				}else if (row % 3 == 2) {
+				}else if (row % 3 == 2) {//设置单数行的颜色
 					setBackground(new Color(255,251,232));
 				}
 				return super.getTableCellRendererComponent(table, value,
