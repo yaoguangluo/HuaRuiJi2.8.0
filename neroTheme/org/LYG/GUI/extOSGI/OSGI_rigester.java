@@ -1,5 +1,10 @@
 package org.LYG.GUI.extOSGI;
+import java.awt.FileDialog;
+import java.awt.Frame;
+import java.io.File;
 import java.io.IOException;
+import java.net.URL;
+import java.net.URLClassLoader;
 
 import javax.swing.JTextPane;
 import org.LYG.GUI.OSGI.*;
@@ -51,6 +56,9 @@ import org.LYG.node.sound.lygFilter.lygFilterNodeInterface;
 import org.LYG.node.sound.lygSlaveFilter.lygSlaveFilterInterface;
 import org.LYG.node.sound.wavePlay.wavePlayNodeInterface;
 import org.LYG.node.suggest.read.ReadNodeInterface;
+import org.LYG.sets.stable.StableData;
+
+import comp.filenameFilter.TXTFilter;
 
 public class OSGI_rigester{
 	JTextPane text;
@@ -59,111 +67,156 @@ public class OSGI_rigester{
 		this.text= text;
 		this.tableData_old= tableData_old;
 	}
+	@SuppressWarnings("resource")
 	public NodeOSGI Rigester(NodeOSGI first, LinkOSGI link) throws IOException{
+		String jarCategoryLink= "";	
+		FileDialog filedialog= new FileDialog(new Frame(), StableData.ATTENSION_LOAD_PLUGIN
+				, FileDialog.LOAD);
+		filedialog.setFilenameFilter(new TXTFilter(StableData.FILE_FORMAT_ETL));
+		filedialog.setVisible(true);
+		jarCategoryLink= filedialog.getDirectory();
+		//System.out.println(jarCategoryLink);
+		if(null== jarCategoryLink|| jarCategoryLink.isEmpty()|| jarCategoryLink.contains
+				(StableData.FILE_FORMAT_JAR)) {
+			System.out.println(StableData.ATTENSION_RECHOICE);
+			return first;
+		}
+		File file= new File(jarCategoryLink);
+		if(file.isFile()) {
+			System.out.println(StableData.ATTENSION_FILE_CHOICE);
+			return first;
+		}
+		File[] files= file.listFiles();
+		for(int i= 0; i< files.length; i++) {
+			@SuppressWarnings("deprecation")
+			URLClassLoader loader= new URLClassLoader(new URL[]{ files[i].toURL() });  
+			String filename= files[i].getName().replace(StableData.FILE_FORMAT_JAR
+					, StableData.STRING_EMPTY);
+			String[] columns= filename.split("\\."); 
+			Class<?> myclass= null;
+			try {
+				myclass = loader.loadClass(filename+ "."+ columns[columns.length- 1]
+						+ StableData.NODE_NODE_INTERFACE);
+			} catch (ClassNotFoundException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			Object myobject= null;
+			try {
+				myobject = myclass.newInstance();
+			} catch (InstantiationException | IllegalAccessException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}   
+			ObjectInterface objectInterface= (ObjectInterface) myobject; 
+			first= link.addNode(first, objectInterface);
+		}
 		//×¢²á
 		ObjectInterface XlsReadernode = new XlsReaderNodeInterface();
 		first = link.addNode(first, XlsReadernode);
 
 		ObjectInterface arffTransferNode = new arffTransferNodeInterface();
 		first = link.addNode(first, arffTransferNode);
-		
+
 		ObjectInterface WekaPilot2DNode = new WekaPilot2DNodeInterface();
 		first = link.addNode(first, WekaPilot2DNode);
-		
+
 		ObjectInterface imageReadNode = new imageReadNodeInterface();
 		first = link.addNode(first, imageReadNode);
-		
+
 		ObjectInterface imageStrechNode = new imageStrechNodeInterface();
 		first = link.addNode(first, imageStrechNode);
-		
+
 		ObjectInterface MedianImageNode = new MedianImageNodeInterface();
 		first = link.addNode(first, MedianImageNode);
-		
+
 		ObjectInterface GrayFilterNode = new GrayFilterNodeInterface();
 		first = link.addNode(first, GrayFilterNode);
-				
+
 		ObjectInterface GuassianFilterNode = new GuassianFilterInterface();
 		first = link.addNode(first,	GuassianFilterNode);
-			
+
 		ObjectInterface FindColorRNode = new FindColorRInterface();
 		first = link.addNode(first,	FindColorRNode);
+		
 		ObjectInterface FindColorGNode = new FindColorGInterface();
 		first = link.addNode(first,	FindColorGNode);
+		
 		ObjectInterface FindColorBNode = new FindColorBInterface();
 		first = link.addNode(first,	FindColorBNode);
-		
+
 		ObjectInterface SobelFilterNode = new SobelFilterNodeInterface();
 		first = link.addNode(first,	SobelFilterNode);
-		
+
 		ObjectInterface EmbossFilterNode = new EmbossFilterInterface();
 		first = link.addNode(first,	EmbossFilterNode);
-		
+
 		ObjectInterface LaplacianFilterNode = new LaplacianFilterInterface();
 		first = link.addNode(first,	LaplacianFilterNode);
-		
+
 		ObjectInterface HoughTransformNode = new HoughTransformInterface();
 		first = link.addNode(first, HoughTransformNode);
-		
+
 		ObjectInterface WavReadNode = new WavReadNodeInterface();
 		first = link.addNode(first, WavReadNode);
-		
+
 		ObjectInterface MedianFilterNode = new MedianFilterNodeInterface();
 		first = link.addNode(first, MedianFilterNode);
-		
+
 		ObjectInterface ButterworthFilterNode = new ButterworthFilterNodeInterface();
 		first = link.addNode(first, ButterworthFilterNode);
 
 		ObjectInterface LaplacianWaveFilterNode = new LaplacianFilterNodeInterface();
 		first = link.addNode(first, LaplacianWaveFilterNode);
-		
+
 		ObjectInterface HoughWavFilterNode = new HoughWavFilterNodeInterface();
 		first = link.addNode(first, HoughWavFilterNode);
-		
+
 		ObjectInterface GuassianWav2DFilterNode = new GuassianWav2DFilterNodeInterface();
 		first = link.addNode(first, GuassianWav2DFilterNode);
-		
+
 		ObjectInterface MaxMiniFilterNode = new MaxMiniFilterNodeInterface();
 		first = link.addNode(first, MaxMiniFilterNode);
-		
+
 		ObjectInterface wavePlayNode = new wavePlayNodeInterface();
 		first = link.addNode(first, wavePlayNode);
-		
+
 		ObjectInterface Show3DNode = new Show3DInterface();
 		first = link.addNode(first, Show3DNode);
-		
+
 		ObjectInterface MorphologyFilter = new MorphologyFilterInterface();
 		first = link.addNode(first, MorphologyFilter);
-		
+
 		ObjectInterface LYGReadNode = new LYGReadNodeInterface();
 		first = link.addNode(first, LYGReadNode);
-		
+
 		ObjectInterface LYGWriteNode = new LYGWriteNodeInterface();
 		first = link.addNode(first, LYGWriteNode);
-		
+
 		ObjectInterface MovieTransferNode = new MovieTransferNodeInterface();
 		first = link.addNode(first, MovieTransferNode);
-		
+
 		ObjectInterface AVItoImagesNode = new AVItoLYGNodeInterface();
 		first = link.addNode(first, AVItoImagesNode);
-		
+
 		ObjectInterface LYGPlayerNode = new LYGPlayerNodeInterface();
 		first = link.addNode(first, LYGPlayerNode);
-		
+
 		ObjectInterface FFTFilterNode = new FFTFilterNodeInterface();
 		first = link.addNode(first, FFTFilterNode);
-		
+
 		ObjectInterface freqCountNode = new freqCountNodeInterface();
 		first = link.addNode(first, freqCountNode);
-			
+
 		ObjectInterface lygFilterNode = new lygFilterNodeInterface();
 		first = link.addNode(first, lygFilterNode);
-		
+
 		ObjectInterface lygFilterComp = new ft2DFilterInterface();
 		first = link.addNode(first, lygFilterComp);
 
 		ObjectInterface lygSlave = new lygSlaveFilterInterface();
 		first = link.addNode(first, lygSlave);
-		
+
 		ObjectInterface logFFT = new logFFTInterface();
 		first = link.addNode(first, logFFT);
 
@@ -172,30 +225,30 @@ public class OSGI_rigester{
 
 		ObjectInterface editPanelReader = new EditPanelReaderInterface(this.text);
 		first = link.addNode(first, editPanelReader);
-		
+
 		ObjectInterface editPanelReaderH= new EditPanelReaderHInterface(this.text);
 		first = link.addNode(first, editPanelReaderH); 	
-		
+
 		ObjectInterface addChuFangAttributeH= new AddChuFangAttributeHInterface(this.tableData_old
 				, this.text);
 		first = link.addNode(first,addChuFangAttributeH); 
-		
+
 		ObjectInterface filterChuFangJinJiAttributeH= 
 				new filterChuFangJinJiAttributeHInterface(this.tableData_old, this.text);
 		first = link.addNode(first, filterChuFangJinJiAttributeH); 
-		
+
 		ObjectInterface chuFangWuXingShowHInterface= 
 				new ChuFangWuXingShowHInterface(this.tableData_old, this.text);
 		first = link.addNode(first,chuFangWuXingShowHInterface); 
-		//É¨Ãèjar¡¢¡¢Ìí¼Ójar
+
 		ObjectInterface filterChuFangXingWeiKeyWordsAttributeH= 
 				new filterChuFangXingWeiKeyWordsAttributeHInterface(this.tableData_old, this.text);
 		first = link.addNode(first, filterChuFangXingWeiKeyWordsAttributeH); 
-		
+
 		ObjectInterface filterChuFangJinJiKeyWordsAttributeH= 
 				new filterChuFangJinJiKeyWordsAttributeHInterface(this.tableData_old, this.text);
 		first = link.addNode(first, filterChuFangJinJiKeyWordsAttributeH); 
-		
+
 		ObjectInterface updateToEditPane= 
 				new updateToEditPaneInterface(this.tableData_old, this.text);
 		first = link.addNode(first, updateToEditPane); 
@@ -203,8 +256,7 @@ public class OSGI_rigester{
 		ObjectInterface readNodeInterface= 
 				new ReadNodeInterface(this.tableData_old, this.text);
 		first = link.addNode(first, readNodeInterface); 
-	
+
 		return first;	
 	}
-
 }

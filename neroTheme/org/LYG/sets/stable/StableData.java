@@ -9,6 +9,7 @@ public interface StableData {
 	public static final String ATTENSION_DELETE= "亲，当前ETL流删除的干干净净~";
 	public static final String ATTENSION_LOAD_ENSURE= "再次确认要导入吗？当前已经保存？";
 	public static final String ATTENSION_LOAD_HISTORY= "选择历史档案";
+	public static final String ATTENSION_LOAD_PLUGIN= "选择节点插件资源包";
 	public static final String FILE_FORMAT_ETL= ".etl";
 	public static final String NODE_ADD_ERROR= "节点添加失败~请重试。";
 	public static final String NODE_UPDATE_ERROR= "节点配置失败~请重试。";
@@ -50,4 +51,8 @@ public interface StableData {
 	public static final String yinShiBuJie= "痢疾 腹痛 肠颤 吐泻 便溏";
 	public static final String tiaoShiPianShe= "便秘 腹胀 屁多 腹泻 ";
 	//......
+	public static final String ATTENSION_FILE_CHOICE= "您选择的不是文件夹，请重新选择。";
+	public static final String FILE_FORMAT_JAR= ".jar";
+	public static final String NODE_NODE_INTERFACE= "NodeInterface";
+	public static final String STRING_EMPTY= "";
 }
