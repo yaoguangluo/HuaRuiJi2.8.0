@@ -21,8 +21,8 @@ import javax.swing.event.ChangeListener;
 
 import org.tinos.engine.analysis.Analyzer;
 
-import SP.jp;
 import sample.AppBoot;
+import sound.play.jp;
 import waveProcessor.DFT;
 public class MakeContainerZhiNengShengZhen extends Thread implements Runnable{
 	public Container jpanelFourth;

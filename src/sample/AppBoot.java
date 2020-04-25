@@ -5,7 +5,6 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
-import SP.jp;
 import java.awt.Color;
 import java.awt.Component;
 import java.awt.Font;
@@ -41,12 +40,12 @@ import javax.swing.table.DefaultTableModel;
 import javax.swing.table.JTableHeader;
 import javax.swing.text.BadLocationException;
 
-import org.LYG.sets.stable.StableData;
 import org.deta.tinos.string.StringSwap;
 import org.tinos.engine.analysis.Analyzer;
 import org.tinos.engine.base.translator.Translator;
 import org.tinos.engine.base.translator.imp.TranslatorImp;
 import org.tinos.rest.medicine.RestMedicinePortImpl;
+import org.tinos.sets.stable.StableData;
 import org.tinos.view.obj.Verbal;
 import org.tinos.view.obj.WordFrequency;
 
@@ -70,6 +69,7 @@ import sample.zhong.yi.nei.ke.xue.ZhongYiNeiKeXue;
 import sample.zhong.yi.sheng.zhi.ZhongYiShengZhi;
 import sample.zhong.yi.zhen.duan.xue.ZhongYiZhenDuanXue;
 import sort.Quick6DLYGWithStringSwap;
+import sound.play.jp;
 public class AppBoot extends JApplet implements MouseListener, KeyListener, ActionListener, ChangeListener{	
 	private static final long serialVersionUID= 1L;
 	public int row= 0;

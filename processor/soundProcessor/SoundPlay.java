@@ -8,7 +8,7 @@ import javax.sound.sampled.DataLine;
 import javax.sound.sampled.LineUnavailableException;
 import javax.sound.sampled.SourceDataLine;
 
-import org.LYG.node.sound.wavePlay.jp;
+import org.tinos.node.sound.wave.play.jp;
 
 import movieProcessor.AdataFrame;
 import movieProcessor.LYGFileIO;

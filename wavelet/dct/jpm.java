@@ -8,7 +8,8 @@ import java.awt.Panel;
 import javax.swing.JSlider;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
-import org.LYG.GUI.platForm.UnicornJSplitPane;
+
+import org.tinos.gui.platForm.UnicornJSplitPane;
 public class jpm extends Panel
 {
 	 private static final long serialVersionUID = 1L;

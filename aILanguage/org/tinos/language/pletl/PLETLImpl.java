@@ -2,12 +2,13 @@ package org.tinos.language.pletl;
 import java.io.File;
 import java.util.HashMap;
 import javax.swing.JTextPane;
-import org.LYG.GUI.nodeEdit.LinkList;
-import org.LYG.GUI.nodeEdit.LinkNode;
-import org.LYG.GUI.nodeView.NodeShow;
-import org.LYG.document.load.LoadFile;
-import org.LYG.document.neroCell.BootNeroCell;
-import org.LYG.sets.stable.StableData;
+
+import org.tinos.document.load.LoadFile;
+import org.tinos.document.nero.cell.BootNeroCell;
+import org.tinos.gui.node.edit.LinkList;
+import org.tinos.gui.node.edit.LinkNode;
+import org.tinos.gui.node.view.NodeShow;
+import org.tinos.sets.stable.StableData;
 public class PLETLImpl implements PLETLIntef{
 	@Override
 	public boolean doNeroFlow(JTextPane rightBotJTextPane, NodeShow nodeView, LinkList first

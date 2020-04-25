@@ -6,8 +6,9 @@ import java.io.IOException;
 import java.util.Map;
 import java.util.Vector;
 import javax.swing.JPanel;
-import SP.jp;
-import SP.jpv;
+
+import sound.play.jp;
+import sound.play.jpv;
 import waveProcessor.DFT;
 public class flt extends JPanel{
 	private static final long serialVersionUID = 1L;

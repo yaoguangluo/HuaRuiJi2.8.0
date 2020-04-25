@@ -5,8 +5,9 @@ import javax.swing.ImageIcon;
 import javax.swing.JTabbedPane;
 import javax.swing.JTextPane;
 
-import org.LYG.GUI.Flash.GUISample;
 import org.tinos.engine.analysis.Analyzer;
+import org.tinos.gui.flash.GUISample;
+
 import sample.AppBoot;
 public class MakeContainerShuJuFenXi extends Thread implements Runnable{
 	public Container jpanelSecond;

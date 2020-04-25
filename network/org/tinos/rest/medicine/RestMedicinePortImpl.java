@@ -8,9 +8,9 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-import org.LYG.sets.stable.StableData;
 import org.tinos.engine.base.translator.Translator;
 import org.tinos.engine.base.translator.imp.TranslatorImp;
+import org.tinos.sets.stable.StableData;
 import org.tinos.view.obj.Verbal;
 import org.tinos.view.obj.WordFrequency;
 
