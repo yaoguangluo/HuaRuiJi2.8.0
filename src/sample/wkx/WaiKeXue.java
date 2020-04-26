@@ -37,7 +37,7 @@ import org.tinos.view.stable.StableData;
 
 import sample.AppBoot;
 import sample.TableSorter;
-import sample.wkx.dictionary;
+import sample.wkx.Dictionary;
 import sort.Quick6DLYGWithStringSwap;
 public class WaiKeXue extends Container implements MouseListener, KeyListener{
 	private static final long serialVersionUID = 1L;
@@ -577,7 +577,7 @@ public class WaiKeXue extends Container implements MouseListener, KeyListener{
 
 	@SuppressWarnings({ "serial" })
 	public javax.swing.JTable jTable() throws IOException {  
-		dictionary d=new dictionary();
+		Dictionary d=new Dictionary();
 		dic_list=d.txtToList();
 		dic_map = d.listToMap(dic_list);
 		dic_xj = d.mapToMap_xj(dic_map);

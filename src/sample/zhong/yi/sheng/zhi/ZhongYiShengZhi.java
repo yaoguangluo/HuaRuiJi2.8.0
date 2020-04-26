@@ -543,7 +543,7 @@ public class ZhongYiShengZhi extends Container implements MouseListener, KeyList
 
 	@SuppressWarnings({"serial" })
 	public javax.swing.JTable jTable() throws IOException {  
-		dictionary d = new dictionary();
+		Dictionary d = new Dictionary();
 		dic_list = d.txtToListName();
 		dic_map = d.listNameToMap(dic_list);//.listNameToMap(dic_list);
 		tableData_old = new Object[dic_map.size()][4];

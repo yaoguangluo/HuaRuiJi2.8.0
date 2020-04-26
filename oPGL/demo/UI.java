@@ -1,10 +1,8 @@
 package demo;
 import javax.swing.JFrame;
-import biProcessor.Histogram;
-public class UI
-{  
-    public static void main(String[] args) 
-    {  
+import org.bi.processor.Histogram;
+public class UI{  
+    public static void main(String[] args)  {  
         final Histogram app = new Histogram();  
     	//final OBJTest app = new OBJTest();  
         app.setSize(800, 600);
@@ -16,6 +14,5 @@ public class UI
 		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		f.setSize(500,600);
 		f.setVisible(true);
-	
     }  
 }  

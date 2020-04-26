@@ -2,7 +2,7 @@ package org.deta.boot.controller;
 import java.util.Map;
 
 import org.plsql.stable.StableData;
-import org.plsql.vpc.process.portImpl.RestDBConfigImpl;
+import org.plsql.vpc.process.port.impl.RestDBConfigImpl;
 
 import mapProcessor.VtoV;
 public class ConfigController {

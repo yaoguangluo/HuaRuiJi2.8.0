@@ -28,7 +28,8 @@ import javax.sound.sampled.TargetDataLine;
 import javax.swing.JButton;
 import javax.swing.JPanel;
 import javax.swing.JTextPane;
-import comp.filenameFilter.TXTFilter;
+
+import comp.filename.filter.TXTFilter;
 import comp.jbutton.DetaButton;
 import movieProcessor.LYGFileIO;
 import soundProcessor.SoundPlay;

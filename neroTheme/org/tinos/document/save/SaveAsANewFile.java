@@ -7,7 +7,7 @@ import java.io.FileWriter;
 import org.tinos.gui.node.edit.LinkNode;
 import org.tinos.sets.stable.StableData;
 
-import comp.filenameFilter.TXTFilter;
+import comp.filename.filter.TXTFilter;
 //准备把响应事件移植到这里。
 public class SaveAsANewFile{
 	public static void Save(LinkNode first) {

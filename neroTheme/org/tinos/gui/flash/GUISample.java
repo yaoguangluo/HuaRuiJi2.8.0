@@ -47,7 +47,7 @@ import org.tinos.gui.node.view.NodeShow;
 import org.tinos.gui.platForm.UnicornJSplitPane;
 import org.tinos.sets.stable.StableData;
 
-import comp.filenameFilter.TXTFilter;
+import comp.filename.filter.TXTFilter;
 public class GUISample extends JApplet implements MouseMotionListener
 , MouseListener, ItemListener, ActionListener, Runnable{	
 	private static final long serialVersionUID= 5270675501794340912L;

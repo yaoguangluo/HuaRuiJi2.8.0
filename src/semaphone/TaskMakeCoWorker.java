@@ -1,11 +1,13 @@
 package semaphone;
 import java.awt.Color;
+
 import java.awt.Container;
 import java.awt.HeadlessException;
 import java.util.Map;
 import javax.swing.JScrollPane;
 import org.tinos.engine.analysis.Analyzer;
-import biProcessor.coAuthorForWord;
+
+import org.bi.processor.CoAuthorForWord;
 import sample.AppBoot;
 public class TaskMakeCoWorker extends Thread implements Runnable{
 	public AppBoot u;
@@ -22,7 +24,7 @@ public class TaskMakeCoWorker extends Thread implements Runnable{
 	@Override
 	public void run() {
 		try {
-			u.app = new coAuthorForWord(u, analyzer, pos);
+			u.app = new CoAuthorForWord(u, analyzer, pos);
 		} catch (HeadlessException | InterruptedException e) {
 			e.printStackTrace();
 		}

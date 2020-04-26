@@ -24,24 +24,24 @@ import org.tinos.node.sound.median.filter.MedianFilterNodeInterface;
 import org.tinos.node.sound.wav.read.WavReadNodeInterface;
 import org.tinos.node.sound.wave.play.wavePlayNodeInterface;
 import org.tinos.node.suggest.read.ReadNodeInterface;
-import org.tinos.node.ai.arffTransfer.arffTransferNodeInterface;
+import org.tinos.node.ai.arffTransfer.ArffTransferNodeInterface;
+import org.tinos.node.ai.weka.pilot.second.dimension.WekaPilot2DNodeInterface;
+import org.tinos.node.ai.xls.reader.node.XlsReaderNodeInterface;
 import org.tinos.gui.osgi.*;
-import org.tinos.node.ai.WekaPilot2D.WekaPilot2DNodeInterface;
-import org.tinos.node.ai.XlsReaderNode.XlsReaderNodeInterface;
-import org.tinos.node.image.EmbossFilter.EmbossFilterInterface;
-import org.tinos.node.image.FindColorB.FindColorBInterface;
-import org.tinos.node.image.FindColorG.FindColorGInterface;
-import org.tinos.node.image.FindColorR.FindColorRInterface;
-import org.tinos.node.image.GrayFilter.GrayFilterNodeInterface;
-import org.tinos.node.image.GuassianFilter.GuassianFilterInterface;
-import org.tinos.node.image.HoughTransform.HoughTransformInterface;
-import org.tinos.node.image.LaplacianFilter.LaplacianFilterInterface;
-import org.tinos.node.image.MedianImageFilter.MedianImageNodeInterface;
-import org.tinos.node.image.MorphologyFilter.MorphologyFilterInterface;
-import org.tinos.node.image.Show3D.Show3DInterface;
-import org.tinos.node.image.SobelFilter.SobelFilterNodeInterface;
-import org.tinos.node.image.imageRead.imageReadNodeInterface;
-import org.tinos.node.image.imageStrech.imageStrechNodeInterface;
+import org.tinos.node.image.emboss.filter.EmbossFilterInterface;
+import org.tinos.node.image.find.color.b.FindColorBInterface;
+import org.tinos.node.image.find.color.g.FindColorGInterface;
+import org.tinos.node.image.find.color.r.FindColorRInterface;
+import org.tinos.node.image.gray.filter.GrayFilterNodeInterface;
+import org.tinos.node.image.guassian.filter.GuassianFilterInterface;
+import org.tinos.node.image.hough.transform.HoughTransformInterface;
+import org.tinos.node.image.image.read.imageReadNodeInterface;
+import org.tinos.node.image.image.strech.imageStrechNodeInterface;
+import org.tinos.node.image.laplacian.filter.LaplacianFilterInterface;
+import org.tinos.node.image.median.image.filter.MedianImageNodeInterface;
+import org.tinos.node.image.morphology.filter.MorphologyFilterInterface;
+import org.tinos.node.image.show.third.dimension.Show3DInterface;
+import org.tinos.node.image.sobel.filter.SobelFilterNodeInterface;
 import org.tinos.node.medcine.ChuFangWuXingShow.ChuFangWuXingShowHInterface;
 import org.tinos.node.medcine.addChuFangAttribute.AddChuFangAttributeHInterface;
 import org.tinos.node.medcine.editPaneReader.EditPanelReaderInterface;
@@ -57,7 +57,7 @@ import org.tinos.node.movie.LYGWrite.LYGWriteNodeInterface;
 import org.tinos.node.movie.MovieTransfer.MovieTransferNodeInterface;
 import org.tinos.sets.stable.StableData;
 
-import comp.filenameFilter.TXTFilter;
+import comp.filename.filter.TXTFilter;
 
 public class OSGI_rigester{
 	JTextPane text;
@@ -114,7 +114,7 @@ public class OSGI_rigester{
 		ObjectInterface XlsReadernode = new XlsReaderNodeInterface();
 		first = link.addNode(first, XlsReadernode);
 
-		ObjectInterface arffTransferNode = new arffTransferNodeInterface();
+		ObjectInterface arffTransferNode = new ArffTransferNodeInterface();
 		first = link.addNode(first, arffTransferNode);
 
 		ObjectInterface WekaPilot2DNode = new WekaPilot2DNodeInterface();

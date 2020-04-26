@@ -8,7 +8,7 @@ import MD5Processor.UsrToken;
 import org.json.JSONObject;
 import org.plsql.common.utils.StringUtil;
 import org.plsql.common.utils.TokenUtil;
-import org.plsql.vpc.process.companyImpl.LoginServiceImpl;
+import org.plsql.vpc.process.company.impl.LoginServiceImpl;
 
 import java.util.HashMap;
 import java.util.Map;

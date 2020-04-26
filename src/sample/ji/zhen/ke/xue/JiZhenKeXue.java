@@ -37,7 +37,7 @@ import org.tinos.view.stable.StableData;
 
 import sample.AppBoot;
 import sample.TableSorter;
-import sample.ji.zhen.ke.xue.dictionary;
+import sample.ji.zhen.ke.xue.Dictionary;
 import sort.Quick6DLYGWithStringSwap;
 public class JiZhenKeXue extends Container implements MouseListener, KeyListener{
 	private static final long serialVersionUID = 1L;
@@ -561,7 +561,7 @@ public class JiZhenKeXue extends Container implements MouseListener, KeyListener
 
 	@SuppressWarnings({ "serial" })
 	public javax.swing.JTable jTable() throws IOException {  
-		dictionary d=new dictionary();
+		Dictionary d=new Dictionary();
 		dic_list=d.txtToList();
 		dic_map = d.listToMap(dic_list);
 		dic_gn = d.mapToMap_gn(dic_map);

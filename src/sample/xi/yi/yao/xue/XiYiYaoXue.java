@@ -593,7 +593,7 @@ public class XiYiYaoXue extends Container implements MouseListener, KeyListener{
 
 	@SuppressWarnings({ "serial" })
 	public javax.swing.JTable jTable() throws IOException {  
-		dictionaryFromDB d= new dictionaryFromDB();
+		DictionaryFromDB d= new DictionaryFromDB();
 		dic_yao_ming= new ConcurrentHashMap<>();
 		dic_chengfen_danwei= new ConcurrentHashMap<>();
 		dic_yong_fa= new ConcurrentHashMap<>();

@@ -49,15 +49,14 @@ import org.tinos.sets.stable.StableData;
 import org.tinos.view.obj.Verbal;
 import org.tinos.view.obj.WordFrequency;
 
-import biProcessor.coAuthorForWord;
-import cap.Monitor;
+import org.bi.processor.CoAuthorForWord;import cap.Monitor;
 import comp.jbutton.DetaButton;
 import comp.jtextfield.cfxTextField;
-import comp.jtextpane.cfxTextPane;
+import comp.jtextpane.CfxTextPane;
 import disk.GetDisk;
 import mapProcessor.VtoV;
 import sample.cecil.cecil;
-import sample.editPane.editPane;
+import sample.editPane.EditPane;
 import sample.fu.chan.ke.xue.FuChanKeXue;
 import sample.gu.ji.jing.dian.GuJiJingDian;
 import sample.ji.zhen.ke.xue.JiZhenKeXue;
@@ -83,7 +82,7 @@ public class AppBoot extends JApplet implements MouseListener, KeyListener, Acti
 	public String hint;
 	public AppSearch appSearch;
 	public Analyzer analyzer;
-	public coAuthorForWord app;
+	public CoAuthorForWord app;
 	public Monitor m;
 	public Map<String, String> pos;
 	public Map<String, String> posec;
@@ -114,7 +113,7 @@ public class AppBoot extends JApplet implements MouseListener, KeyListener, Acti
 	public WaiShangKeXue jpanel14;
 	public XiYiYaoXue jpanel15;
 	public cecil jpanel17;
-	public editPane jpanel16;
+	public EditPane jpanel16;
 	public JLabel label0001;
 	public JTextPane data;
 	public JPanel panel_yt;
@@ -214,7 +213,7 @@ public class AppBoot extends JApplet implements MouseListener, KeyListener, Acti
 	}
 
 	public JTextPane data() throws IOException {
-		data= new cfxTextPane("ÄÚÈÝ", 1350, 2980, null);  
+		data= new CfxTextPane("ÄÚÈÝ", 1350, 2980, null);  
 		data.setBounds(850, 150, 1350, 2980);	
 		data.setBackground(Color.white);
 		Box buttonBoxLineTwo= new Box(BoxLayout.X_AXIS);  
@@ -571,7 +570,7 @@ public class AppBoot extends JApplet implements MouseListener, KeyListener, Acti
 	
 	@SuppressWarnings({"serial"})
 	public javax.swing.JTable jTable() throws IOException {
-		dictionaryFromDB d= new dictionaryFromDB();
+		DictionaryFromDB d= new DictionaryFromDB();
 		dic_list= d.txtToList();
 		dic_map= d.listToMap(dic_yw, dic_li, dic_hai, dic_xz, dic_ya, dic_jm
 				, dic_xw, dic_cy, dic_jj, dic_zf, dic_cj, dic_yl);

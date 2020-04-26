@@ -23,7 +23,7 @@ import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 import org.tinos.engine.analysis.Analyzer;
 import cap.Monitor;
-import comp.filenameFilter.TXTFilter;
+import comp.filename.filter.TXTFilter;
 import comp.jbutton.DetaButton;
 import sample.AppBoot;
 import vedio.PlayerControl;

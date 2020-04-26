@@ -4,7 +4,7 @@ import java.util.Map;
 import mapProcessor.VtoV;
 
 import org.plsql.stable.StableData;
-import org.plsql.vpc.process.portImpl.RestDBDeleteImpl;
+import org.plsql.vpc.process.port.impl.RestDBDeleteImpl;
 public class DeleteController {
 	public static String exec(String string, Map<String, String> data)
 			throws Exception {

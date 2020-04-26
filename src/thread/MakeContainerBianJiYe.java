@@ -5,7 +5,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JTabbedPane;
 import org.tinos.engine.analysis.Analyzer;
 import sample.AppBoot;
-import sample.editPane.editPane;
+import sample.editPane.EditPane;
 public class MakeContainerBianJiYe extends Thread implements  Runnable{
 	public Container jpanelSecond;
 	public AppBoot u;
@@ -44,7 +44,7 @@ public class MakeContainerBianJiYe extends Thread implements  Runnable{
 		try {
 			jTabbedpane.validate();
 			Thread.sleep(1000*55);
-			u.jpanel16 = new editPane(u.text, this.analyzer,pos, pose, etc, cte, pinyin, ctk, ctt, ctj, ctr); 	
+			u.jpanel16 = new EditPane(u.text, this.analyzer,pos, pose, etc, cte, pinyin, ctk, ctt, ctj, ctr); 	
 			jTabbedpane.addTab(tabNames[15],new ImageIcon() , u.jpanel16, "编辑页");// 加入第一个页面  
 		//	new restServer(this.u).start();
 			jTabbedpane.validate();
